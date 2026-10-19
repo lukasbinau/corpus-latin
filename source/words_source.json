@@ -1,0 +1,6911 @@
+[
+ {
+  "latin_full": "anterior, anterius",
+  "english_original": "Frontal",
+  "german": "weiter vorne gelegen",
+  "czech": "přední",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w001"
+ },
+ {
+  "latin_full": "posterior, posterius",
+  "english_original": "Back, rear, rearward",
+  "german": "weiter hinten gelegen",
+  "czech": "zadní",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w002"
+ },
+ {
+  "latin_full": "ventralis, e",
+  "english_original": "before/frontal",
+  "german": "zum Bauch gelegen",
+  "czech": "břišní",
+  "sections": [
+   "Retninger og planer",
+   "V"
+  ],
+  "id": "w003"
+ },
+ {
+  "latin_full": "dorsalis, e",
+  "english_original": "back",
+  "german": "zum Rücken gelegen",
+  "czech": "hřbetní",
+  "sections": [
+   "Retninger og planer",
+   "D"
+  ],
+  "id": "w004"
+ },
+ {
+  "latin_full": "superior, superius",
+  "english_original": "higher",
+  "german": "weiter oben",
+  "czech": "horní",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w005"
+ },
+ {
+  "latin_full": "inferior, inferius",
+  "english_original": "lower",
+  "german": "weiter unten",
+  "czech": "dolní",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w006"
+ },
+ {
+  "latin_full": "cranialis, e",
+  "english_original": "relating to the skull/cranium",
+  "german": "kopfwärts",
+  "czech": "situovaný směrem k hlavě, horní",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w007"
+ },
+ {
+  "latin_full": "caudalis, e",
+  "english_original": "posterior",
+  "german": "fußwärts (steißwärts)",
+  "czech": "situovaný směrem k ocasu, dolní",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w008"
+ },
+ {
+  "latin_full": "medialis, e",
+  "english_original": "median/towards the middle",
+  "german": "in der Mitte liegend",
+  "czech": "situovaný blíže středové linii",
+  "sections": [
+   "Retninger og planer",
+   "M"
+  ],
+  "id": "w009"
+ },
+ {
+  "latin_full": "lateralis, e",
+  "english_original": "situated on the side",
+  "german": "seitlich liegend",
+  "czech": "boční, postranní",
+  "sections": [
+   "Retninger og planer",
+   "L"
+  ],
+  "id": "w010"
+ },
+ {
+  "latin_full": "medianus, a, um",
+  "english_original": "middle (between left and right)",
+  "german": "im Median liegend",
+  "czech": "ležící ve střední čáře",
+  "sections": [
+   "Retninger og planer",
+   "M"
+  ],
+  "id": "w011"
+ },
+ {
+  "latin_full": "sagittalis, e",
+  "english_original": "Of or relating to the sagittal plane.",
+  "german": "in der Sagittalebene liegend",
+  "czech": "šípový",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w012"
+ },
+ {
+  "latin_full": "frontalis, e",
+  "english_original": "fronts",
+  "german": "stirnwärts gelegen",
+  "czech": "rovnoběžný s čelem (frons)",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w013"
+ },
+ {
+  "latin_full": "transversalis, e",
+  "english_original": "across/transverse",
+  "german": "quer verlaufend",
+  "czech": "příčný",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w014"
+ },
+ {
+  "latin_full": "palmaris, e",
+  "english_original": "relating to the palm",
+  "german": "zur Handfläche gehörend",
+  "czech": "dlaňový",
+  "sections": [
+   "Retninger og planer",
+   "P"
+  ],
+  "id": "w015"
+ },
+ {
+  "latin_full": "plantaris, e",
+  "english_original": "relating to the sole of the foot",
+  "german": "zur Fußsohle gehörend",
+  "czech": "chodidlový",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w016"
+ },
+ {
+  "latin_full": "proximalis, e",
+  "english_original": "near/nearer to..",
+  "german": "zum Rumpf hin gelegen",
+  "czech": "situovaný na končetině blíže k trupu",
+  "sections": [
+   "Retninger og planer"
+  ],
+  "id": "w017"
+ },
+ {
+  "latin_full": "distalis, e",
+  "english_original": "situated away/periferial",
+  "german": "vom Rumpf weg gelegen",
+  "czech": "situovaný na končetině dále od trupu",
+  "sections": [
+   "Retninger og planer",
+   "D"
+  ],
+  "id": "w018"
+ },
+ {
+  "latin_full": "dexter, tra, trum",
+  "english_original": "right (side)",
+  "german": "rechts",
+  "czech": "pravý",
+  "sections": [
+   "Retninger og planer",
+   "D"
+  ],
+  "id": "w019"
+ },
+ {
+  "latin_full": "sinister, tra, trum",
+  "english_original": "left (side)",
+  "german": "links",
+  "czech": "levý",
+  "sections": [
+   "Retninger og planer",
+   "S"
+  ],
+  "id": "w020"
+ },
+ {
+  "latin_full": "abdomen, inis, n.",
+  "english_original": "abdomen/ stomach",
+  "german": "Bauch",
+  "czech": "břicho",
+  "sections": [
+   "A"
+  ],
+  "id": "w021"
+ },
+ {
+  "latin_full": "abducens, entis",
+  "english_original": "the 6th carnial nerve (?)",
+  "german": "6. Sehnerv",
+  "czech": "odtahující",
+  "sections": [
+   "A"
+  ],
+  "id": "w022"
+ },
+ {
+  "latin_full": "abductor, oris, m.",
+  "english_original": "abductor muscle",
+  "german": "Wegführer, Muskel an der Außenseite des Oberschenkels",
+  "czech": "odtahovač",
+  "sections": [
+   "A"
+  ],
+  "id": "w023"
+ },
+ {
+  "latin_full": "accessorius, a, um",
+  "english_original": "accessory",
+  "german": "zugehörig",
+  "czech": "přídatný",
+  "sections": [
+   "A"
+  ],
+  "id": "w024"
+ },
+ {
+  "latin_full": "acromion, ii, n.",
+  "english_original": "posterior collarbone",
+  "german": "Schulterhöhe, Gräteneck",
+  "czech": "nadpažek",
+  "sections": [
+   "A"
+  ],
+  "id": "w025"
+ },
+ {
+  "latin_full": "acusticus, a, um",
+  "english_original": "opening/part of the ear canal",
+  "german": "Teil des Gehörgangs",
+  "czech": "sluchový",
+  "sections": [
+   "A"
+  ],
+  "id": "w026"
+ },
+ {
+  "latin_full": "acutus, a, um",
+  "english_original": "acute",
+  "german": "akut",
+  "czech": "ostrý, prudký, silný",
+  "sections": [
+   "A"
+  ],
+  "id": "w027"
+ },
+ {
+  "latin_full": "adductor, oris, m.",
+  "english_original": "muscle of the hip (?)",
+  "german": "Heranzieher, Muskel an der Innenseite des Oberschenkels",
+  "czech": "přitahovač",
+  "sections": [
+   "A"
+  ],
+  "id": "w028"
+ },
+ {
+  "latin_full": "adiposus, a, um",
+  "english_original": "tissues",
+  "german": "adipös, dick",
+  "czech": "tukový, tučný",
+  "sections": [
+   "A"
+  ],
+  "id": "w029"
+ },
+ {
+  "latin_full": "aditus, us, m.",
+  "english_original": "access",
+  "german": "Zugang, Eingang",
+  "czech": "vstup, vchod",
+  "sections": [
+   "A"
+  ],
+  "id": "w030"
+ },
+ {
+  "latin_full": "afferens, ntis",
+  "english_original": "bringing/delivering",
+  "german": "hinführend, zuführend",
+  "czech": "přívodný",
+  "sections": [
+   "A"
+  ],
+  "id": "w031"
+ },
+ {
+  "latin_full": "ala, ae, f.",
+  "english_original": "wing (of the nose)",
+  "german": "Flügel",
+  "czech": "křídlo",
+  "sections": [
+   "A"
+  ],
+  "id": "w032"
+ },
+ {
+  "latin_full": "albicans",
+  "english_original": "white",
+  "german": "weiß",
+  "czech": "bělavý, bělostný",
+  "sections": [
+   "A"
+  ],
+  "id": "w033"
+ },
+ {
+  "latin_full": "albugineus, a, um",
+  "english_original": "white/whitish",
+  "german": "weißlich",
+  "czech": "bílý, bělavý",
+  "sections": [
+   "A"
+  ],
+  "id": "w034"
+ },
+ {
+  "latin_full": "albus, a, um",
+  "english_original": "white",
+  "german": "weiß",
+  "czech": "bílý",
+  "sections": [
+   "A"
+  ],
+  "id": "w035"
+ },
+ {
+  "latin_full": "alveolus, i, m.",
+  "english_original": "small vessel , lung cellar",
+  "german": "Lungenbläschen, Zahnfächer",
+  "czech": "malá nádobka, plicní sklípek",
+  "sections": [
+   "A"
+  ],
+  "id": "w036"
+ },
+ {
+  "latin_full": "ambiguus, a, um",
+  "english_original": "ambiguous",
+  "german": "sich nach zwei Seiten neigen",
+  "czech": "dvojitý, nerozhodný",
+  "sections": [
+   "A"
+  ],
+  "id": "w037"
+ },
+ {
+  "latin_full": "ampulla, ae, f.",
+  "english_original": "bottle",
+  "german": "Gefäß, Kolben, Ampulle",
+  "czech": "rozšířená část, pouzdro, nádoba",
+  "sections": [
+   "A"
+  ],
+  "id": "w038"
+ },
+ {
+  "latin_full": "anastomosis, is, f.",
+  "english_original": "connection",
+  "german": "netzartige Verknüpfung von Gefäßen",
+  "czech": "spojení",
+  "sections": [
+   "A"
+  ],
+  "id": "w039"
+ },
+ {
+  "latin_full": "angulus, i, m.",
+  "english_original": "angle",
+  "german": "Winkel",
+  "czech": "úhel",
+  "sections": [
+   "A"
+  ],
+  "id": "w040"
+ },
+ {
+  "latin_full": "ansa, ae, f.",
+  "english_original": "loop",
+  "german": "Schleife, Schlinge",
+  "czech": "smyčka, poutko, klička",
+  "sections": [
+   "A"
+  ],
+  "id": "w041"
+ },
+ {
+  "latin_full": "antebrachium, ii, m.",
+  "english_original": "forearm",
+  "german": "Unterarm",
+  "czech": "předloktí",
+  "sections": [
+   "A"
+  ],
+  "id": "w042"
+ },
+ {
+  "latin_full": "antrum, i, n.",
+  "english_original": "cave",
+  "german": "Höhle",
+  "czech": "jeskyně, dutina",
+  "sections": [
+   "A"
+  ],
+  "id": "w043"
+ },
+ {
+  "latin_full": "anulus, i, m.",
+  "english_original": "ring",
+  "german": "(kleiner) Ring",
+  "czech": "prstenec",
+  "sections": [
+   "A"
+  ],
+  "id": "w044"
+ },
+ {
+  "latin_full": "anus, i, m.",
+  "english_original": "anus",
+  "german": "Ring, After",
+  "czech": "řitní otvor",
+  "sections": [
+   "A"
+  ],
+  "id": "w045"
+ },
+ {
+  "latin_full": "aorta, ae, f.",
+  "english_original": "aorta",
+  "german": "Aorta",
+  "czech": "srdečnice",
+  "sections": [
+   "A"
+  ],
+  "id": "w046"
+ },
+ {
+  "latin_full": "apertura, ae, f.",
+  "english_original": "opening",
+  "german": "Öffnung",
+  "czech": "otvor, vchod",
+  "sections": [
+   "A"
+  ],
+  "id": "w047"
+ },
+ {
+  "latin_full": "apex, apicis, m.",
+  "english_original": "point/tip (of the heart)",
+  "german": "Spitze",
+  "czech": "hrot",
+  "sections": [
+   "A"
+  ],
+  "id": "w048"
+ },
+ {
+  "latin_full": "aponeurosis, is, f.",
+  "english_original": "flat tendon",
+  "german": "flach ausgebreitete Sehne",
+  "czech": "plochá šlacha",
+  "sections": [
+   "A"
+  ],
+  "id": "w049"
+ },
+ {
+  "latin_full": "appendix, icis, f.",
+  "english_original": "appendix",
+  "german": "Anhang, z.B. Wurmfortsatz",
+  "czech": "",
+  "sections": [
+   "A"
+  ],
+  "id": "w050"
+ },
+ {
+  "latin_full": "aquaeductus, us, m.",
+  "english_original": "aqueducts",
+  "german": "Wasserleitung",
+  "czech": "vodovod",
+  "sections": [
+   "A"
+  ],
+  "id": "w051"
+ },
+ {
+  "latin_full": "arachnoidea, eae, f.",
+  "english_original": "arachnoid",
+  "german": "spinnwebartige Hirnhaut",
+  "czech": "pavučnice",
+  "sections": [
+   "A"
+  ],
+  "id": "w052"
+ },
+ {
+  "latin_full": "arcus, us, m.",
+  "english_original": "bow/ arc",
+  "german": "Bogen, Kreisbogen",
+  "czech": "oblouk",
+  "sections": [
+   "A"
+  ],
+  "id": "w053"
+ },
+ {
+  "latin_full": "area, ae, f.",
+  "english_original": "area/ space",
+  "german": "Platz, Region",
+  "czech": "plocha, oblast, místo",
+  "sections": [
+   "A"
+  ],
+  "id": "w054"
+ },
+ {
+  "latin_full": "arteria, ae, f.",
+  "english_original": "artery, blood vessel",
+  "german": "Arterie",
+  "czech": "tepna",
+  "sections": [
+   "A"
+  ],
+  "id": "w055"
+ },
+ {
+  "latin_full": "articulatio, onis, f.",
+  "english_original": "joint",
+  "german": "Gelenk",
+  "czech": "kloub",
+  "sections": [
+   "A"
+  ],
+  "id": "w056"
+ },
+ {
+  "latin_full": "ascendens, ntis",
+  "english_original": "upward",
+  "german": "aufsteigend",
+  "czech": "vzestupný",
+  "sections": [
+   "A"
+  ],
+  "id": "w057"
+ },
+ {
+  "latin_full": "atlas, ntis, m.",
+  "english_original": "first cervical vertebra",
+  "german": "Atlas, 1. Halswirbel",
+  "czech": "první krční obratel",
+  "sections": [
+   "A"
+  ],
+  "id": "w058"
+ },
+ {
+  "latin_full": "atrioventricularis, e",
+  "english_original": "Connecting or involving the atria and the ventricles of the heart.",
+  "german": "zwischen Vorhof und Herzkammer",
+  "czech": "mající vztah k síni a ke komoře",
+  "sections": [
+   "A"
+  ],
+  "id": "w059"
+ },
+ {
+  "latin_full": "atrium, i, n.",
+  "english_original": "atrium (of the heart)",
+  "german": "Vorhof",
+  "czech": "síň, předsíň",
+  "sections": [
+   "A"
+  ],
+  "id": "w060"
+ },
+ {
+  "latin_full": "auditivus, a, um",
+  "english_original": "Of or relating to hearing;",
+  "german": "zum Gehör gehörend",
+  "czech": "sluchový",
+  "sections": [
+   "A"
+  ],
+  "id": "w061"
+ },
+ {
+  "latin_full": "auricula, ae, f.",
+  "english_original": "the ear lobe",
+  "german": "Ohrläppchen",
+  "czech": "ouško, ušní lalůček",
+  "sections": [
+   "A"
+  ],
+  "id": "w062"
+ },
+ {
+  "latin_full": "auris, is, f.",
+  "english_original": "ear",
+  "german": "Ohr",
+  "czech": "ucho, boltec",
+  "sections": [
+   "A"
+  ],
+  "id": "w063"
+ },
+ {
+  "latin_full": "autonomicus, a, um",
+  "english_original": "autonomic",
+  "german": "selbstständig, nach eigenen Gesetzen lebend",
+  "czech": "samostatný, nezávislý",
+  "sections": [
+   "A"
+  ],
+  "id": "w064"
+ },
+ {
+  "latin_full": "axilla, ae, f.",
+  "english_original": "armpit",
+  "german": "Achsel",
+  "czech": "podpažní jáma",
+  "sections": [
+   "A"
+  ],
+  "id": "w065"
+ },
+ {
+  "latin_full": "axis, is, m.",
+  "english_original": "axis/ second cervical vertebra",
+  "german": "Achse / 2. Halswirbel",
+  "czech": "osa, druhý krční obratel",
+  "sections": [
+   "A"
+  ],
+  "id": "w066"
+ },
+ {
+  "latin_full": "azygos (nesklonné)",
+  "english_original": "An unpaired anatomical structure",
+  "german": "unpaar",
+  "czech": "nepárový, lichý",
+  "sections": [
+   "A"
+  ],
+  "id": "w067"
+ },
+ {
+  "latin_full": "basalis, e",
+  "english_original": "part of brain in cortical area",
+  "german": "basal",
+  "czech": "ke spodině",
+  "sections": [
+   "B"
+  ],
+  "id": "w068"
+ },
+ {
+  "latin_full": "basilaris, e",
+  "english_original": "Relating to base",
+  "german": "an der Basis liegend",
+  "czech": "týkající se spodiny lebeční, spodinový",
+  "sections": [
+   "B"
+  ],
+  "id": "w069"
+ },
+ {
+  "latin_full": "basis, is / eos, f.",
+  "english_original": "Base, basic, the lower",
+  "german": "Basis",
+  "czech": "spodina, základ",
+  "sections": [
+   "B"
+  ],
+  "id": "w070"
+ },
+ {
+  "latin_full": "biceps, cipitis, m.",
+  "english_original": "Muscle with 2 heads",
+  "german": "zweiköpfiger Muskel",
+  "czech": "dvouhlavý",
+  "sections": [
+   "B"
+  ],
+  "id": "w071"
+ },
+ {
+  "latin_full": "bifurcatio, onis, f.",
+  "english_original": "Division into branches",
+  "german": "Gabelung",
+  "czech": "rozdvojení",
+  "sections": [
+   "B"
+  ],
+  "id": "w072"
+ },
+ {
+  "latin_full": "biliaris, e",
+  "english_original": "Biliary",
+  "german": "Gallenblase",
+  "czech": "žlučový",
+  "sections": [
+   "B"
+  ],
+  "id": "w073"
+ },
+ {
+  "latin_full": "brachium, ii, n.",
+  "english_original": "Arm",
+  "german": "Arm, Oberarm",
+  "czech": "paže",
+  "sections": [
+   "B"
+  ],
+  "id": "w074"
+ },
+ {
+  "latin_full": "brevis, e",
+  "english_original": "Short, brief",
+  "german": "kurz, klein, schmal",
+  "czech": "krátký",
+  "sections": [
+   "B"
+  ],
+  "id": "w075"
+ },
+ {
+  "latin_full": "bronchialis, e",
+  "english_original": "Relating to the bronchi",
+  "german": "zu den Bronchien gehörig",
+  "czech": "průduškový",
+  "sections": [
+   "B"
+  ],
+  "id": "w076"
+ },
+ {
+  "latin_full": "bronchus, i",
+  "english_original": "Bronchus",
+  "german": "Bronchie",
+  "czech": "průduška",
+  "sections": [
+   "B"
+  ],
+  "id": "w077"
+ },
+ {
+  "latin_full": "bucca, ae, f.",
+  "english_original": "Cheek",
+  "german": "Backe",
+  "czech": "tvář",
+  "sections": [
+   "B"
+  ],
+  "id": "w078"
+ },
+ {
+  "latin_full": "bulbus, i, m.",
+  "english_original": "Bulb",
+  "german": "Anschwellung",
+  "czech": "cibulovité zduření, ztluštění",
+  "sections": [
+   "B"
+  ],
+  "id": "w079"
+ },
+ {
+  "latin_full": "bursa, ae, f.",
+  "english_original": "Small fluid filled sac",
+  "german": "Beutel, Tasche",
+  "czech": "váček, pouzdro",
+  "sections": [
+   "B"
+  ],
+  "id": "w080"
+ },
+ {
+  "latin_full": "caecus, a, um",
+  "english_original": "Blind",
+  "german": "blind",
+  "czech": "slepý",
+  "sections": [
+   "C"
+  ],
+  "id": "w081"
+ },
+ {
+  "latin_full": "calcaneus, ei, m.",
+  "english_original": "heel bone",
+  "german": "Fersenbein",
+  "czech": "patní kost",
+  "sections": [
+   "C"
+  ],
+  "id": "w082"
+ },
+ {
+  "latin_full": "calvaria, ae, f.",
+  "english_original": "Roof of the skull",
+  "german": "Schädeldecke",
+  "czech": "klenba lební",
+  "sections": [
+   "C"
+  ],
+  "id": "w083"
+ },
+ {
+  "latin_full": "camera, ae, f.",
+  "english_original": "A cavity, chamber",
+  "german": "Kammer",
+  "czech": "komora",
+  "sections": [
+   "C"
+  ],
+  "id": "w084"
+ },
+ {
+  "latin_full": "canaliculus, i, m.",
+  "english_original": "Small canal or channel",
+  "german": "kleiner Kanal",
+  "czech": "kanálek",
+  "sections": [
+   "C"
+  ],
+  "id": "w085"
+ },
+ {
+  "latin_full": "canalis, is, m.",
+  "english_original": "Canal, channel",
+  "german": "Kanal",
+  "czech": "kanál (trubice)",
+  "sections": [
+   "C"
+  ],
+  "id": "w086"
+ },
+ {
+  "latin_full": "capitulum, i, n.",
+  "english_original": "Header",
+  "german": "Köpfchen",
+  "czech": "hlavička",
+  "sections": [
+   "C"
+  ],
+  "id": "w087"
+ },
+ {
+  "latin_full": "capsula, ae, f.",
+  "english_original": "Capsule",
+  "german": "Kapsel",
+  "czech": "pouzdro, obal",
+  "sections": [
+   "C"
+  ],
+  "id": "w088"
+ },
+ {
+  "latin_full": "caput, pitis, n.",
+  "english_original": "Head",
+  "german": "Kopf",
+  "czech": "hlava",
+  "sections": [
+   "C"
+  ],
+  "id": "w089"
+ },
+ {
+  "latin_full": "cardia, ae, f.",
+  "english_original": "The cardiac opening",
+  "german": "Kardia",
+  "czech": "1. česlo, ústí, 2. srdce (řecky)",
+  "sections": [
+   "C"
+  ],
+  "id": "w090"
+ },
+ {
+  "latin_full": "carotis, idis, f.",
+  "english_original": "Carotid artery",
+  "german": "Carotis (Halsarterie)",
+  "czech": "krční tepna",
+  "sections": [
+   "C"
+  ],
+  "id": "w091"
+ },
+ {
+  "latin_full": "carpus, i, m.",
+  "english_original": "bones that make up the wrist",
+  "german": "Handwurzel",
+  "czech": "zápěstí",
+  "sections": [
+   "C"
+  ],
+  "id": "w092"
+ },
+ {
+  "latin_full": "cartilago, inis, f.",
+  "english_original": "Cartillage",
+  "german": "Knorpel",
+  "czech": "chrupavka",
+  "sections": [
+   "C"
+  ],
+  "id": "w093"
+ },
+ {
+  "latin_full": "caruncula, ae, f.",
+  "english_original": "Bump, soft excrescences",
+  "german": "fleischiger Auswuchs",
+  "czech": "hrbolek, měkký výrůstek",
+  "sections": [
+   "C"
+  ],
+  "id": "w094"
+ },
+ {
+  "latin_full": "cauda, ae, f.",
+  "english_original": "Tail or tail like",
+  "german": "Schwanz",
+  "czech": "ocas",
+  "sections": [
+   "C"
+  ],
+  "id": "w095"
+ },
+ {
+  "latin_full": "cavernosus, a, um",
+  "english_original": "Cavitary",
+  "german": "höhlenartig",
+  "czech": "prostoupený dutinami",
+  "sections": [
+   "C"
+  ],
+  "id": "w096"
+ },
+ {
+  "latin_full": "cavum, i, n.",
+  "english_original": "Cavity",
+  "german": "Höhle",
+  "czech": "dutina",
+  "sections": [
+   "C"
+  ],
+  "id": "w097"
+ },
+ {
+  "latin_full": "cavitas, atis, f.",
+  "english_original": "Space, hollow, cavity",
+  "german": "Hohlraum",
+  "czech": "dutina",
+  "sections": [
+   "C"
+  ],
+  "id": "w098"
+ },
+ {
+  "latin_full": "cellula, ae, f.",
+  "english_original": "Cell",
+  "german": "Zelle",
+  "czech": "buňka",
+  "sections": [
+   "C"
+  ],
+  "id": "w099"
+ },
+ {
+  "latin_full": "cephalicus, a, um",
+  "english_original": "Located on, in or near the head",
+  "german": "Kopf-",
+  "czech": "hlavový",
+  "sections": [
+   "C"
+  ],
+  "id": "w100"
+ },
+ {
+  "latin_full": "cerebellum, i, n.",
+  "english_original": "The little brain",
+  "german": "Kleinhirn",
+  "czech": "mozeček",
+  "sections": [
+   "C"
+  ],
+  "id": "w101"
+ },
+ {
+  "latin_full": "cerebrum, i, n.",
+  "english_original": "The main portion of the brain",
+  "german": "Großhirn",
+  "czech": "mozek",
+  "sections": [
+   "C"
+  ],
+  "id": "w102"
+ },
+ {
+  "latin_full": "cerumen, inis, n.",
+  "english_original": "Ear wax",
+  "german": "Ohrenschmalz",
+  "czech": "ušní maz",
+  "sections": [
+   "C"
+  ],
+  "id": "w103"
+ },
+ {
+  "latin_full": "cervicalis, e",
+  "english_original": "Relating to a neck/cervix",
+  "german": "zum Hals gehörig",
+  "czech": "krční",
+  "sections": [
+   "C"
+  ],
+  "id": "w104"
+ },
+ {
+  "latin_full": "cervix, icis, f.",
+  "english_original": "Neck",
+  "german": "Hals",
+  "czech": "krk, šíje",
+  "sections": [
+   "C"
+  ],
+  "id": "w105"
+ },
+ {
+  "latin_full": "ciliaris, e",
+  "english_original": "A smooth muscle in the eyeball",
+  "german": "Ziliarmuskel",
+  "czech": "řasový, řasnatý",
+  "sections": [
+   "C"
+  ],
+  "id": "w106"
+ },
+ {
+  "latin_full": "circulus, i, m.",
+  "english_original": "A ring like, or circular structure",
+  "german": "Kreis",
+  "czech": "kruh, kroužek",
+  "sections": [
+   "C"
+  ],
+  "id": "w107"
+ },
+ {
+  "latin_full": "circumferentia, ae, f.",
+  "english_original": "Circumference",
+  "german": "Umkreis",
+  "czech": "obvod",
+  "sections": [
+   "C"
+  ],
+  "id": "w108"
+ },
+ {
+  "latin_full": "circumflexus, a, um",
+  "english_original": "Bent (like a bow)",
+  "german": "rings um etwas gezogen",
+  "czech": "ohnutý, zatočený",
+  "sections": [
+   "C"
+  ],
+  "id": "w109"
+ },
+ {
+  "latin_full": "cisterna, ae, f.",
+  "english_original": "Tank ???",
+  "german": "Zisterne, Flüssigkeitsreservoir",
+  "czech": "cisterna",
+  "sections": [
+   "C"
+  ],
+  "id": "w110"
+ },
+ {
+  "latin_full": "claustrum, i, n.",
+  "english_original": "A barrier /membrane that partly closes an aperture",
+  "german": "Schranke, Verschleiß",
+  "czech": "zámek, závora, jedno z bazálních ganglií",
+  "sections": [
+   "C"
+  ],
+  "id": "w111"
+ },
+ {
+  "latin_full": "clavicula, ae, f.",
+  "english_original": "Collarbones",
+  "german": "Schlüsselbein",
+  "czech": "klíční kost",
+  "sections": [
+   "C"
+  ],
+  "id": "w112"
+ },
+ {
+  "latin_full": "clivus, i, m",
+  "english_original": "Slope, rise",
+  "german": "Hügel",
+  "czech": "pahorek, svah",
+  "sections": [
+   "C"
+  ],
+  "id": "w113"
+ },
+ {
+  "latin_full": "clitoris, idis, f.",
+  "english_original": "Clitoris",
+  "german": "Klitoris",
+  "czech": "poštěváček",
+  "sections": [
+   "C"
+  ],
+  "id": "w114"
+ },
+ {
+  "latin_full": "clunis, is, m.",
+  "english_original": "Buttock",
+  "german": "Hinterbacken",
+  "czech": "hýždě",
+  "sections": [
+   "C"
+  ],
+  "id": "w115"
+ },
+ {
+  "latin_full": "coccygeus, a, um",
+  "english_original": "Muscle of pelvic floor",
+  "german": "Steißbein",
+  "czech": "patřící ke kostrči",
+  "sections": [
+   "C"
+  ],
+  "id": "w116"
+ },
+ {
+  "latin_full": "cochlea, ae, f.",
+  "english_original": "The spiral shaped cavity of the inner ear - snail shell",
+  "german": "Schnecke",
+  "czech": "hlemýžď",
+  "sections": [
+   "C"
+  ],
+  "id": "w117"
+ },
+ {
+  "latin_full": "coeliacus, a, um",
+  "english_original": "Belonging to the abdominal cavity",
+  "german": "zur Bauchhöhle gehörig",
+  "czech": "patřící k břišní dutině",
+  "sections": [
+   "C"
+  ],
+  "id": "w118"
+ },
+ {
+  "latin_full": "collateralis, is, e",
+  "english_original": "Side, lateral",
+  "german": "seitlich",
+  "czech": "boční, postranní",
+  "sections": [
+   "C"
+  ],
+  "id": "w119"
+ },
+ {
+  "latin_full": "colliculus, i,",
+  "english_original": "A small elevation",
+  "german": "Hügelchen",
+  "czech": "pahorek, hrbolek",
+  "sections": [
+   "C"
+  ],
+  "id": "w120"
+ },
+ {
+  "latin_full": "collum, i, n.",
+  "english_original": "Neck, cervix",
+  "german": "Hals",
+  "czech": "krk, krček",
+  "sections": [
+   "C"
+  ],
+  "id": "w121"
+ },
+ {
+  "latin_full": "colon, i, n.",
+  "english_original": "Colon",
+  "german": "Dickdarm",
+  "czech": "tračník",
+  "sections": [
+   "C"
+  ],
+  "id": "w122"
+ },
+ {
+  "latin_full": "columna, ae, f.",
+  "english_original": "Column, elongated structure",
+  "german": "Säule",
+  "czech": "sloupec",
+  "sections": [
+   "C"
+  ],
+  "id": "w123"
+ },
+ {
+  "latin_full": "commissura, ae, f.",
+  "english_original": "Patch, point of joining /connection",
+  "german": "Verbindung",
+  "czech": "spojení",
+  "sections": [
+   "C"
+  ],
+  "id": "w124"
+ },
+ {
+  "latin_full": "communis, e",
+  "english_original": "General",
+  "german": "gemeinsam",
+  "czech": "společný",
+  "sections": [
+   "C"
+  ],
+  "id": "w125"
+ },
+ {
+  "latin_full": "communicans, ntis",
+  "english_original": "Communication",
+  "german": "Kommunikation",
+  "czech": "spojující",
+  "sections": [
+   "C"
+  ],
+  "id": "w126"
+ },
+ {
+  "latin_full": "condylus, i, m.",
+  "english_original": "Condyle, the round edge of the bone",
+  "german": "Gelenkkopf, Knöchel",
+  "czech": "hrbol nesoucí kloubní plochu",
+  "sections": [
+   "C"
+  ],
+  "id": "w127"
+ },
+ {
+  "latin_full": "conjunctivus, a, um",
+  "english_original": "Joined , connective",
+  "german": "verbindend",
+  "czech": "spojující",
+  "sections": [
+   "C"
+  ],
+  "id": "w128"
+ },
+ {
+  "latin_full": "constrictor, oris m.",
+  "english_original": "Sphincter",
+  "german": "Verengung",
+  "czech": "svěrač",
+  "sections": [
+   "C"
+  ],
+  "id": "w129"
+ },
+ {
+  "latin_full": "cor, cordis, n.",
+  "english_original": "Heart",
+  "german": "Herz",
+  "czech": "srdce",
+  "sections": [
+   "C"
+  ],
+  "id": "w130"
+ },
+ {
+  "latin_full": "coracoideus, ea, eum",
+  "english_original": "Shoulder ligament",
+  "german": "Rabenschnabelfortsatz",
+  "czech": "zobcovitý",
+  "sections": [
+   "C"
+  ],
+  "id": "w131"
+ },
+ {
+  "latin_full": "corium, ii, n.",
+  "english_original": "Dermis",
+  "german": "Lederhaut",
+  "czech": "škára",
+  "sections": [
+   "C"
+  ],
+  "id": "w132"
+ },
+ {
+  "latin_full": "cornea, ae, f.",
+  "english_original": "Cornea",
+  "german": "Hornhaut des Auges",
+  "czech": "rohovka",
+  "sections": [
+   "C"
+  ],
+  "id": "w133"
+ },
+ {
+  "latin_full": "cornu, us, n.",
+  "english_original": "Horn, corner, angle",
+  "german": "Horn",
+  "czech": "roh",
+  "sections": [
+   "C"
+  ],
+  "id": "w134"
+ },
+ {
+  "latin_full": "corona, ae, f.",
+  "english_original": "Crown",
+  "german": "Kranz",
+  "czech": "věnec, koruna",
+  "sections": [
+   "C"
+  ],
+  "id": "w135"
+ },
+ {
+  "latin_full": "coronalis, e",
+  "english_original": "Coronal",
+  "german": "kranzförmig",
+  "czech": "věnčitý",
+  "sections": [
+   "C"
+  ],
+  "id": "w136"
+ },
+ {
+  "latin_full": "coronoideus, a, um",
+  "english_original": "Circular",
+  "german": "koronal",
+  "czech": "kruhovitý",
+  "sections": [
+   "C"
+  ],
+  "id": "w137"
+ },
+ {
+  "latin_full": "corpus, oris, n.",
+  "english_original": "body, corpus",
+  "german": "Körper",
+  "czech": "tělo",
+  "sections": [
+   "C"
+  ],
+  "id": "w138"
+ },
+ {
+  "latin_full": "cortex, icis m.",
+  "english_original": "crust, cortex",
+  "german": "Rinde",
+  "czech": "kůra, slupka",
+  "sections": [
+   "C"
+  ],
+  "id": "w139"
+ },
+ {
+  "latin_full": "costa, ae, f.",
+  "english_original": "rib",
+  "german": "Rippe",
+  "czech": "žebro",
+  "sections": [
+   "C"
+  ],
+  "id": "w140"
+ },
+ {
+  "latin_full": "coxa, ae, f.",
+  "english_original": "hip, coxa",
+  "german": "Hüfte",
+  "czech": "kyčel",
+  "sections": [
+   "C"
+  ],
+  "id": "w141"
+ },
+ {
+  "latin_full": "cranium, ii, n.",
+  "english_original": "skull",
+  "german": "Schädel",
+  "czech": "lebka",
+  "sections": [
+   "C"
+  ],
+  "id": "w142"
+ },
+ {
+  "latin_full": "crassus, a, um",
+  "english_original": "fat, bold",
+  "german": "dick",
+  "czech": "tučný, tlustý, silný",
+  "sections": [
+   "C"
+  ],
+  "id": "w143"
+ },
+ {
+  "latin_full": "cricoideus, a, um",
+  "english_original": "???",
+  "german": "ringförmig",
+  "czech": "prstenčitý",
+  "sections": [
+   "C"
+  ],
+  "id": "w144"
+ },
+ {
+  "latin_full": "crista, ae, f.",
+  "english_original": "edge, rim",
+  "german": "Leiste, Kamm",
+  "czech": "hrana, hřeben, lišta",
+  "sections": [
+   "C"
+  ],
+  "id": "w145"
+ },
+ {
+  "latin_full": "crus, ris, n.",
+  "english_original": "Leg",
+  "german": "Unterschenkel",
+  "czech": "bérec",
+  "sections": [
+   "C"
+  ],
+  "id": "w146"
+ },
+ {
+  "latin_full": "cubitus, i, m.",
+  "english_original": "elbow",
+  "german": "Ellbogen",
+  "czech": "loket",
+  "sections": [
+   "C"
+  ],
+  "id": "w147"
+ },
+ {
+  "latin_full": "cuboideus, a, um",
+  "english_original": "Cubic",
+  "german": "würfelförmig",
+  "czech": "krychlový",
+  "sections": [
+   "C"
+  ],
+  "id": "w148"
+ },
+ {
+  "latin_full": "cuneiformis, e",
+  "english_original": "bone in feet",
+  "german": "keilförmig",
+  "czech": "klínovitý",
+  "sections": [
+   "C"
+  ],
+  "id": "w149"
+ },
+ {
+  "latin_full": "cupula, ae, f.",
+  "english_original": "Dome shape cap",
+  "german": "Kuppel",
+  "czech": "kopule, klenba",
+  "sections": [
+   "C"
+  ],
+  "id": "w150"
+ },
+ {
+  "latin_full": "curvatura, ae, f.",
+  "english_original": "Bent",
+  "german": "Krümmung",
+  "czech": "zakřivení, ohnutí",
+  "sections": [
+   "C"
+  ],
+  "id": "w151"
+ },
+ {
+  "latin_full": "cuspis, idis, f.",
+  "english_original": "Apex",
+  "german": "Spitze, Herzklappenzipfel",
+  "czech": "cíp, hrot",
+  "sections": [
+   "C"
+  ],
+  "id": "w152"
+ },
+ {
+  "latin_full": "cutaneus, a, um",
+  "english_original": "Cutaneous - skin layer",
+  "german": "zur Haut gehörig",
+  "czech": "kožní",
+  "sections": [
+   "C"
+  ],
+  "id": "w153"
+ },
+ {
+  "latin_full": "cutis, is, f.",
+  "english_original": "skin",
+  "german": "Haut (Epidermis und Dermis)",
+  "czech": "kůže",
+  "sections": [
+   "C"
+  ],
+  "id": "w154"
+ },
+ {
+  "latin_full": "cysticus, a, um",
+  "english_original": "Belonging to the cavity",
+  "german": "zur Blase gehörig",
+  "czech": "měchýřovitý, patřící k dutině",
+  "sections": [
+   "C"
+  ],
+  "id": "w155"
+ },
+ {
+  "latin_full": "decussatio, onis, f.",
+  "english_original": "an X shape crossing",
+  "german": "Kreuzung",
+  "czech": "zkřížení",
+  "sections": [
+   "D"
+  ],
+  "id": "w156"
+ },
+ {
+  "latin_full": "deferens, entis",
+  "english_original": "carrying down/away, showing defernce",
+  "german": "hinabführend",
+  "czech": "odvádějící, odnášející",
+  "sections": [
+   "D"
+  ],
+  "id": "w157"
+ },
+ {
+  "latin_full": "dens, ntis, m.",
+  "english_original": "tooth",
+  "german": "Zahn",
+  "czech": "zub",
+  "sections": [
+   "D"
+  ],
+  "id": "w158"
+ },
+ {
+  "latin_full": "descendens, entis",
+  "english_original": "descending",
+  "german": "absteigend",
+  "czech": "sestupující",
+  "sections": [
+   "D"
+  ],
+  "id": "w159"
+ },
+ {
+  "latin_full": "diaphragma, atis, n.",
+  "english_original": "diaphragm",
+  "german": "Zwerchfell",
+  "czech": "bránice, přepážka",
+  "sections": [
+   "D"
+  ],
+  "id": "w160"
+ },
+ {
+  "latin_full": "diaphysis, is / eos, f.",
+  "english_original": "main/mid section of a long bone",
+  "german": "Mittelstück der Röhrenknochen",
+  "czech": "střední část dlouhé kosti",
+  "sections": [
+   "D"
+  ],
+  "id": "w161"
+ },
+ {
+  "latin_full": "diencephalon, i, n.",
+  "english_original": "???",
+  "german": "Zwischenhirn",
+  "czech": "mezimozek",
+  "sections": [
+   "D"
+  ],
+  "id": "w162"
+ },
+ {
+  "latin_full": "digastricus, i, m.",
+  "english_original": "a small, 2 bellis muscle, located under the jaw",
+  "german": "Muskel des Kopfes mit zwei Bäuchen",
+  "czech": "ze dvou bříšek",
+  "sections": [
+   "D"
+  ],
+  "id": "w163"
+ },
+ {
+  "latin_full": "digitalis, e",
+  "english_original": "finger",
+  "german": "zum Finger hin",
+  "czech": "prstový",
+  "sections": [
+   "D"
+  ],
+  "id": "w164"
+ },
+ {
+  "latin_full": "digitus, i, m.",
+  "english_original": "finger",
+  "german": "Finger",
+  "czech": "prst",
+  "sections": [
+   "D"
+  ],
+  "id": "w165"
+ },
+ {
+  "latin_full": "dorsum, i, n.",
+  "english_original": "back",
+  "german": "Rücken",
+  "czech": "hřbet, záda",
+  "sections": [
+   "D"
+  ],
+  "id": "w166"
+ },
+ {
+  "latin_full": "ductus, us, m.",
+  "english_original": "outlet, duct (channel)",
+  "german": "Gang",
+  "czech": "vývod, dučej, (kanál)",
+  "sections": [
+   "D"
+  ],
+  "id": "w167"
+ },
+ {
+  "latin_full": "durus, a, um",
+  "english_original": "hard, firm",
+  "german": "hart",
+  "czech": "tvrdý, pevný, tuhý",
+  "sections": [
+   "D"
+  ],
+  "id": "w168"
+ },
+ {
+  "latin_full": "duodenum, i, n.",
+  "english_original": "duodenum",
+  "german": "Zwölffingerdarm",
+  "czech": "dvanáctník",
+  "sections": [
+   "D"
+  ],
+  "id": "w169"
+ },
+ {
+  "latin_full": "efferens, entis",
+  "english_original": "directed away from a central organ/section",
+  "german": "herausführend",
+  "czech": "odvodný, vývodný",
+  "sections": [
+   "E"
+  ],
+  "id": "w170"
+ },
+ {
+  "latin_full": "eminentia, ae, f.",
+  "english_original": "elevation",
+  "german": "Vorragung, Erhöhung",
+  "czech": "vyvýšenina",
+  "sections": [
+   "E"
+  ],
+  "id": "w171"
+ },
+ {
+  "latin_full": "emissarium, ii, n.",
+  "english_original": "the emissary vein (located in the skull)",
+  "german": "Abflussrohr",
+  "czech": "odtokový kanál",
+  "sections": [
+   "E"
+  ],
+  "id": "w172"
+ },
+ {
+  "latin_full": "enamelum, i, n.",
+  "english_original": "enamel",
+  "german": "Zahnschmelz",
+  "czech": "sklovina",
+  "sections": [
+   "E"
+  ],
+  "id": "w173"
+ },
+ {
+  "latin_full": "encephalon, i, n.",
+  "english_original": "brain",
+  "german": "Gehirn",
+  "czech": "mozek",
+  "sections": [
+   "E"
+  ],
+  "id": "w174"
+ },
+ {
+  "latin_full": "endometrium, ii, n.",
+  "english_original": "the lining of the uterus",
+  "german": "Gebärmutterschleimhaut",
+  "czech": "sliznice dělohy",
+  "sections": [
+   "E"
+  ],
+  "id": "w175"
+ },
+ {
+  "latin_full": "entericus, a, um",
+  "english_original": "intestinal",
+  "german": "Darm",
+  "czech": "střevní",
+  "sections": [
+   "E"
+  ],
+  "id": "w176"
+ },
+ {
+  "latin_full": "epidermis, idis, f.",
+  "english_original": "outer layer of the skin",
+  "german": "Epidermis, Oberhaut",
+  "czech": "pokožka",
+  "sections": [
+   "E"
+  ],
+  "id": "w177"
+ },
+ {
+  "latin_full": "epididymis, dis, f.",
+  "english_original": "long and narrow tube that lead from the testical",
+  "german": "Nebenhoden",
+  "czech": "nadvarle",
+  "sections": [
+   "E"
+  ],
+  "id": "w178"
+ },
+ {
+  "latin_full": "epiduralis, e",
+  "english_original": "located on/over the dura matter",
+  "german": "innerhalb der Dura liegende Raum",
+  "czech": "ležící nad tvrdou plenou",
+  "sections": [
+   "E"
+  ],
+  "id": "w179"
+ },
+ {
+  "latin_full": "epigastricus,a, um",
+  "english_original": "epigastric",
+  "german": "im Oberbauch liegend",
+  "czech": "nacházející se nad žaludkem, patřící k břišní stěně",
+  "sections": [
+   "E"
+  ],
+  "id": "w180"
+ },
+ {
+  "latin_full": "epigastrium, i, n.",
+  "english_original": "the upper middle region of the abdomen",
+  "german": "Oberbauch, Magengrube",
+  "czech": "nadbřišek",
+  "sections": [
+   "E"
+  ],
+  "id": "w181"
+ },
+ {
+  "latin_full": "epiglotticus, a, um",
+  "english_original": "relating to the epiglottis",
+  "german": "zum Kehldeckel gehörend",
+  "czech": "patřící k hrtanové příklopce",
+  "sections": [
+   "E"
+  ],
+  "id": "w182"
+ },
+ {
+  "latin_full": "epiglottis, idis, f.",
+  "english_original": "epiglottis",
+  "german": "Kehldeckel",
+  "czech": "příklopka hrtanová",
+  "sections": [
+   "E"
+  ],
+  "id": "w183"
+ },
+ {
+  "latin_full": "epiphysis, is / eos, f.",
+  "english_original": "the end of a long bone",
+  "german": "End- oder Gelenkstück der Röhrenknochen",
+  "czech": "1. šišinka, 2. samostatně osifikující konec dlouhé kosti",
+  "sections": [
+   "E"
+  ],
+  "id": "w184"
+ },
+ {
+  "latin_full": "equinus, a, um",
+  "english_original": "",
+  "german": "Pferde-",
+  "czech": "koňský",
+  "sections": [
+   "E"
+  ],
+  "id": "w185"
+ },
+ {
+  "latin_full": "erector, oris, m.",
+  "english_original": "a structure that erects",
+  "german": "Muskel, der etwas (Kopf) aufrecht hält",
+  "czech": "vzpřimovač",
+  "sections": [
+   "E"
+  ],
+  "id": "w186"
+ },
+ {
+  "latin_full": "ethmoidalis, e",
+  "english_original": "sinus, olfactory",
+  "german": "zum Siebbein gehörig",
+  "czech": "čichový",
+  "sections": [
+   "E"
+  ],
+  "id": "w187"
+ },
+ {
+  "latin_full": "eversio, onis, f.",
+  "english_original": "destraction",
+  "german": "Abtragung",
+  "czech": "everze, obrácení, převrácení (směrem ven)",
+  "sections": [
+   "E"
+  ],
+  "id": "w188"
+ },
+ {
+  "latin_full": "excavatio, onis, f.",
+  "english_original": "displacement, drawing out, depression",
+  "german": "Spaltraum zwischen anderen Gewebestrukturen",
+  "czech": "prohlubeň, vyhloubení",
+  "sections": [
+   "E"
+  ],
+  "id": "w189"
+ },
+ {
+  "latin_full": "extensor, oris, m.",
+  "english_original": "extensor (muscle)",
+  "german": "Strecker",
+  "czech": "natahovač (sval)",
+  "sections": [
+   "E"
+  ],
+  "id": "w190"
+ },
+ {
+  "latin_full": "externus, a, um",
+  "english_original": "external",
+  "german": "außen liegend",
+  "czech": "zevní",
+  "sections": [
+   "E"
+  ],
+  "id": "w191"
+ },
+ {
+  "latin_full": "extremitas, atis, f.",
+  "english_original": "extremity",
+  "german": "Extremitäten, Gliedmaßen",
+  "czech": "úd, končetina, nejkrajnější bod",
+  "sections": [
+   "E"
+  ],
+  "id": "w192"
+ },
+ {
+  "latin_full": "facialis, e",
+  "english_original": "Of, or concerning the face",
+  "german": "zum Gesicht gehörig",
+  "czech": "lícní",
+  "sections": [
+   "F"
+  ],
+  "id": "w193"
+ },
+ {
+  "latin_full": "facies, ei, f.",
+  "english_original": "General appearance, expression of the face",
+  "german": "Gesicht",
+  "czech": "tvář, plocha kosti",
+  "sections": [
+   "F"
+  ],
+  "id": "w194"
+ },
+ {
+  "latin_full": "falciformis, e",
+  "english_original": "???",
+  "german": "sichelförmig",
+  "czech": "srpovitý",
+  "sections": [
+   "F"
+  ],
+  "id": "w195"
+ },
+ {
+  "latin_full": "falx, cis f.",
+  "english_original": "A sickle shaped structure",
+  "german": "Sichel",
+  "czech": "srp",
+  "sections": [
+   "F"
+  ],
+  "id": "w196"
+ },
+ {
+  "latin_full": "fascia, ae, f.",
+  "english_original": "A sickle shaped structure",
+  "german": "Band, Binde",
+  "czech": "povázka",
+  "sections": [
+   "F"
+  ],
+  "id": "w197"
+ },
+ {
+  "latin_full": "fasciculus, i, m.",
+  "english_original": "Bundle of anatomical fibers",
+  "german": "Bündel",
+  "czech": "svazek",
+  "sections": [
+   "F"
+  ],
+  "id": "w198"
+ },
+ {
+  "latin_full": "fauces, ium, f. (plurál)",
+  "english_original": "Throat",
+  "german": "Schlundenge",
+  "czech": "hltan, chřtán",
+  "sections": [
+   "F"
+  ],
+  "id": "w199"
+ },
+ {
+  "latin_full": "fel, llis, n.",
+  "english_original": "Bile",
+  "german": "Galle",
+  "czech": "žluč",
+  "sections": [
+   "F"
+  ],
+  "id": "w200"
+ },
+ {
+  "latin_full": "felleus, ea, eum",
+  "english_original": "Bile",
+  "german": "zur Galle gehörig",
+  "czech": "žlučový",
+  "sections": [
+   "F"
+  ],
+  "id": "w201"
+ },
+ {
+  "latin_full": "femur, oris, n.",
+  "english_original": "thigh, the thigh bone",
+  "german": "Oberschenkel",
+  "czech": "stehno",
+  "sections": [
+   "F"
+  ],
+  "id": "w202"
+ },
+ {
+  "latin_full": "fenestra, ae, f.",
+  "english_original": "A small anatomical opening",
+  "german": "Fenster",
+  "czech": "okno, otvor",
+  "sections": [
+   "F"
+  ],
+  "id": "w203"
+ },
+ {
+  "latin_full": "fibra, ae, f.",
+  "english_original": "Fiber",
+  "german": "Faser",
+  "czech": "vlákno",
+  "sections": [
+   "F"
+  ],
+  "id": "w204"
+ },
+ {
+  "latin_full": "fibrosus, a, um",
+  "english_original": "Fibrous, made of fiber",
+  "german": "faserartig",
+  "czech": "vláknitý",
+  "sections": [
+   "F"
+  ],
+  "id": "w205"
+ },
+ {
+  "latin_full": "fibula, ae, f.",
+  "english_original": "One of the leg bones",
+  "german": "Wadenbein",
+  "czech": "lýtková kost",
+  "sections": [
+   "F"
+  ],
+  "id": "w206"
+ },
+ {
+  "latin_full": "filum, i, n.",
+  "english_original": "The spinal cord",
+  "german": "Faden",
+  "czech": "nit, vlákno",
+  "sections": [
+   "F"
+  ],
+  "id": "w207"
+ },
+ {
+  "latin_full": "fissura, ae, f.",
+  "english_original": "Fissure, crack",
+  "german": "Spalt, Einriss",
+  "czech": "štěrbina",
+  "sections": [
+   "F"
+  ],
+  "id": "w208"
+ },
+ {
+  "latin_full": "flaccidus, a, um",
+  "english_original": "Flabby, weak",
+  "german": "schlaff",
+  "czech": "ochablý, chabý",
+  "sections": [
+   "F"
+  ],
+  "id": "w209"
+ },
+ {
+  "latin_full": "flavus, a, um",
+  "english_original": "Yellow",
+  "german": "gelb, goldgelb",
+  "czech": "žlutý",
+  "sections": [
+   "F"
+  ],
+  "id": "w210"
+ },
+ {
+  "latin_full": "flexor oris, m.",
+  "english_original": "Muscle that flexes a joint",
+  "german": "Beuger",
+  "czech": "ohybač (sval)",
+  "sections": [
+   "F"
+  ],
+  "id": "w211"
+ },
+ {
+  "latin_full": "flexura, ae, f.",
+  "english_original": "Bend, fold",
+  "german": "Krümmung",
+  "czech": "ohyb",
+  "sections": [
+   "F"
+  ],
+  "id": "w212"
+ },
+ {
+  "latin_full": "folium, ii, n.",
+  "english_original": "Sheet, broad, thin leaflike structure",
+  "german": "Blatt",
+  "czech": "list",
+  "sections": [
+   "F"
+  ],
+  "id": "w213"
+ },
+ {
+  "latin_full": "fonticulus, i, m.",
+  "english_original": "Lamella, a thin and flat membrane /layer",
+  "german": "Fontanelle",
+  "czech": "lupínek",
+  "sections": [
+   "F"
+  ],
+  "id": "w214"
+ },
+ {
+  "latin_full": "foramen, inis, n.",
+  "english_original": "hole, gap",
+  "german": "Loch",
+  "czech": "otvor, díra",
+  "sections": [
+   "F"
+  ],
+  "id": "w215"
+ },
+ {
+  "latin_full": "formatio, onis, f.",
+  "english_original": "Formation",
+  "german": "Bildung",
+  "czech": "útvar, tvar, podoba",
+  "sections": [
+   "F"
+  ],
+  "id": "w216"
+ },
+ {
+  "latin_full": "fornix, icis, m.",
+  "english_original": "An anatomical arch like structure",
+  "german": "Wölbung, Bogen",
+  "czech": "oblouk, klenba, strop",
+  "sections": [
+   "F"
+  ],
+  "id": "w217"
+ },
+ {
+  "latin_full": "fossa, ae, f.",
+  "english_original": "A hollow /depressed area",
+  "german": "Graben, Grube",
+  "czech": "jáma, vyhloubení",
+  "sections": [
+   "F"
+  ],
+  "id": "w218"
+ },
+ {
+  "latin_full": "fossula, ae, f.",
+  "english_original": "Small fossa",
+  "german": "Grübchen",
+  "czech": "jamka",
+  "sections": [
+   "F"
+  ],
+  "id": "w219"
+ },
+ {
+  "latin_full": "fovea, ae, f.",
+  "english_original": "Any natural depression on the surface of the body",
+  "german": "Grube",
+  "czech": "mělká jáma (okrouhlá)",
+  "sections": [
+   "F"
+  ],
+  "id": "w220"
+ },
+ {
+  "latin_full": "foveola, ae, f.",
+  "english_original": "Small fovea",
+  "german": "Grübchen",
+  "czech": "jamka",
+  "sections": [
+   "F"
+  ],
+  "id": "w221"
+ },
+ {
+  "latin_full": "frenulum, i, n.",
+  "english_original": "A small fold that limits movement of organ/part",
+  "german": "Bändchen",
+  "czech": "uzdička, udidlo",
+  "sections": [
+   "F"
+  ],
+  "id": "w222"
+ },
+ {
+  "latin_full": "frons, frontis, f.",
+  "english_original": "forehead, forefront",
+  "german": "Stirn",
+  "czech": "čelo",
+  "sections": [
+   "F"
+  ],
+  "id": "w223"
+ },
+ {
+  "latin_full": "fundus, i, m.",
+  "english_original": "Bottom, the base of an organ",
+  "german": "Grund, Boden",
+  "czech": "dno, základ",
+  "sections": [
+   "F"
+  ],
+  "id": "w224"
+ },
+ {
+  "latin_full": "funiculus, i, m.",
+  "english_original": "A cord like, ligament",
+  "german": "kleiner Strang",
+  "czech": "provazec",
+  "sections": [
+   "F"
+  ],
+  "id": "w225"
+ },
+ {
+  "latin_full": "galea, ae, f.",
+  "english_original": "helmet shaped part",
+  "german": "Helm, Haube",
+  "czech": "přilba, helma",
+  "sections": [
+   "G"
+  ],
+  "id": "w226"
+ },
+ {
+  "latin_full": "gallus, i, m.",
+  "english_original": "rooster",
+  "german": "Hahn",
+  "czech": "kohout",
+  "sections": [
+   "G"
+  ],
+  "id": "w227"
+ },
+ {
+  "latin_full": "ganglion, ii, n.",
+  "english_original": "Group of nerve cells forming a nerve center",
+  "german": "knotenförmige Anschwellung, Nervenknoten",
+  "czech": "nervová uzlina, váčkovitý útvar v okolí kloubu či šlachy",
+  "sections": [
+   "G"
+  ],
+  "id": "w228"
+ },
+ {
+  "latin_full": "gaster, tris, f.",
+  "english_original": "stomach",
+  "german": "Magen",
+  "czech": "žaludek",
+  "sections": [
+   "G"
+  ],
+  "id": "w229"
+ },
+ {
+  "latin_full": "gastricus, a, um",
+  "english_original": "Gastric, of or related to the stomach",
+  "german": "zum Magen gehörig",
+  "czech": "žaludeční",
+  "sections": [
+   "G"
+  ],
+  "id": "w230"
+ },
+ {
+  "latin_full": "gastrocnemius, a, um",
+  "english_original": "The largest muscle of the calf",
+  "german": "Wadenmuskel",
+  "czech": "lýtkový",
+  "sections": [
+   "G"
+  ],
+  "id": "w231"
+ },
+ {
+  "latin_full": "gemellus, i, m",
+  "english_original": "A muscle in the body ( related to the hip)",
+  "german": "Zwilling",
+  "czech": "dvojí, dvojnásobný",
+  "sections": [
+   "G"
+  ],
+  "id": "w232"
+ },
+ {
+  "latin_full": "genio–",
+  "english_original": "???",
+  "german": "Kinn",
+  "czech": "bradový (ve složeninách)",
+  "sections": [
+   "G"
+  ],
+  "id": "w233"
+ },
+ {
+  "latin_full": "genitalis, e",
+  "english_original": "Genitals",
+  "german": "Genitalien",
+  "czech": "pohlavní, plodící, rodící",
+  "sections": [
+   "G"
+  ],
+  "id": "w234"
+ },
+ {
+  "latin_full": "genu, us, n.",
+  "english_original": "knee",
+  "german": "Knie",
+  "czech": "koleno",
+  "sections": [
+   "G"
+  ],
+  "id": "w235"
+ },
+ {
+  "latin_full": "gingiva, ae, f",
+  "english_original": "Gums",
+  "german": "Zahnfleisch",
+  "czech": "dáseň",
+  "sections": [
+   "G"
+  ],
+  "id": "w236"
+ },
+ {
+  "latin_full": "glandula, ae, f.",
+  "english_original": "Gland",
+  "german": "kleine Drüse",
+  "czech": "žláza",
+  "sections": [
+   "G"
+  ],
+  "id": "w237"
+ },
+ {
+  "latin_full": "glans, ndis f.",
+  "english_original": "Acorn",
+  "german": "Eichel",
+  "czech": "žalud",
+  "sections": [
+   "G"
+  ],
+  "id": "w238"
+ },
+ {
+  "latin_full": "glenoidalis, e",
+  "english_original": "???",
+  "german": "flache Gelenkgrube",
+  "czech": "kloubní, týkající se kloubní jamky",
+  "sections": [
+   "G"
+  ],
+  "id": "w239"
+ },
+ {
+  "latin_full": "globus, i, m.",
+  "english_original": "Sphere, globe",
+  "german": "Kugel",
+  "czech": "koule, těleso kulovitého tvaru",
+  "sections": [
+   "G"
+  ],
+  "id": "w240"
+ },
+ {
+  "latin_full": "glomerulum, i, n.",
+  "english_original": "Ball, bundle",
+  "german": "Knäuel",
+  "czech": "klubko, uzlíček",
+  "sections": [
+   "G"
+  ],
+  "id": "w241"
+ },
+ {
+  "latin_full": "glossa, glottae, f.",
+  "english_original": "tongue",
+  "german": "Zunge",
+  "czech": "jazyk",
+  "sections": [
+   "G"
+  ],
+  "id": "w242"
+ },
+ {
+  "latin_full": "gluteus, a, um",
+  "english_original": "A large muscle in the buttock",
+  "german": "Gesäßmuskel",
+  "czech": "hýžďový",
+  "sections": [
+   "G"
+  ],
+  "id": "w243"
+ },
+ {
+  "latin_full": "gracilis, e",
+  "english_original": "thin, lean, slender",
+  "german": "schlank, zart",
+  "czech": "štíhlý",
+  "sections": [
+   "G"
+  ],
+  "id": "w244"
+ },
+ {
+  "latin_full": "griseus, a, um",
+  "english_original": "gray",
+  "german": "grau",
+  "czech": "šedý",
+  "sections": [
+   "G"
+  ],
+  "id": "w245"
+ },
+ {
+  "latin_full": "gustatorius, a, um",
+  "english_original": "Of, or related to the sense of taste",
+  "german": "zum Geschmacksinn gehörend",
+  "czech": "k vnímání chuti",
+  "sections": [
+   "G"
+  ],
+  "id": "w246"
+ },
+ {
+  "latin_full": "gyrus, i, m.",
+  "english_original": "A convoluted fold of the brain",
+  "german": "Windung, Hirnwindung",
+  "czech": "závit, kruh",
+  "sections": [
+   "G"
+  ],
+  "id": "w247"
+ },
+ {
+  "latin_full": "hallux, ucis, m.",
+  "english_original": "The big toe",
+  "german": "große Zehe",
+  "czech": "palec",
+  "sections": [
+   "H"
+  ],
+  "id": "w248"
+ },
+ {
+  "latin_full": "hamatus, a, um",
+  "english_original": "A small hook shaped bone",
+  "german": "knöcherne verbreiterung am Acromion",
+  "czech": "háčkovitý, zahnutý",
+  "sections": [
+   "H"
+  ],
+  "id": "w249"
+ },
+ {
+  "latin_full": "hemispherium, ii, n.",
+  "english_original": "Half of the cerebrum hemispheres",
+  "german": "Halbkugel, Großhirnhälfte",
+  "czech": "polokoule, hemisféra",
+  "sections": [
+   "H"
+  ],
+  "id": "w250"
+ },
+ {
+  "latin_full": "hepar, patis, n.",
+  "english_original": "liver",
+  "german": "Leber",
+  "czech": "játra",
+  "sections": [
+   "H"
+  ],
+  "id": "w251"
+ },
+ {
+  "latin_full": "hepaticus, a, um",
+  "english_original": "Liver",
+  "german": "zur leber gehöhrend",
+  "czech": "jaterní",
+  "sections": [
+   "H"
+  ],
+  "id": "w252"
+ },
+ {
+  "latin_full": "hernia, ae f.",
+  "english_original": "hernia",
+  "german": "Spross, Bruch",
+  "czech": "kýla",
+  "sections": [
+   "H"
+  ],
+  "id": "w253"
+ },
+ {
+  "latin_full": "hiatus, us, m.",
+  "english_original": "A separation, short passage in orgab/part",
+  "german": "Spalt",
+  "czech": "otvor",
+  "sections": [
+   "H"
+  ],
+  "id": "w254"
+ },
+ {
+  "latin_full": "hilus, i, m.",
+  "english_original": "Depression /fissure",
+  "german": "Nabel, Vertiefung an der Oberfläche eines Organs",
+  "czech": "místo vstupu, brána",
+  "sections": [
+   "H"
+  ],
+  "id": "w255"
+ },
+ {
+  "latin_full": "hippocampus, i, m.",
+  "english_original": "An area of the cerebral cortex - mostly consists on gray matter",
+  "german": "Hippocampus, Teil des Gehirns",
+  "czech": "mořský koník, část temporálního laloku",
+  "sections": [
+   "H"
+  ],
+  "id": "w256"
+ },
+ {
+  "latin_full": "hirci, orum, m.",
+  "english_original": "The hair in the armpits (axillary hair)",
+  "german": "Achselhaare",
+  "czech": "podpažní ochlupení",
+  "sections": [
+   "H"
+  ],
+  "id": "w257"
+ },
+ {
+  "latin_full": "humerus, i, m.",
+  "english_original": "The bone of the upper arm",
+  "german": "Oberarm",
+  "czech": "kost pažní",
+  "sections": [
+   "H"
+  ],
+  "id": "w258"
+ },
+ {
+  "latin_full": "hymen, enis, n.",
+  "english_original": "hymen",
+  "german": "Häutchen, Jungfernhäutchen",
+  "czech": "bůh sňatku, panenská blána",
+  "sections": [
+   "H"
+  ],
+  "id": "w259"
+ },
+ {
+  "latin_full": "hyo-",
+  "english_original": "The hyoid bone",
+  "german": "Zungenbein?",
+  "czech": "k jazylce",
+  "sections": [
+   "H"
+  ],
+  "id": "w260"
+ },
+ {
+  "latin_full": "(os) hyoideum",
+  "english_original": "The hyoid bone, horseshoe shaped",
+  "german": "Zungenbein",
+  "czech": "jazylka",
+  "sections": [
+   "H"
+  ],
+  "id": "w261"
+ },
+ {
+  "latin_full": "hypogastrium, ii, n.",
+  "english_original": "The underbelly, located under the naval",
+  "german": "Unterbauchgegend",
+  "czech": "podbřišek",
+  "sections": [
+   "H"
+  ],
+  "id": "w262"
+ },
+ {
+  "latin_full": "hypoglossus, a, um",
+  "english_original": "Of, or related to the area under the tongue",
+  "german": "unter der Zunge",
+  "czech": "ležící pod jazykem",
+  "sections": [
+   "H"
+  ],
+  "id": "w263"
+ },
+ {
+  "latin_full": "hyponychium, ii, n.",
+  "english_original": "Nail beds, the base of the nail",
+  "german": "Haut über dem Nagelbett",
+  "czech": "nehtové lůžko",
+  "sections": [
+   "H"
+  ],
+  "id": "w264"
+ },
+ {
+  "latin_full": "hypophysis, is / eos, f.",
+  "english_original": "Pituitary gland, The main endocrine",
+  "german": "Hirnanhangsdrüse",
+  "czech": "podvěsek mozkový",
+  "sections": [
+   "H"
+  ],
+  "id": "w265"
+ },
+ {
+  "latin_full": "hypothenar, aris, m.",
+  "english_original": "The part above the base of the small finger in the palm",
+  "german": "Kleinfingerballen",
+  "czech": "malíkový val",
+  "sections": [
+   "H"
+  ],
+  "id": "w266"
+ },
+ {
+  "latin_full": "chiasma, atis, n.",
+  "english_original": "A cross shaped point of intersection of two parts, junction",
+  "german": "x-förmige Kreuzung",
+  "czech": "zkřížení",
+  "sections": [
+   "CH"
+  ],
+  "id": "w267"
+ },
+ {
+  "latin_full": "choana, ae, f.",
+  "english_original": "A funnel shaped passage /opening",
+  "german": "Trichter",
+  "czech": "choana, vnitřní nozdra",
+  "sections": [
+   "CH"
+  ],
+  "id": "w268"
+ },
+ {
+  "latin_full": "choledochus, a, um",
+  "english_original": "Head of bile, common bile duct",
+  "german": "zu Galle gehörig",
+  "czech": "vedoucí žluč",
+  "sections": [
+   "CH"
+  ],
+  "id": "w269"
+ },
+ {
+  "latin_full": "(ductus) choledochus",
+  "english_original": "Bile duct",
+  "german": "Gallengang",
+  "czech": "žlučovod",
+  "sections": [
+   "CH"
+  ],
+  "id": "w270"
+ },
+ {
+  "latin_full": "chorda, ae, f.",
+  "english_original": "A cord",
+  "german": "Faser",
+  "czech": "struna, provazec",
+  "sections": [
+   "CH"
+  ],
+  "id": "w271"
+ },
+ {
+  "latin_full": "choroidea, ae, f.",
+  "english_original": "Choroidal, brownish vascular membrane in the eyeball",
+  "german": "Aderhaut",
+  "czech": "cévnatka",
+  "sections": [
+   "CH"
+  ],
+  "id": "w272"
+ },
+ {
+  "latin_full": "ileocaecalis, e",
+  "english_original": "Ileocecal, related to both ileum and cecum",
+  "german": "zwischen Dünndarm und Dickdarm",
+  "czech": "týkající se kyčelníku a slepého střeva",
+  "sections": [
+   "I"
+  ],
+  "id": "w273"
+ },
+ {
+  "latin_full": "ileum, ei, n.",
+  "english_original": "Bowl",
+  "german": "Dünndarm",
+  "czech": "kyčelník",
+  "sections": [
+   "I"
+  ],
+  "id": "w274"
+ },
+ {
+  "latin_full": "ileus, ei, m.",
+  "english_original": "Partial /complete blockage of the intestines",
+  "german": "Darmverschluss",
+  "czech": "ileus, střevní neprůchodnost",
+  "sections": [
+   "I"
+  ],
+  "id": "w275"
+ },
+ {
+  "latin_full": "ilia, ilium (plurál) n.",
+  "english_original": "Heel bone/bones",
+  "german": "Darmbein",
+  "czech": "slabiny",
+  "sections": [
+   "I"
+  ],
+  "id": "w276"
+ },
+ {
+  "latin_full": "(os) ilium",
+  "english_original": "The hip bone",
+  "german": "Darmbein",
+  "czech": "kost kyčelní",
+  "sections": [
+   "I"
+  ],
+  "id": "w277"
+ },
+ {
+  "latin_full": "impressio, onis, f.",
+  "english_original": "Imprint, impression, a light depression in an organ's surface",
+  "german": "Eindruck",
+  "czech": "otisk, dojem, vjem",
+  "sections": [
+   "I"
+  ],
+  "id": "w278"
+ },
+ {
+  "latin_full": "imus, a, um",
+  "english_original": "Lowest, the most inferior part",
+  "german": "niedrig",
+  "czech": "nejnižší",
+  "sections": [
+   "I"
+  ],
+  "id": "w279"
+ },
+ {
+  "latin_full": "incisivus",
+  "english_original": "Sharp",
+  "german": "scharf",
+  "czech": "řezákový",
+  "sections": [
+   "I"
+  ],
+  "id": "w280"
+ },
+ {
+  "latin_full": "incisura, ae, f.",
+  "english_original": "Notch, an indentation at the end of a structure /organ",
+  "german": "Einschnitt, Einkerbung",
+  "czech": "zářez, rýha",
+  "sections": [
+   "I"
+  ],
+  "id": "w281"
+ },
+ {
+  "latin_full": "incus, udis, f.",
+  "english_original": "The middle part of the 3 ossicles of the ear",
+  "german": "Amboß",
+  "czech": "kovadlinka",
+  "sections": [
+   "I"
+  ],
+  "id": "w282"
+ },
+ {
+  "latin_full": "index, icis, m.",
+  "english_original": "Index, indication",
+  "german": "Zeigefinger",
+  "czech": "ukazatel, seznam, ukazováček",
+  "sections": [
+   "I"
+  ],
+  "id": "w283"
+ },
+ {
+  "latin_full": "infundibulum, i, n.",
+  "english_original": "Choana, any funnel shaped passage",
+  "german": "Trichter",
+  "czech": "nálevka, trychtýř",
+  "sections": [
+   "I"
+  ],
+  "id": "w284"
+ },
+ {
+  "latin_full": "inguen, inis, m.",
+  "english_original": "Groin, the junctional region between the abdomen and the thigh",
+  "german": "Leistengegend",
+  "czech": "slabina, tříselná krajina",
+  "sections": [
+   "I"
+  ],
+  "id": "w285"
+ },
+ {
+  "latin_full": "inguinalis, e",
+  "english_original": "Inguinal, related to the groin",
+  "german": "zur Leiste gehörend",
+  "czech": "tříselný",
+  "sections": [
+   "I"
+  ],
+  "id": "w286"
+ },
+ {
+  "latin_full": "insertio, onis, f.",
+  "english_original": "Placement",
+  "german": "Ansatz, Anheftung",
+  "czech": "úpon, připojení orgánu",
+  "sections": [
+   "I"
+  ],
+  "id": "w287"
+ },
+ {
+  "latin_full": "insula, ae, f.",
+  "english_original": "Island - cluster of cells, isolated piece of tissue",
+  "german": "Insel",
+  "czech": "ostrov, ostrůvek",
+  "sections": [
+   "I"
+  ],
+  "id": "w288"
+ },
+ {
+  "latin_full": "intermedius, a, um",
+  "english_original": "Intermediate, between right (medial) and left (lateral) parts",
+  "german": "dazwischenliegend",
+  "czech": "prostřední",
+  "sections": [
+   "I"
+  ],
+  "id": "w289"
+ },
+ {
+  "latin_full": "internus, a, um",
+  "english_original": "Internal",
+  "german": "innen",
+  "czech": "vnitřní",
+  "sections": [
+   "I"
+  ],
+  "id": "w290"
+ },
+ {
+  "latin_full": "interosseus, a, um",
+  "english_original": "Muscle in between bones",
+  "german": "zwischen den Knochen befindlich",
+  "czech": "mezikostní",
+  "sections": [
+   "I"
+  ],
+  "id": "w291"
+ },
+ {
+  "latin_full": "intersectio, onis, f.",
+  "english_original": "A fibrous band in the middle of the muscle that divides it to 2 parts",
+  "german": "Einschnitt",
+  "czech": "zářez",
+  "sections": [
+   "I"
+  ],
+  "id": "w292"
+ },
+ {
+  "latin_full": "intestinum, i, n.",
+  "english_original": "Intestine",
+  "german": "Darm",
+  "czech": "střevo",
+  "sections": [
+   "I"
+  ],
+  "id": "w293"
+ },
+ {
+  "latin_full": "intumescentia, ae, f.",
+  "english_original": "Enlargement",
+  "german": "Zunahme",
+  "czech": "ztluštění, zduření",
+  "sections": [
+   "I"
+  ],
+  "id": "w294"
+ },
+ {
+  "latin_full": "inversio, onis, f.",
+  "english_original": "Turning inside out",
+  "german": "Umkehrung",
+  "czech": "obrácení (směrem dovnitř), přemístění",
+  "sections": [
+   "I"
+  ],
+  "id": "w295"
+ },
+ {
+  "latin_full": "iris, idis, f.",
+  "english_original": "The colored part in the eye",
+  "german": "Iris",
+  "czech": "duhovka",
+  "sections": [
+   "I"
+  ],
+  "id": "w296"
+ },
+ {
+  "latin_full": "ischiadicus, a, um",
+  "english_original": "Related to or nearby the ischium",
+  "german": "zum Ischius gehörig",
+  "czech": "patřící ke kosti sedací",
+  "sections": [
+   "I"
+  ],
+  "id": "w297"
+ },
+ {
+  "latin_full": "ischium, ii, n.",
+  "english_original": "The lower, posterior part of the hip bone",
+  "german": "Sitzbein",
+  "czech": "zadnice, sedací část",
+  "sections": [
+   "I"
+  ],
+  "id": "w298"
+ },
+ {
+  "latin_full": "isthmus, i, m.",
+  "english_original": "A narrow connection between two large bodies /parts",
+  "german": "Engpass, verengte Stelle",
+  "czech": "úzké spojení, můstek, úžina",
+  "sections": [
+   "I"
+  ],
+  "id": "w299"
+ },
+ {
+  "latin_full": "jejunum, i, n.",
+  "english_original": "Part in the small intestine",
+  "german": "Fortsetzung des Duodenum",
+  "czech": "lačník",
+  "sections": [
+   "J"
+  ],
+  "id": "w300"
+ },
+ {
+  "latin_full": "jugularis, e",
+  "english_original": "Of/ related to/ located in the area of the neck or throat",
+  "german": "am Hals",
+  "czech": "hrdelní, krční",
+  "sections": [
+   "J"
+  ],
+  "id": "w301"
+ },
+ {
+  "latin_full": "jugulum, i, n.",
+  "english_original": "The lower throat",
+  "german": "Schlüsselbein und Kuhle darüber",
+  "czech": "hrdlo",
+  "sections": [
+   "J"
+  ],
+  "id": "w302"
+ },
+ {
+  "latin_full": "junctura, ae, f.",
+  "english_original": "Joint",
+  "german": "Gelenk",
+  "czech": "spojení",
+  "sections": [
+   "J"
+  ],
+  "id": "w303"
+ },
+ {
+  "latin_full": "labialis, e",
+  "english_original": "related to the lips",
+  "german": "zu den Lippen gehörig",
+  "czech": "retní",
+  "sections": [
+   "L"
+  ],
+  "id": "w304"
+ },
+ {
+  "latin_full": "labium, ii, n.",
+  "english_original": "lip",
+  "german": "Lippe",
+  "czech": "ret, pysk",
+  "sections": [
+   "L"
+  ],
+  "id": "w305"
+ },
+ {
+  "latin_full": "labrum, i, n.",
+  "english_original": "a lip or lip shaprd structure",
+  "german": "Pfannenlippe",
+  "czech": "miska, umyvadlo",
+  "sections": [
+   "L"
+  ],
+  "id": "w306"
+ },
+ {
+  "latin_full": "labyrinthus, i, m.",
+  "english_original": "convoluted part of the kidney tobule, maze",
+  "german": "innere Ohr",
+  "czech": "labyrint, bludiště, kanálková část vnitřního ucha",
+  "sections": [
+   "L"
+  ],
+  "id": "w307"
+ },
+ {
+  "latin_full": "lacer, a, um",
+  "english_original": "uneven edges",
+  "german": "zerrissen",
+  "czech": "potrhaný, nerovného okraje",
+  "sections": [
+   "L"
+  ],
+  "id": "w308"
+ },
+ {
+  "latin_full": "lacrimalis, e",
+  "english_original": "related to the tear system",
+  "german": "zum Tränenkanal gehörig",
+  "czech": "slzný",
+  "sections": [
+   "L"
+  ],
+  "id": "w309"
+ },
+ {
+  "latin_full": "lactifer, a, um",
+  "english_original": "???",
+  "german": "Milchgänge",
+  "czech": "mlékovodný",
+  "sections": [
+   "L"
+  ],
+  "id": "w310"
+ },
+ {
+  "latin_full": "lacuna, ae, f.",
+  "english_original": "a small pit/hollow cavity",
+  "german": "Lücke",
+  "czech": "jezírko, prohlubeň naplněná vodou",
+  "sections": [
+   "L"
+  ],
+  "id": "w311"
+ },
+ {
+  "latin_full": "lamina, ae, f.",
+  "english_original": "layer",
+  "german": "Platte, Schicht, Scheibe",
+  "czech": "ploténka, list",
+  "sections": [
+   "L"
+  ],
+  "id": "w312"
+ },
+ {
+  "latin_full": "lanugo, inis, f.",
+  "english_original": "the fine hair that covers the fetus's body",
+  "german": "Wollhaar",
+  "czech": "chmýří, chloupky",
+  "sections": [
+   "L"
+  ],
+  "id": "w313"
+ },
+ {
+  "latin_full": "larynx, gis, f.",
+  "english_original": "larynx",
+  "german": "Kehlkopf",
+  "czech": "hrtan",
+  "sections": [
+   "L"
+  ],
+  "id": "w314"
+ },
+ {
+  "latin_full": "latissimus, a, um",
+  "english_original": "widest, broad structure",
+  "german": "größte",
+  "czech": "nejširší",
+  "sections": [
+   "L"
+  ],
+  "id": "w315"
+ },
+ {
+  "latin_full": "latus, a, um",
+  "english_original": "broad, wide",
+  "german": "breit",
+  "czech": "široký",
+  "sections": [
+   "L"
+  ],
+  "id": "w316"
+ },
+ {
+  "latin_full": "latus, eris, n.",
+  "english_original": "side",
+  "german": "Seite",
+  "czech": "bok",
+  "sections": [
+   "L"
+  ],
+  "id": "w317"
+ },
+ {
+  "latin_full": "lemniscus, i, m.",
+  "english_original": "a bundle/ band of sensory nerve fibers",
+  "german": "Nervenbahn im Stammhirn",
+  "czech": "stužka, svazek vláken v mozku",
+  "sections": [
+   "L"
+  ],
+  "id": "w318"
+ },
+ {
+  "latin_full": "lens, lentis, f.",
+  "english_original": "lens",
+  "german": "Linse",
+  "czech": "čočka",
+  "sections": [
+   "L"
+  ],
+  "id": "w319"
+ },
+ {
+  "latin_full": "lentiformis, e",
+  "english_original": "lens shaped",
+  "german": "linsenförmig",
+  "czech": "čočkovitý",
+  "sections": [
+   "L"
+  ],
+  "id": "w320"
+ },
+ {
+  "latin_full": "leptomeninx, ingis, f.",
+  "english_original": "the 2 innermost layers of the meninges",
+  "german": "Bindegewebsschichten der Meningen",
+  "czech": "měkké pleny mozkové",
+  "sections": [
+   "L"
+  ],
+  "id": "w321"
+ },
+ {
+  "latin_full": "levator, oris, m.",
+  "english_original": "a lifting muscle",
+  "german": "Heber",
+  "czech": "zdvihač",
+  "sections": [
+   "L"
+  ],
+  "id": "w322"
+ },
+ {
+  "latin_full": "liber, a, um",
+  "english_original": "free, open",
+  "german": "frei, offen",
+  "czech": "volný, otevřený",
+  "sections": [
+   "L"
+  ],
+  "id": "w323"
+ },
+ {
+  "latin_full": "lien, lienis, m.",
+  "english_original": "spleen",
+  "german": "Milz",
+  "czech": "slezina",
+  "sections": [
+   "L"
+  ],
+  "id": "w324"
+ },
+ {
+  "latin_full": "ligamentum, i, n.",
+  "english_original": "ligament - tough, fibrous connective tissue",
+  "german": "Band",
+  "czech": "vaz, poutko",
+  "sections": [
+   "L"
+  ],
+  "id": "w325"
+ },
+ {
+  "latin_full": "limbus, i, m.",
+  "english_original": "border, edge, limb",
+  "german": "Rand, Saum, Umgrenzung",
+  "czech": "obruba, lem, okraj",
+  "sections": [
+   "L"
+  ],
+  "id": "w326"
+ },
+ {
+  "latin_full": "limitans, ntis",
+  "english_original": "limiting",
+  "german": "eingeschränkt",
+  "czech": "omezující, ohraničující",
+  "sections": [
+   "L"
+  ],
+  "id": "w327"
+ },
+ {
+  "latin_full": "linea, ae, f.",
+  "english_original": "line",
+  "german": "Linie",
+  "czech": "čára",
+  "sections": [
+   "L"
+  ],
+  "id": "w328"
+ },
+ {
+  "latin_full": "lingua, ae, f.",
+  "english_original": "tongue",
+  "german": "Zunge",
+  "czech": "jazyk",
+  "sections": [
+   "L"
+  ],
+  "id": "w329"
+ },
+ {
+  "latin_full": "lingula, ae, f.",
+  "english_original": "a small, tongue like stracture",
+  "german": "kleine Zunge",
+  "czech": "jazýček",
+  "sections": [
+   "L"
+  ],
+  "id": "w330"
+ },
+ {
+  "latin_full": "liquor, oris, m.",
+  "english_original": "liquid/ fluid",
+  "german": "Flüssigkeit",
+  "czech": "tekutina, roztok, mok",
+  "sections": [
+   "L"
+  ],
+  "id": "w331"
+ },
+ {
+  "latin_full": "lobaris, e",
+  "english_original": "relating to a lobe",
+  "german": "zu einem Lappen gehörig",
+  "czech": "lalokový, patřící laloku",
+  "sections": [
+   "L"
+  ],
+  "id": "w332"
+ },
+ {
+  "latin_full": "lobulus, i, m.",
+  "english_original": "small lobe",
+  "german": "kleiner Lappen",
+  "czech": "lalůček",
+  "sections": [
+   "L"
+  ],
+  "id": "w333"
+ },
+ {
+  "latin_full": "lobus, i, m.",
+  "english_original": "lobe",
+  "german": "Lappen",
+  "czech": "lalok",
+  "sections": [
+   "L"
+  ],
+  "id": "w334"
+ },
+ {
+  "latin_full": "locus, i, m.",
+  "english_original": "place",
+  "german": "Ort, Platz, Stelle",
+  "czech": "místo",
+  "sections": [
+   "L"
+  ],
+  "id": "w335"
+ },
+ {
+  "latin_full": "longissimus, a, um",
+  "english_original": "longest",
+  "german": "längste",
+  "czech": "nejdelší",
+  "sections": [
+   "L"
+  ],
+  "id": "w336"
+ },
+ {
+  "latin_full": "longitudinalis, e",
+  "english_original": "longitudinal, length wise",
+  "german": "längsgerichtet",
+  "czech": "podélný",
+  "sections": [
+   "L"
+  ],
+  "id": "w337"
+ },
+ {
+  "latin_full": "longus, a, um",
+  "english_original": "long",
+  "german": "lang",
+  "czech": "dlouhý",
+  "sections": [
+   "L"
+  ],
+  "id": "w338"
+ },
+ {
+  "latin_full": "lucidus, a, um",
+  "english_original": "lucid, clear, apparent",
+  "german": "hell, leuchtend",
+  "czech": "světlý, svítivý",
+  "sections": [
+   "L"
+  ],
+  "id": "w339"
+ },
+ {
+  "latin_full": "lumbalis, e",
+  "english_original": "lumbar",
+  "german": "zu den Lenden gehörig",
+  "czech": "bederní",
+  "sections": [
+   "L"
+  ],
+  "id": "w340"
+ },
+ {
+  "latin_full": "lumbricalis",
+  "english_original": "vermicular, worm like shaped",
+  "german": "wurmartig",
+  "czech": "červovitý",
+  "sections": [
+   "L"
+  ],
+  "id": "w341"
+ },
+ {
+  "latin_full": "lunatus, a, um",
+  "english_original": "moon shaped, crescentic",
+  "german": "mondartig",
+  "czech": "mající tvar měsíce",
+  "sections": [
+   "L"
+  ],
+  "id": "w342"
+ },
+ {
+  "latin_full": "luteus, a, um",
+  "english_original": "yellow",
+  "german": "gelb",
+  "czech": "žlutý",
+  "sections": [
+   "L"
+  ],
+  "id": "w343"
+ },
+ {
+  "latin_full": "lympha, ae, f.",
+  "english_original": "lymph, the liquid in the lymph vessels",
+  "german": "Lymphe",
+  "czech": "míza, lymfa",
+  "sections": [
+   "L"
+  ],
+  "id": "w344"
+ },
+ {
+  "latin_full": "lymphaticus, a, um",
+  "english_original": "lymph vessels",
+  "german": "zum Lymphsystem gehörig",
+  "czech": "mízní",
+  "sections": [
+   "L"
+  ],
+  "id": "w345"
+ },
+ {
+  "latin_full": "macula, ae, f.",
+  "english_original": "a spot, esp. on the skin",
+  "german": "Fleck",
+  "czech": "skvrna",
+  "sections": [
+   "M"
+  ],
+  "id": "w346"
+ },
+ {
+  "latin_full": "maculosus, a, um",
+  "english_original": "having spots",
+  "german": "fleckig",
+  "czech": "skvrnitý",
+  "sections": [
+   "M"
+  ],
+  "id": "w347"
+ },
+ {
+  "latin_full": "magnus, a, um",
+  "english_original": "great, large",
+  "german": "groß",
+  "czech": "velký",
+  "sections": [
+   "M"
+  ],
+  "id": "w348"
+ },
+ {
+  "latin_full": "major, jus",
+  "english_original": "bigger, larger in size",
+  "german": "größer",
+  "czech": "větší",
+  "sections": [
+   "M"
+  ],
+  "id": "w349"
+ },
+ {
+  "latin_full": "mala, ae, f.",
+  "english_original": "cheek",
+  "german": "Wange",
+  "czech": "tvář, čelist",
+  "sections": [
+   "M"
+  ],
+  "id": "w350"
+ },
+ {
+  "latin_full": "malaris, e",
+  "english_original": "facial",
+  "german": "zur Wange gehörig",
+  "czech": "lícní, tvářový",
+  "sections": [
+   "M"
+  ],
+  "id": "w351"
+ },
+ {
+  "latin_full": "malleolaris, e",
+  "english_original": "relating to the malleus",
+  "german": "zum Knöchel gehörig",
+  "czech": "patřící ke kladívku",
+  "sections": [
+   "M"
+  ],
+  "id": "w352"
+ },
+ {
+  "latin_full": "malleus, i, m.",
+  "english_original": "the outmost of the ossicles of the ear",
+  "german": "Rotz",
+  "czech": "kladívko",
+  "sections": [
+   "M"
+  ],
+  "id": "w353"
+ },
+ {
+  "latin_full": "malleolus, i, m.",
+  "english_original": "the bones on each side of the ankle",
+  "german": "Knöchel",
+  "czech": "kotník",
+  "sections": [
+   "M"
+  ],
+  "id": "w354"
+ },
+ {
+  "latin_full": "mamma, ae, f.",
+  "english_original": "breast",
+  "german": "Brust",
+  "czech": "prs",
+  "sections": [
+   "M"
+  ],
+  "id": "w355"
+ },
+ {
+  "latin_full": "mammilla, ae, f.",
+  "english_original": "nipple",
+  "german": "Brustwarze",
+  "czech": "prsní bradavka",
+  "sections": [
+   "M"
+  ],
+  "id": "w356"
+ },
+ {
+  "latin_full": "mandibula, ae, f.",
+  "english_original": "the lower jaw bone",
+  "german": "Unterkiefer",
+  "czech": "dolní čelist",
+  "sections": [
+   "M"
+  ],
+  "id": "w357"
+ },
+ {
+  "latin_full": "manubrium, ii, n.",
+  "english_original": "handle",
+  "german": "Handgriff",
+  "czech": "rukojeť, násada, držadlo",
+  "sections": [
+   "M"
+  ],
+  "id": "w358"
+ },
+ {
+  "latin_full": "manus, us, f.",
+  "english_original": "hand",
+  "german": "Hand",
+  "czech": "ruka",
+  "sections": [
+   "M"
+  ],
+  "id": "w359"
+ },
+ {
+  "latin_full": "margo, inis, m.",
+  "english_original": "margin, edge, border",
+  "german": "Rand",
+  "czech": "okraj, obruba",
+  "sections": [
+   "M"
+  ],
+  "id": "w360"
+ },
+ {
+  "latin_full": "marginalis, e",
+  "english_original": "marginal, peripheral",
+  "german": "am Rand liegend",
+  "czech": "okrajový",
+  "sections": [
+   "M"
+  ],
+  "id": "w361"
+ },
+ {
+  "latin_full": "masculinus, a, um",
+  "english_original": "masculine, male",
+  "german": "männlich",
+  "czech": "mužský",
+  "sections": [
+   "M"
+  ],
+  "id": "w362"
+ },
+ {
+  "latin_full": "massa, ae, f.",
+  "english_original": "a lump",
+  "german": "Masse",
+  "czech": "hmota, hrouda",
+  "sections": [
+   "M"
+  ],
+  "id": "w363"
+ },
+ {
+  "latin_full": "masseter, eris, m.",
+  "english_original": "a muscle in the cheek",
+  "german": "Kaumuskel",
+  "czech": "žvýkací sval",
+  "sections": [
+   "M"
+  ],
+  "id": "w364"
+ },
+ {
+  "latin_full": "masticatorius, a, um",
+  "english_original": "chewing",
+  "german": "alles, was zum kauen gehört",
+  "czech": "žvýkací",
+  "sections": [
+   "M"
+  ],
+  "id": "w365"
+ },
+ {
+  "latin_full": "mastoideus, a, um",
+  "english_original": "???",
+  "german": "Warzenfortsatz",
+  "czech": "bradavkovitý",
+  "sections": [
+   "M"
+  ],
+  "id": "w366"
+ },
+ {
+  "latin_full": "mater, tris, f.",
+  "english_original": "the menbrane that covers the nervous system",
+  "german": "Mutter",
+  "czech": "matka, obal, plena",
+  "sections": [
+   "M"
+  ],
+  "id": "w367"
+ },
+ {
+  "latin_full": "matrix, icis, f.",
+  "english_original": "the intercellular substance of a tissue",
+  "german": "Mutterboden",
+  "czech": "zárodečná půda",
+  "sections": [
+   "M"
+  ],
+  "id": "w368"
+ },
+ {
+  "latin_full": "maxilla, ae, f.",
+  "english_original": "the upper jaw bone",
+  "german": "Oberkiefer",
+  "czech": "horní čelist",
+  "sections": [
+   "M"
+  ],
+  "id": "w369"
+ },
+ {
+  "latin_full": "maximus, a, um",
+  "english_original": "the largest, great, maximal",
+  "german": "größte",
+  "czech": "největší",
+  "sections": [
+   "M"
+  ],
+  "id": "w370"
+ },
+ {
+  "latin_full": "meatus, us, m.",
+  "english_original": "a body opening/ passage",
+  "german": "Gang, Kanal",
+  "czech": "chodba, průchod",
+  "sections": [
+   "M"
+  ],
+  "id": "w371"
+ },
+ {
+  "latin_full": "mediastinum, i, n.",
+  "english_original": "a septum between two parts of organ/cavity",
+  "german": "Mittelfell",
+  "czech": "mezihrudí",
+  "sections": [
+   "M"
+  ],
+  "id": "w372"
+ },
+ {
+  "latin_full": "medius, a, um",
+  "english_original": "middle",
+  "german": "in der Mitte",
+  "czech": "(pro)střední",
+  "sections": [
+   "M"
+  ],
+  "id": "w373"
+ },
+ {
+  "latin_full": "medulla, ae, f.",
+  "english_original": "marrow/marrow like structure",
+  "german": "Mark",
+  "czech": "dřeň, mícha",
+  "sections": [
+   "M"
+  ],
+  "id": "w374"
+ },
+ {
+  "latin_full": "membrana, ae, f.",
+  "english_original": "membrane",
+  "german": "Membran",
+  "czech": "blána",
+  "sections": [
+   "M"
+  ],
+  "id": "w375"
+ },
+ {
+  "latin_full": "membrum, i, n.",
+  "english_original": "limb",
+  "german": "Glied",
+  "czech": "končetina",
+  "sections": [
+   "M"
+  ],
+  "id": "w376"
+ },
+ {
+  "latin_full": "meningeus, a, um",
+  "english_original": "related to the brain or spinal meningitis",
+  "german": "zu den meningen gehörig",
+  "czech": "týkající se mozkových či míšních plen",
+  "sections": [
+   "M"
+  ],
+  "id": "w377"
+ },
+ {
+  "latin_full": "meninx, ingis, f.",
+  "english_original": "mater, membrane",
+  "german": "Hirnhaut",
+  "czech": "plena mozková",
+  "sections": [
+   "M"
+  ],
+  "id": "w378"
+ },
+ {
+  "latin_full": "meniscus, i, m.",
+  "english_original": "moon shaped body",
+  "german": "Meniskus",
+  "czech": "půlměsíc, kloubní ploténka",
+  "sections": [
+   "M"
+  ],
+  "id": "w379"
+ },
+ {
+  "latin_full": "mentalis, e",
+  "english_original": "a muscle of the chin",
+  "german": "zum Kinn gehörig",
+  "czech": "1. bradový, 2. duševní",
+  "sections": [
+   "M"
+  ],
+  "id": "w380"
+ },
+ {
+  "latin_full": "mentum, i, n.",
+  "english_original": "chin",
+  "german": "Kinn",
+  "czech": "brada",
+  "sections": [
+   "M"
+  ],
+  "id": "w381"
+ },
+ {
+  "latin_full": "mesencephalon, i, n.",
+  "english_original": "the mid brain / the short part of the brain stem",
+  "german": "Mittelhirn",
+  "czech": "střední mozek",
+  "sections": [
+   "M"
+  ],
+  "id": "w382"
+ },
+ {
+  "latin_full": "mesenterium, ii, n.",
+  "english_original": "a membranous fold - attaching organs to the body's wall",
+  "german": "Verdoppelung des Bauchfells",
+  "czech": "okruží, závěs tenkého střeva",
+  "sections": [
+   "M"
+  ],
+  "id": "w383"
+ },
+ {
+  "latin_full": "metacarpus, i, m.",
+  "english_original": "the palm - the part between the wrist and fingers",
+  "german": "Mittelhand",
+  "czech": "záprstí",
+  "sections": [
+   "M"
+  ],
+  "id": "w384"
+ },
+ {
+  "latin_full": "metatarsus, i, m.",
+  "english_original": "the part in the foot between the ankle and toes",
+  "german": "Mittelfuß",
+  "czech": "nárt, zánártí",
+  "sections": [
+   "M"
+  ],
+  "id": "w385"
+ },
+ {
+  "latin_full": "minimus, a, um",
+  "english_original": "the little finger/ toe",
+  "german": "kleinste",
+  "czech": "nejmenší",
+  "sections": [
+   "M"
+  ],
+  "id": "w386"
+ },
+ {
+  "latin_full": "minor, minus",
+  "english_original": "smaller, lesser",
+  "german": "kleiner",
+  "czech": "menší",
+  "sections": [
+   "M"
+  ],
+  "id": "w387"
+ },
+ {
+  "latin_full": "mitralis, e",
+  "english_original": "???",
+  "german": "zweizipflig",
+  "czech": "podobný mitře",
+  "sections": [
+   "M"
+  ],
+  "id": "w388"
+ },
+ {
+  "latin_full": "molaris, e",
+  "english_original": "???",
+  "german": "mahlen",
+  "czech": "mlecí",
+  "sections": [
+   "M"
+  ],
+  "id": "w389"
+ },
+ {
+  "latin_full": "mollis, e",
+  "english_original": "gentle, soft",
+  "german": "weich",
+  "czech": "měkký, jemný, hebký",
+  "sections": [
+   "M"
+  ],
+  "id": "w390"
+ },
+ {
+  "latin_full": "mons, montis, m.",
+  "english_original": "an elevation",
+  "german": "berg",
+  "czech": "hora, skála",
+  "sections": [
+   "M"
+  ],
+  "id": "w391"
+ },
+ {
+  "latin_full": "mucosus, a, um",
+  "english_original": "mocus",
+  "german": "schleimig",
+  "czech": "hlenový, sliznatý",
+  "sections": [
+   "M"
+  ],
+  "id": "w392"
+ },
+ {
+  "latin_full": "multifidus, a, um",
+  "english_original": "split",
+  "german": "vielgespalten",
+  "czech": "rozeklaný (do mnoha větví)",
+  "sections": [
+   "M"
+  ],
+  "id": "w393"
+ },
+ {
+  "latin_full": "musculus, i, m.",
+  "english_original": "muscle",
+  "german": "Muskel",
+  "czech": "sval („myška“)",
+  "sections": [
+   "M"
+  ],
+  "id": "w394"
+ },
+ {
+  "latin_full": "myelencephalon, i, n.",
+  "english_original": "medulla",
+  "german": "Markhirn",
+  "czech": "prodloužená mícha",
+  "sections": [
+   "M"
+  ],
+  "id": "w395"
+ },
+ {
+  "latin_full": "myentericus, a, um",
+  "english_original": "relating to the intestinal muscles",
+  "german": "zum Gastrointestinaltrakt gehörig",
+  "czech": "patřící ke střevnímu svalstvu",
+  "sections": [
+   "M"
+  ],
+  "id": "w396"
+ },
+ {
+  "latin_full": "mylohyoideus, a, um",
+  "english_original": "a muscle in the base of the mouth",
+  "german": "Kieferzungenbeinmuskel",
+  "czech": "spojující jazylku s dolní čelistí",
+  "sections": [
+   "M"
+  ],
+  "id": "w397"
+ },
+ {
+  "latin_full": "my/o/-",
+  "english_original": "in compounds with relevance muscles",
+  "german": "zu den Muskeln gehörig",
+  "czech": "ve složeninách s významem svalový",
+  "sections": [
+   "M"
+  ],
+  "id": "w398"
+ },
+ {
+  "latin_full": "myocardium, ii, n.",
+  "english_original": "the middle layer of the heart wall",
+  "german": "Myokard, Herzmuskel",
+  "czech": "srdeční svalovina",
+  "sections": [
+   "M"
+  ],
+  "id": "w399"
+ },
+ {
+  "latin_full": "naris, is, f.",
+  "english_original": "Nostril",
+  "german": "Nasenloch",
+  "czech": "nosní dírka",
+  "sections": [
+   "N"
+  ],
+  "id": "w400"
+ },
+ {
+  "latin_full": "nasalis, e",
+  "english_original": "Nasal, nose",
+  "german": "Nasen-",
+  "czech": "nosní",
+  "sections": [
+   "N"
+  ],
+  "id": "w401"
+ },
+ {
+  "latin_full": "nasus, i, m.",
+  "english_original": "nose",
+  "german": "Nase",
+  "czech": "nos",
+  "sections": [
+   "N"
+  ],
+  "id": "w402"
+ },
+ {
+  "latin_full": "navicularis, e",
+  "english_original": "Scaphoid",
+  "german": "schifförmig",
+  "czech": "člunkovitý, loďkovitý",
+  "sections": [
+   "N"
+  ],
+  "id": "w403"
+ },
+ {
+  "latin_full": "neonatus, a, um",
+  "english_original": "Infant , baby, child",
+  "german": "neugeboren",
+  "czech": "novorozený",
+  "sections": [
+   "N"
+  ],
+  "id": "w404"
+ },
+ {
+  "latin_full": "nervosus, a, um",
+  "english_original": "Nervous , neural",
+  "german": "nervenreich, Nerven-",
+  "czech": "nervový",
+  "sections": [
+   "N"
+  ],
+  "id": "w405"
+ },
+ {
+  "latin_full": "nervus, i, m.",
+  "english_original": "Nerve",
+  "german": "Nerv",
+  "czech": "nerv",
+  "sections": [
+   "N"
+  ],
+  "id": "w406"
+ },
+ {
+  "latin_full": "niger, gra, grum",
+  "english_original": "Black",
+  "german": "schwarz",
+  "czech": "černý",
+  "sections": [
+   "N"
+  ],
+  "id": "w407"
+ },
+ {
+  "latin_full": "nodulus, i, m.",
+  "english_original": "A small , solid node",
+  "german": "Knötchen",
+  "czech": "uzlík",
+  "sections": [
+   "N"
+  ],
+  "id": "w408"
+ },
+ {
+  "latin_full": "nodus, i, m.",
+  "english_original": "Node",
+  "german": "Knoten",
+  "czech": "uzel, uzlina",
+  "sections": [
+   "N"
+  ],
+  "id": "w409"
+ },
+ {
+  "latin_full": "nucha, ae, f.",
+  "english_original": "Nape, the back of the neck",
+  "german": "Nacken",
+  "czech": "šíje",
+  "sections": [
+   "N"
+  ],
+  "id": "w410"
+ },
+ {
+  "latin_full": "nucleus, ei, m.",
+  "english_original": "Nucleus , kernel",
+  "german": "Nuss, kleiner Kern",
+  "czech": "jádro",
+  "sections": [
+   "N"
+  ],
+  "id": "w411"
+ },
+ {
+  "latin_full": "nutricius, a, um",
+  "english_original": "Nutrient",
+  "german": "ernährend",
+  "czech": "vyživující",
+  "sections": [
+   "N"
+  ],
+  "id": "w412"
+ },
+ {
+  "latin_full": "obliquus, a, um",
+  "english_original": "Slant",
+  "german": "schief, schräg",
+  "czech": "šikmý",
+  "sections": [
+   "O"
+  ],
+  "id": "w413"
+ },
+ {
+  "latin_full": "oblongatus, a, um",
+  "english_original": "Extended",
+  "german": "länglich",
+  "czech": "prodloužený",
+  "sections": [
+   "O"
+  ],
+  "id": "w414"
+ },
+ {
+  "latin_full": "obturatorius, a, um",
+  "english_original": "Closing",
+  "german": "geschlossen",
+  "czech": "uzavírající",
+  "sections": [
+   "O"
+  ],
+  "id": "w415"
+ },
+ {
+  "latin_full": "obturatus, a, um",
+  "english_original": "Close",
+  "german": "Schließung?",
+  "czech": "uzavřený",
+  "sections": [
+   "O"
+  ],
+  "id": "w416"
+ },
+ {
+  "latin_full": "obtusus, a, um",
+  "english_original": "???",
+  "german": "stumpf",
+  "czech": "otupený, chabý",
+  "sections": [
+   "O"
+  ],
+  "id": "w417"
+ },
+ {
+  "latin_full": "occipitalis, e",
+  "english_original": "Occipital",
+  "german": "zum Hinterhaupt gehörig",
+  "czech": "týlní",
+  "sections": [
+   "O"
+  ],
+  "id": "w418"
+ },
+ {
+  "latin_full": "octavus, a, um",
+  "english_original": "Eighth",
+  "german": "achte",
+  "czech": "osmý",
+  "sections": [
+   "O"
+  ],
+  "id": "w419"
+ },
+ {
+  "latin_full": "oculomotorius, a, um",
+  "english_original": "Extra ocular",
+  "german": "3. Hirnnerv",
+  "czech": "okohybný",
+  "sections": [
+   "O"
+  ],
+  "id": "w420"
+ },
+ {
+  "latin_full": "oculus, i, m.",
+  "english_original": "Eye",
+  "german": "Auge",
+  "czech": "oko",
+  "sections": [
+   "O"
+  ],
+  "id": "w421"
+ },
+ {
+  "latin_full": "oesophagus, i, m.",
+  "english_original": "Esophagus",
+  "german": "Speiseröhre",
+  "czech": "jícen",
+  "sections": [
+   "O"
+  ],
+  "id": "w422"
+ },
+ {
+  "latin_full": "ophthalmicus, a, um",
+  "english_original": "Ocular",
+  "german": "gehörig zur Augenheilung",
+  "czech": "oční",
+  "sections": [
+   "O"
+  ],
+  "id": "w423"
+ },
+ {
+  "latin_full": "olecranon, i, n.",
+  "english_original": "Salient elbow",
+  "german": "Ellbogen",
+  "czech": "loketní výběžek",
+  "sections": [
+   "O"
+  ],
+  "id": "w424"
+ },
+ {
+  "latin_full": "olfactorius, a, um",
+  "english_original": "The sense of smell",
+  "german": "Riechnerv, Geruchssinn",
+  "czech": "čichový",
+  "sections": [
+   "O"
+  ],
+  "id": "w425"
+ },
+ {
+  "latin_full": "omentum, i, n.",
+  "english_original": "Caul",
+  "german": "Netz",
+  "czech": "předstěra",
+  "sections": [
+   "O"
+  ],
+  "id": "w426"
+ },
+ {
+  "latin_full": "opponens, ntis",
+  "english_original": "Opposite",
+  "german": "gegenüberstehend",
+  "czech": "protější, stojící proti",
+  "sections": [
+   "O"
+  ],
+  "id": "w427"
+ },
+ {
+  "latin_full": "opticus, a, um",
+  "english_original": "Optical , visual",
+  "german": "das Sehen betreffend, Sehnerv",
+  "czech": "zrakový, oční",
+  "sections": [
+   "O"
+  ],
+  "id": "w428"
+ },
+ {
+  "latin_full": "ora, ae, f.",
+  "english_original": "Hem, edge",
+  "german": "Rand, Saum",
+  "czech": "okraj, lem, hranice",
+  "sections": [
+   "O"
+  ],
+  "id": "w429"
+ },
+ {
+  "latin_full": "orbicularis, e",
+  "english_original": "Circular",
+  "german": "kreisförmig",
+  "czech": "kruhový",
+  "sections": [
+   "O"
+  ],
+  "id": "w430"
+ },
+ {
+  "latin_full": "orbita ae, f.",
+  "english_original": "Orbit",
+  "german": "Augenhöhle",
+  "czech": "očnice",
+  "sections": [
+   "O"
+  ],
+  "id": "w431"
+ },
+ {
+  "latin_full": "orificium, ii, n.",
+  "english_original": "Opening , hole, gap",
+  "german": "Mündung, Öffnung",
+  "czech": "ústí, otvor, branka",
+  "sections": [
+   "O"
+  ],
+  "id": "w432"
+ },
+ {
+  "latin_full": "os, oris, n.",
+  "english_original": "Opening, mouth",
+  "german": "Mund",
+  "czech": "ústa",
+  "sections": [
+   "O"
+  ],
+  "id": "w433"
+ },
+ {
+  "latin_full": "os, ossis, n.",
+  "english_original": "Bone",
+  "german": "Knochen",
+  "czech": "kost",
+  "sections": [
+   "O"
+  ],
+  "id": "w434"
+ },
+ {
+  "latin_full": "ostium, ii, n.",
+  "english_original": "Mouth",
+  "german": "Mündung, Eingang",
+  "czech": "ústí",
+  "sections": [
+   "O"
+  ],
+  "id": "w435"
+ },
+ {
+  "latin_full": "oticus, a, um",
+  "english_original": "Auricular",
+  "german": "zum Ohr gehörig",
+  "czech": "ušní",
+  "sections": [
+   "O"
+  ],
+  "id": "w436"
+ },
+ {
+  "latin_full": "ovalis, e",
+  "english_original": "Oval",
+  "german": "oval",
+  "czech": "vejčitý, oválný",
+  "sections": [
+   "O"
+  ],
+  "id": "w437"
+ },
+ {
+  "latin_full": "ovarium, i, n.",
+  "english_original": "Ovaries",
+  "german": "Eierstock",
+  "czech": "vaječník",
+  "sections": [
+   "O"
+  ],
+  "id": "w438"
+ },
+ {
+  "latin_full": "ovum, i, n.",
+  "english_original": "Egg",
+  "german": "Ei",
+  "czech": "vejce",
+  "sections": [
+   "O"
+  ],
+  "id": "w439"
+ },
+ {
+  "latin_full": "palatum, i, n.",
+  "english_original": "palate, the roof of the mouth",
+  "german": "Gaumen",
+  "czech": "patro",
+  "sections": [
+   "P"
+  ],
+  "id": "w440"
+ },
+ {
+  "latin_full": "pallidus, a, um",
+  "english_original": "pale",
+  "german": "grau, blass",
+  "czech": "bledý",
+  "sections": [
+   "P"
+  ],
+  "id": "w441"
+ },
+ {
+  "latin_full": "palium, ii, n.",
+  "english_original": "cerebral cortex matter",
+  "german": "Mantel",
+  "czech": "plášť, obal",
+  "sections": [
+   "P"
+  ],
+  "id": "w442"
+ },
+ {
+  "latin_full": "palma, ae, f.",
+  "english_original": "palm",
+  "german": "Handfläche",
+  "czech": "dlaň",
+  "sections": [
+   "P"
+  ],
+  "id": "w443"
+ },
+ {
+  "latin_full": "palpebra, ae, f.",
+  "english_original": "eyelid",
+  "german": "Augenlid",
+  "czech": "víčko",
+  "sections": [
+   "P"
+  ],
+  "id": "w444"
+ },
+ {
+  "latin_full": "pampiniformis, e",
+  "english_original": "shaped like tendril, vine like",
+  "german": "weinrankenartig",
+  "czech": "popínavý, révový",
+  "sections": [
+   "P"
+  ],
+  "id": "w445"
+ },
+ {
+  "latin_full": "pancreas, atis, f.",
+  "english_original": "pancreas",
+  "german": "Bauchspeicheldrüse",
+  "czech": "slinivka břišní",
+  "sections": [
+   "P"
+  ],
+  "id": "w446"
+ },
+ {
+  "latin_full": "papilla, ae, f.",
+  "english_original": "a small, nipple like elevation",
+  "german": "Brustwarze, warzenartige Erhebung",
+  "czech": "bradavka, vyvýšenina",
+  "sections": [
+   "P"
+  ],
+  "id": "w447"
+ },
+ {
+  "latin_full": "parametrium, i, n.",
+  "english_original": "a liagment beside the uterus",
+  "german": "Zellgewebe um Gebärmutterhals",
+  "czech": "vazivo vedle dělohy",
+  "sections": [
+   "P"
+  ],
+  "id": "w448"
+ },
+ {
+  "latin_full": "paries, etis, m.",
+  "english_original": "wall",
+  "german": "Wand",
+  "czech": "stěna",
+  "sections": [
+   "P"
+  ],
+  "id": "w449"
+ },
+ {
+  "latin_full": "parietalis, e",
+  "english_original": "relating to a wall of organ/part",
+  "german": "seitlich, an der Wand liegend",
+  "czech": "nástěnný",
+  "sections": [
+   "P"
+  ],
+  "id": "w450"
+ },
+ {
+  "latin_full": "parotis, idis, f.",
+  "english_original": "a parotid gland",
+  "german": "Ohrspeicheldrüse",
+  "czech": "příušní žláza",
+  "sections": [
+   "P"
+  ],
+  "id": "w451"
+ },
+ {
+  "latin_full": "parotideus, a, um",
+  "english_original": "parotid",
+  "german": "zur Ohrspeicheldrüse gehörend",
+  "czech": "příušní",
+  "sections": [
+   "P"
+  ],
+  "id": "w452"
+ },
+ {
+  "latin_full": "pars, partis, f.",
+  "english_original": "part",
+  "german": "Teil, Stück",
+  "czech": "část, díl",
+  "sections": [
+   "P"
+  ],
+  "id": "w453"
+ },
+ {
+  "latin_full": "parvus, a, um",
+  "english_original": "small",
+  "german": "klein",
+  "czech": "malý",
+  "sections": [
+   "P"
+  ],
+  "id": "w454"
+ },
+ {
+  "latin_full": "patella, ae, f.",
+  "english_original": "kneecap",
+  "german": "Kniescheibe",
+  "czech": "čéška",
+  "sections": [
+   "P"
+  ],
+  "id": "w455"
+ },
+ {
+  "latin_full": "pecten, tinis, m.",
+  "english_original": "comb like structure",
+  "german": "Kamm",
+  "czech": "hřeben, ostří",
+  "sections": [
+   "P"
+  ],
+  "id": "w456"
+ },
+ {
+  "latin_full": "pectoralis, e",
+  "english_original": "chest, thorax",
+  "german": "zur Brust gehörig",
+  "czech": "hrudní (prsní)",
+  "sections": [
+   "P"
+  ],
+  "id": "w457"
+ },
+ {
+  "latin_full": "pectus, oris, n.",
+  "english_original": "thorax",
+  "german": "Brust",
+  "czech": "hruď",
+  "sections": [
+   "P"
+  ],
+  "id": "w458"
+ },
+ {
+  "latin_full": "pedunculus, i, m.",
+  "english_original": "a stem like connecting part",
+  "german": "Stiel",
+  "czech": "nožka, stopka",
+  "sections": [
+   "P"
+  ],
+  "id": "w459"
+ },
+ {
+  "latin_full": "pellucidus, a, um",
+  "english_original": "translucant",
+  "german": "lichtdurchlässig",
+  "czech": "průsvitný",
+  "sections": [
+   "P"
+  ],
+  "id": "w460"
+ },
+ {
+  "latin_full": "pelvinus, a, um",
+  "english_original": "pelvic",
+  "german": "zum Becken gehörig",
+  "czech": "pánevní",
+  "sections": [
+   "P"
+  ],
+  "id": "w461"
+ },
+ {
+  "latin_full": "pelvis, is, f.",
+  "english_original": "basin like structure",
+  "german": "Becken",
+  "czech": "pánev",
+  "sections": [
+   "P"
+  ],
+  "id": "w462"
+ },
+ {
+  "latin_full": "penis, is, m.",
+  "english_original": "penis",
+  "german": "Penis",
+  "czech": "pyj",
+  "sections": [
+   "P"
+  ],
+  "id": "w463"
+ },
+ {
+  "latin_full": "perforans, ntis",
+  "english_original": "piercing",
+  "german": "durchbohrend",
+  "czech": "prorážející",
+  "sections": [
+   "P"
+  ],
+  "id": "w464"
+ },
+ {
+  "latin_full": "pericardium, ii, n.",
+  "english_original": "the sac enclosing the heart",
+  "german": "Herzbeutel",
+  "czech": "osrdečník",
+  "sections": [
+   "P"
+  ],
+  "id": "w465"
+ },
+ {
+  "latin_full": "perineum, i, n.",
+  "english_original": "the pelvic floor",
+  "german": "Damm",
+  "czech": "hráz, perineum",
+  "sections": [
+   "P"
+  ],
+  "id": "w466"
+ },
+ {
+  "latin_full": "periosteum, ei, n.",
+  "english_original": "a connective tissue covering all bones",
+  "german": "Knochenhaut",
+  "czech": "okostice",
+  "sections": [
+   "P"
+  ],
+  "id": "w467"
+ },
+ {
+  "latin_full": "peritoneum, ii, n.",
+  "english_original": "peritoneum",
+  "german": "Bauchfell",
+  "czech": "pobřišnice",
+  "sections": [
+   "P"
+  ],
+  "id": "w468"
+ },
+ {
+  "latin_full": "permanens, entis",
+  "english_original": "permanent",
+  "german": "permanent, dauerhaft",
+  "czech": "trvalý, stálý",
+  "sections": [
+   "P"
+  ],
+  "id": "w469"
+ },
+ {
+  "latin_full": "peroneus, a, um",
+  "english_original": "a muscle in the lower leg",
+  "german": "Nerv an der äußeren Seite des Unterschenkels",
+  "czech": "lýtkový",
+  "sections": [
+   "P"
+  ],
+  "id": "w470"
+ },
+ {
+  "latin_full": "perpendicularis, e",
+  "english_original": "vertical, perpendicular, normal",
+  "german": "senkrecht",
+  "czech": "svislý, kolmý",
+  "sections": [
+   "P"
+  ],
+  "id": "w471"
+ },
+ {
+  "latin_full": "pes, pedis m.",
+  "english_original": "foot or foot like part",
+  "german": "Fuß",
+  "czech": "noha",
+  "sections": [
+   "P"
+  ],
+  "id": "w472"
+ },
+ {
+  "latin_full": "phalanx, ngis, f.",
+  "english_original": "any bone in a finger/toe",
+  "german": "Finger-/ Zehenglied",
+  "czech": "článek prstu",
+  "sections": [
+   "P"
+  ],
+  "id": "w473"
+ },
+ {
+  "latin_full": "pharynx, ngis, m.",
+  "english_original": "the throat",
+  "german": "Rachen, Schlund",
+  "czech": "hltan",
+  "sections": [
+   "P"
+  ],
+  "id": "w474"
+ },
+ {
+  "latin_full": "phrenicus, a, um",
+  "english_original": "relating to the diaphragm",
+  "german": "Zwerchfellnerv",
+  "czech": "brániční",
+  "sections": [
+   "P"
+  ],
+  "id": "w475"
+ },
+ {
+  "latin_full": "pilus, i, m.",
+  "english_original": "hair",
+  "german": "Haar, Faser",
+  "czech": "vlas, chlup",
+  "sections": [
+   "P"
+  ],
+  "id": "w476"
+ },
+ {
+  "latin_full": "pinealis, e",
+  "english_original": "shaped like a pine cone",
+  "german": "Zirbel-",
+  "czech": "šišinkový",
+  "sections": [
+   "P"
+  ],
+  "id": "w477"
+ },
+ {
+  "latin_full": "pirifomis, e",
+  "english_original": "pear shpaed like",
+  "german": "birnenförmig",
+  "czech": "hruškovitý",
+  "sections": [
+   "P"
+  ],
+  "id": "w478"
+ },
+ {
+  "latin_full": "pisiformis, e",
+  "english_original": "have a pea size and shape",
+  "german": "erbsenförmig",
+  "czech": "hráškovitý",
+  "sections": [
+   "P"
+  ],
+  "id": "w479"
+ },
+ {
+  "latin_full": "planta, ae, f.",
+  "english_original": "sole, the bottom part of the foot",
+  "german": "Fußsohle",
+  "czech": "chodidlo",
+  "sections": [
+   "P"
+  ],
+  "id": "w480"
+ },
+ {
+  "latin_full": "planum, i, n.",
+  "english_original": "plane",
+  "german": "Fläche",
+  "czech": "rovina, plocha",
+  "sections": [
+   "P"
+  ],
+  "id": "w481"
+ },
+ {
+  "latin_full": "planus, a, um",
+  "english_original": "flat, straight",
+  "german": "flach, eben",
+  "czech": "plochý, rovný",
+  "sections": [
+   "P"
+  ],
+  "id": "w482"
+ },
+ {
+  "latin_full": "plexus, us, m.",
+  "english_original": "network or tangle (ex - nerves)",
+  "german": "Geflecht",
+  "czech": "pleteň",
+  "sections": [
+   "P"
+  ],
+  "id": "w483"
+ },
+ {
+  "latin_full": "pleura, ae, f.",
+  "english_original": "the membrane lining the lungs and chest",
+  "german": "Brustfell",
+  "czech": "blána, pohrudnice",
+  "sections": [
+   "P"
+  ],
+  "id": "w484"
+ },
+ {
+  "latin_full": "plica, ae, f.",
+  "english_original": "ridge, fold",
+  "german": "Falte",
+  "czech": "řasa, záhyb",
+  "sections": [
+   "P"
+  ],
+  "id": "w485"
+ },
+ {
+  "latin_full": "pollex, pollicis, m.",
+  "english_original": "thumb",
+  "german": "Daumen",
+  "czech": "palec ruky",
+  "sections": [
+   "P"
+  ],
+  "id": "w486"
+ },
+ {
+  "latin_full": "pons, pontis, m.",
+  "english_original": "bridge, connective tissue between parts",
+  "german": "Brücke",
+  "czech": "most",
+  "sections": [
+   "P"
+  ],
+  "id": "w487"
+ },
+ {
+  "latin_full": "pontinus, a, um",
+  "english_original": "belonging to a bridge",
+  "german": "zur Bücke gehörend",
+  "czech": "náležející k mostu",
+  "sections": [
+   "P"
+  ],
+  "id": "w488"
+ },
+ {
+  "latin_full": "poples, itis, m",
+  "english_original": "posterior part of the knee",
+  "german": "Kniebeuge",
+  "czech": "zákolenní jáma",
+  "sections": [
+   "P"
+  ],
+  "id": "w489"
+ },
+ {
+  "latin_full": "porta, ae, f.",
+  "english_original": "portal, enterance or getaway",
+  "german": "Pforte",
+  "czech": "brána, dveře, vchod",
+  "sections": [
+   "P"
+  ],
+  "id": "w490"
+ },
+ {
+  "latin_full": "portio, ionis, f.",
+  "english_original": "part, division",
+  "german": "Teil",
+  "czech": "část, úsek, podíl",
+  "sections": [
+   "P"
+  ],
+  "id": "w491"
+ },
+ {
+  "latin_full": "porus, i, m.",
+  "english_original": "pore",
+  "german": "Öffnung",
+  "czech": "ústí kanálu",
+  "sections": [
+   "P"
+  ],
+  "id": "w492"
+ },
+ {
+  "latin_full": "praeputium, i, n.",
+  "english_original": "foreskin",
+  "german": "Vorhaut",
+  "czech": "předkožka",
+  "sections": [
+   "P"
+  ],
+  "id": "w493"
+ },
+ {
+  "latin_full": "primus, a, um",
+  "english_original": "first",
+  "german": "erste",
+  "czech": "první",
+  "sections": [
+   "P"
+  ],
+  "id": "w494"
+ },
+ {
+  "latin_full": "princeps, cipis, m.",
+  "english_original": "principal, first",
+  "german": "Erste/ Wichtigste",
+  "czech": "první, nejdůležitější",
+  "sections": [
+   "P"
+  ],
+  "id": "w495"
+ },
+ {
+  "latin_full": "processus, us, m.",
+  "english_original": "process",
+  "german": "Fortsatz",
+  "czech": "výběžek",
+  "sections": [
+   "P"
+  ],
+  "id": "w496"
+ },
+ {
+  "latin_full": "profundus, a, um",
+  "english_original": "deep",
+  "german": "tief, bodenlos",
+  "czech": "hluboký",
+  "sections": [
+   "P"
+  ],
+  "id": "w497"
+ },
+ {
+  "latin_full": "prominentia, ae, f.",
+  "english_original": "prominence",
+  "german": "Hervorragung",
+  "czech": "výčnělek, výstupek",
+  "sections": [
+   "P"
+  ],
+  "id": "w498"
+ },
+ {
+  "latin_full": "prominens, ntis",
+  "english_original": "protuberant",
+  "german": "7. Halswirbel",
+  "czech": "vyčnívající",
+  "sections": [
+   "P"
+  ],
+  "id": "w499"
+ },
+ {
+  "latin_full": "promontorium, ii, n.",
+  "english_original": "spur",
+  "german": "5. Lendenwirbel",
+  "czech": "předhoří, výběžek",
+  "sections": [
+   "P"
+  ],
+  "id": "w500"
+ },
+ {
+  "latin_full": "pronator, oris, m.",
+  "english_original": "a muscle preforming pronation",
+  "german": "Neiger",
+  "czech": "sval provádějící pronaci",
+  "sections": [
+   "P"
+  ],
+  "id": "w501"
+ },
+ {
+  "latin_full": "proprius, a, um",
+  "english_original": "distinctive, essential, specific",
+  "german": "allein zugehörig",
+  "czech": "vlastní, trvalý, stálý",
+  "sections": [
+   "P"
+  ],
+  "id": "w502"
+ },
+ {
+  "latin_full": "prostata, ae, f.",
+  "english_original": "prostate",
+  "german": "Prostata, Vorsteherdrüse",
+  "czech": "předstojná žláza",
+  "sections": [
+   "P"
+  ],
+  "id": "w503"
+ },
+ {
+  "latin_full": "protuberantia, ae, f.",
+  "english_original": "a bulge",
+  "german": "Hervorragung",
+  "czech": "hrbol",
+  "sections": [
+   "P"
+  ],
+  "id": "w504"
+ },
+ {
+  "latin_full": "pterygoideus, a, um",
+  "english_original": "shaped like a wing",
+  "german": "flügelförmig",
+  "czech": "křídlovitý",
+  "sections": [
+   "P"
+  ],
+  "id": "w505"
+ },
+ {
+  "latin_full": "pudendus, a, um",
+  "english_original": "pubic",
+  "german": "scham",
+  "czech": "stydký",
+  "sections": [
+   "P"
+  ],
+  "id": "w506"
+ },
+ {
+  "latin_full": "pulmo, onis, m.",
+  "english_original": "lung",
+  "german": "Lunge",
+  "czech": "plíce",
+  "sections": [
+   "P"
+  ],
+  "id": "w507"
+ },
+ {
+  "latin_full": "pulmonalis, e",
+  "english_original": "pulmonary",
+  "german": "Lungen-",
+  "czech": "plicní",
+  "sections": [
+   "P"
+  ],
+  "id": "w508"
+ },
+ {
+  "latin_full": "pulpa, ae, f.",
+  "english_original": "pulp, dental pulp",
+  "german": "Mus",
+  "czech": "dřeň",
+  "sections": [
+   "P"
+  ],
+  "id": "w509"
+ },
+ {
+  "latin_full": "pulvinar, aris, n.",
+  "english_original": "pillow like",
+  "german": "Kissen, Polster",
+  "czech": "polštář",
+  "sections": [
+   "P"
+  ],
+  "id": "w510"
+ },
+ {
+  "latin_full": "pupilla, ae, f.",
+  "english_original": "pupil",
+  "german": "Pupille",
+  "czech": "zornice",
+  "sections": [
+   "P"
+  ],
+  "id": "w511"
+ },
+ {
+  "latin_full": "putamen, inis, n.",
+  "english_original": "shell",
+  "german": "Schale, Hülse",
+  "czech": "slupka, skořápka",
+  "sections": [
+   "P"
+  ],
+  "id": "w512"
+ },
+ {
+  "latin_full": "pylorus, i, m.",
+  "english_original": "pylorus, gate",
+  "german": "Magenausgang",
+  "czech": "vrátník",
+  "sections": [
+   "P"
+  ],
+  "id": "w513"
+ },
+ {
+  "latin_full": "pyramis, idis, f.",
+  "english_original": "pyramid, pyramid shaped like",
+  "german": "Pyramide",
+  "czech": "pyramida, jehlan",
+  "sections": [
+   "P"
+  ],
+  "id": "w514"
+ },
+ {
+  "latin_full": "quadratus, a, um",
+  "english_original": "Square",
+  "german": "viereckig",
+  "czech": "čtverhranný",
+  "sections": [
+   "Q"
+  ],
+  "id": "w515"
+ },
+ {
+  "latin_full": "quadriceps, cipitis",
+  "english_original": "The large, 4 parts muscle in the thigh",
+  "german": "vierköpfig, Muskel am Oberschenkel",
+  "czech": "čtyřhlavý",
+  "sections": [
+   "Q"
+  ],
+  "id": "w516"
+ },
+ {
+  "latin_full": "quartus, a, um",
+  "english_original": "The forth",
+  "german": "vierte",
+  "czech": "čtvrtý",
+  "sections": [
+   "Q"
+  ],
+  "id": "w517"
+ },
+ {
+  "latin_full": "quintus, a, um",
+  "english_original": "The fifth",
+  "german": "fünfte",
+  "czech": "pátý",
+  "sections": [
+   "Q"
+  ],
+  "id": "w518"
+ },
+ {
+  "latin_full": "radiatio, onis, f.",
+  "english_original": "Branching",
+  "german": "Ausstrahlung",
+  "czech": "vyzařování, větvení",
+  "sections": [
+   "R"
+  ],
+  "id": "w519"
+ },
+ {
+  "latin_full": "radicularis, e",
+  "english_original": "Root",
+  "german": "Wurzel betreffend",
+  "czech": "kořenový",
+  "sections": [
+   "R"
+  ],
+  "id": "w520"
+ },
+ {
+  "latin_full": "radius, i, m.",
+  "english_original": "One of the forearm bones",
+  "german": "Speiche",
+  "czech": "kost vřetenní, paprsek",
+  "sections": [
+   "R"
+  ],
+  "id": "w521"
+ },
+ {
+  "latin_full": "radix, icis, f.",
+  "english_original": "Root",
+  "german": "Wurzel",
+  "czech": "kořen",
+  "sections": [
+   "R"
+  ],
+  "id": "w522"
+ },
+ {
+  "latin_full": "ramus, i, m.",
+  "english_original": "Branch",
+  "german": "Zweig",
+  "czech": "větev, větvička",
+  "sections": [
+   "R"
+  ],
+  "id": "w523"
+ },
+ {
+  "latin_full": "raphe, es, f.",
+  "english_original": "Seam",
+  "german": "Naht",
+  "czech": "šev",
+  "sections": [
+   "R"
+  ],
+  "id": "w524"
+ },
+ {
+  "latin_full": "recessus, us, m.",
+  "english_original": "A small, empty space/cavity",
+  "german": "Ausbuchung, Vertiefung",
+  "czech": "vchlípenina, záhyb",
+  "sections": [
+   "R"
+  ],
+  "id": "w525"
+ },
+ {
+  "latin_full": "rectum, i, n.",
+  "english_original": "Rectum",
+  "german": "Mastdarm",
+  "czech": "konečník",
+  "sections": [
+   "R"
+  ],
+  "id": "w526"
+ },
+ {
+  "latin_full": "rectus, a, um",
+  "english_original": "Straight",
+  "german": "gerade",
+  "czech": "přímý, rovný",
+  "sections": [
+   "R"
+  ],
+  "id": "w527"
+ },
+ {
+  "latin_full": "recurrens, entis",
+  "english_original": "Returning , reverse",
+  "german": "zurücklaufen",
+  "czech": "navracející se, zpětný",
+  "sections": [
+   "R"
+  ],
+  "id": "w528"
+ },
+ {
+  "latin_full": "regio, onis, f.",
+  "english_original": "Region",
+  "german": "Region",
+  "czech": "krajina",
+  "sections": [
+   "R"
+  ],
+  "id": "w529"
+ },
+ {
+  "latin_full": "ren, is, m.",
+  "english_original": "Kidney",
+  "german": "Niere",
+  "czech": "ledvina",
+  "sections": [
+   "R"
+  ],
+  "id": "w530"
+ },
+ {
+  "latin_full": "renalis, e",
+  "english_original": "Renal",
+  "german": "zur Niere gehörig",
+  "czech": "ledvinový",
+  "sections": [
+   "R"
+  ],
+  "id": "w531"
+ },
+ {
+  "latin_full": "respiratorius, a, um",
+  "english_original": "Respiratory",
+  "german": "zum Atmungsapparat gehörig",
+  "czech": "dýchací, sloužící k dýchání",
+  "sections": [
+   "R"
+  ],
+  "id": "w532"
+ },
+ {
+  "latin_full": "rete, is, n.",
+  "english_original": "Network , plexus",
+  "german": "Netz",
+  "czech": "síť",
+  "sections": [
+   "R"
+  ],
+  "id": "w533"
+ },
+ {
+  "latin_full": "reticularis, e",
+  "english_original": "Reticular",
+  "german": "netzförmig",
+  "czech": "síťovitý",
+  "sections": [
+   "R"
+  ],
+  "id": "w534"
+ },
+ {
+  "latin_full": "retina, ae, f.",
+  "english_original": "The innermost of 3 tunics of the eye",
+  "german": "Retina, Netzhaut der Auges",
+  "czech": "sítnice",
+  "sections": [
+   "R"
+  ],
+  "id": "w535"
+ },
+ {
+  "latin_full": "retinaculum, i, n.",
+  "english_original": "A structure that keeps organs tissues in place",
+  "german": "Haken",
+  "czech": "lano, pás, držák",
+  "sections": [
+   "R"
+  ],
+  "id": "w536"
+ },
+ {
+  "latin_full": "rhomboideus, a, um",
+  "english_original": "Kind of muscle under the trapez",
+  "german": "rautenförmig",
+  "czech": "kosočtverečný",
+  "sections": [
+   "R"
+  ],
+  "id": "w537"
+ },
+ {
+  "latin_full": "rima, ae, f.",
+  "english_original": "An alongated opening",
+  "german": "Spalt",
+  "czech": "štěrbina",
+  "sections": [
+   "R"
+  ],
+  "id": "w538"
+ },
+ {
+  "latin_full": "rotundus, a, um",
+  "english_original": "Round",
+  "german": "rund",
+  "czech": "okrouhlý, kulatý",
+  "sections": [
+   "R"
+  ],
+  "id": "w539"
+ },
+ {
+  "latin_full": "ruber, bra, brum",
+  "english_original": "Red",
+  "german": "rot",
+  "czech": "červený",
+  "sections": [
+   "R"
+  ],
+  "id": "w540"
+ },
+ {
+  "latin_full": "ruga, ae, f.",
+  "english_original": "A ridge/fold wrinkle",
+  "german": "Runzel",
+  "czech": "záhyb, vráska",
+  "sections": [
+   "R"
+  ],
+  "id": "w541"
+ },
+ {
+  "latin_full": "sacculus, i, m.",
+  "english_original": "Vesicle, pocket",
+  "german": "Säckchen",
+  "czech": "váček",
+  "sections": [
+   "S"
+  ],
+  "id": "w542"
+ },
+ {
+  "latin_full": "saccus, i, m.",
+  "english_original": "Bag, sac",
+  "german": "Sack",
+  "czech": "vak, pytel",
+  "sections": [
+   "S"
+  ],
+  "id": "w543"
+ },
+ {
+  "latin_full": "sacralis, e",
+  "english_original": "Critical , critic",
+  "german": "zum Kreuzbein gehörig",
+  "czech": "křížový",
+  "sections": [
+   "S"
+  ],
+  "id": "w544"
+ },
+ {
+  "latin_full": "saliva, ae, f.",
+  "english_original": "Saliva",
+  "german": "Speichel",
+  "czech": "slina",
+  "sections": [
+   "S"
+  ],
+  "id": "w545"
+ },
+ {
+  "latin_full": "salivatorious, a, um",
+  "english_original": "Relating to the saliva",
+  "german": "zum Speichel gehörig",
+  "czech": "patřící ke slinám, slinný",
+  "sections": [
+   "S"
+  ],
+  "id": "w546"
+ },
+ {
+  "latin_full": "sanguis, inis, m.",
+  "english_original": "Blood",
+  "german": "Blut",
+  "czech": "krev",
+  "sections": [
+   "S"
+  ],
+  "id": "w547"
+ },
+ {
+  "latin_full": "sartorius, a, um",
+  "english_original": "sartorius",
+  "german": "Schneider(-muskel)",
+  "czech": "krejčovský",
+  "sections": [
+   "S"
+  ],
+  "id": "w548"
+ },
+ {
+  "latin_full": "scala, ae, f.",
+  "english_original": "Step, degree",
+  "german": "Treppe, Leiter",
+  "czech": "schod, stupeň",
+  "sections": [
+   "S"
+  ],
+  "id": "w549"
+ },
+ {
+  "latin_full": "scaphoideus, a, um",
+  "english_original": "Scaphoid",
+  "german": "kahnförmig",
+  "czech": "loďkovitý",
+  "sections": [
+   "S"
+  ],
+  "id": "w550"
+ },
+ {
+  "latin_full": "scapula, ae, f.",
+  "english_original": "Shoulder blade",
+  "german": "Schulterblatt",
+  "czech": "lopatka",
+  "sections": [
+   "S"
+  ],
+  "id": "w551"
+ },
+ {
+  "latin_full": "sclera, ae, f.",
+  "english_original": "The white matter of the eye balls",
+  "german": "feste Hülle des Augapfel",
+  "czech": "bělima",
+  "sections": [
+   "S"
+  ],
+  "id": "w552"
+ },
+ {
+  "latin_full": "scrotum, i, n.",
+  "english_original": "The external sac of the testicals",
+  "german": "Hoden",
+  "czech": "šourek",
+  "sections": [
+   "S"
+  ],
+  "id": "w553"
+ },
+ {
+  "latin_full": "secundus, a, um",
+  "english_original": "Second",
+  "german": "zweite",
+  "czech": "druhý",
+  "sections": [
+   "S"
+  ],
+  "id": "w554"
+ },
+ {
+  "latin_full": "sella, ae, f.",
+  "english_original": "A saddle shaped depression",
+  "german": "Sattel",
+  "czech": "sedlo",
+  "sections": [
+   "S"
+  ],
+  "id": "w555"
+ },
+ {
+  "latin_full": "semicircularis, e",
+  "english_original": "Semicircular shape",
+  "german": "halbkreisartig",
+  "czech": "polokruhovitý",
+  "sections": [
+   "S"
+  ],
+  "id": "w556"
+ },
+ {
+  "latin_full": "semilunaris, e",
+  "english_original": "Crescent , shaped like half moon",
+  "german": "halbmondförmig",
+  "czech": "poloměsíčitý",
+  "sections": [
+   "S"
+  ],
+  "id": "w557"
+ },
+ {
+  "latin_full": "seminalis, e",
+  "english_original": "Seminal",
+  "german": "Sperma betreffend",
+  "czech": "semenný",
+  "sections": [
+   "S"
+  ],
+  "id": "w558"
+ },
+ {
+  "latin_full": "septum, i, n.",
+  "english_original": "A wall dividing body /shape /organ",
+  "german": "Scheidewand",
+  "czech": "přepážka",
+  "sections": [
+   "S"
+  ],
+  "id": "w559"
+ },
+ {
+  "latin_full": "serratus, a, um",
+  "english_original": "A muscle in the thorax",
+  "german": "sägeförmig, gezähnt",
+  "czech": "pilovitý, zubatý",
+  "sections": [
+   "S"
+  ],
+  "id": "w560"
+ },
+ {
+  "latin_full": "seu",
+  "english_original": "Or",
+  "german": "oder",
+  "czech": "neboli (čili)",
+  "sections": [
+   "S"
+  ],
+  "id": "w561"
+ },
+ {
+  "latin_full": "sigmoideus, ea, eum",
+  "english_original": "Sigmoid",
+  "german": "s-förmig",
+  "czech": "esovitý",
+  "sections": [
+   "S"
+  ],
+  "id": "w562"
+ },
+ {
+  "latin_full": "sinus, us, m.",
+  "english_original": "Cavity, channel , recess",
+  "german": "Vertiefung, Höhle",
+  "czech": "záliv, záhyb",
+  "sections": [
+   "S"
+  ],
+  "id": "w563"
+ },
+ {
+  "latin_full": "situs, us, m.",
+  "english_original": "Site, location, position",
+  "german": "Lage",
+  "czech": "poloha, uložení",
+  "sections": [
+   "S"
+  ],
+  "id": "w564"
+ },
+ {
+  "latin_full": "solitarius, a, um",
+  "english_original": "Solitary, lone",
+  "german": "allein",
+  "czech": "opuštěný",
+  "sections": [
+   "S"
+  ],
+  "id": "w565"
+ },
+ {
+  "latin_full": "spatium, ii, n.",
+  "english_original": "Space",
+  "german": "Spaltraum",
+  "czech": "prostor, pruh",
+  "sections": [
+   "S"
+  ],
+  "id": "w566"
+ },
+ {
+  "latin_full": "sphenoidalis, e",
+  "english_original": "Cuneiform",
+  "german": "keilförmig",
+  "czech": "klínový",
+  "sections": [
+   "S"
+  ],
+  "id": "w567"
+ },
+ {
+  "latin_full": "sphincter, is, m.",
+  "english_original": "Sphincter",
+  "german": "Schließmuskel",
+  "czech": "svěrač",
+  "sections": [
+   "S"
+  ],
+  "id": "w568"
+ },
+ {
+  "latin_full": "spina, ae, f.",
+  "english_original": "Spine",
+  "german": "Dorn, Rückgrat",
+  "czech": "trn, páteř",
+  "sections": [
+   "S"
+  ],
+  "id": "w569"
+ },
+ {
+  "latin_full": "splanchnicus, a, um",
+  "english_original": "Relating to the viscera",
+  "german": "zu den Eingeweiden gehörig",
+  "czech": "patřící k útrobám",
+  "sections": [
+   "S"
+  ],
+  "id": "w570"
+ },
+ {
+  "latin_full": "splen, is, m.",
+  "english_original": "Spleen",
+  "german": "Milz",
+  "czech": "slezina",
+  "sections": [
+   "S"
+  ],
+  "id": "w571"
+ },
+ {
+  "latin_full": "splenium, i, n.",
+  "english_original": "Bump",
+  "german": "Wulst",
+  "czech": "vypuklina",
+  "sections": [
+   "S"
+  ],
+  "id": "w572"
+ },
+ {
+  "latin_full": "splenius, a, um",
+  "english_original": "Compress, bandage",
+  "german": "Pflaster, Kompresse",
+  "czech": "obvazový",
+  "sections": [
+   "S"
+  ],
+  "id": "w573"
+ },
+ {
+  "latin_full": "spongiosus, a, um",
+  "english_original": "Resembling or spongelike",
+  "german": "schwammartig",
+  "czech": "houbovitý, porézní",
+  "sections": [
+   "S"
+  ],
+  "id": "w574"
+ },
+ {
+  "latin_full": "squama, ae, f.",
+  "english_original": "Scale",
+  "german": "Schuppe",
+  "czech": "šupina",
+  "sections": [
+   "S"
+  ],
+  "id": "w575"
+ },
+ {
+  "latin_full": "stapes, pedis, m.",
+  "english_original": "The innermost of the 3 ossicles of the ear",
+  "german": "Steigbügel",
+  "czech": "třmínek",
+  "sections": [
+   "S"
+  ],
+  "id": "w576"
+ },
+ {
+  "latin_full": "staticus, a, um",
+  "english_original": "Static, motionless",
+  "german": "statisch",
+  "czech": "klidný, nehybný, udržující rovnováhu",
+  "sections": [
+   "S"
+  ],
+  "id": "w577"
+ },
+ {
+  "latin_full": "stellatus, a, um",
+  "english_original": "Spider web like",
+  "german": "sternförmig",
+  "czech": "hvězdicovitý",
+  "sections": [
+   "S"
+  ],
+  "id": "w578"
+ },
+ {
+  "latin_full": "sternum, i, n.",
+  "english_original": "Sternum",
+  "german": "Brustbein",
+  "czech": "hrudní kost",
+  "sections": [
+   "S"
+  ],
+  "id": "w579"
+ },
+ {
+  "latin_full": "stratum, i, n.",
+  "english_original": "A sheet like mass of tissue",
+  "german": "Schicht, Lage",
+  "czech": "vrstva, pásmo, strop",
+  "sections": [
+   "S"
+  ],
+  "id": "w580"
+ },
+ {
+  "latin_full": "stria, ae, f.",
+  "english_original": "A band, line, stripe",
+  "german": "Streifen",
+  "czech": "proužek, žlábek",
+  "sections": [
+   "S"
+  ],
+  "id": "w581"
+ },
+ {
+  "latin_full": "striatus, a, um",
+  "english_original": "Striped",
+  "german": "gestreift",
+  "czech": "žíhaný, pruhovaný",
+  "sections": [
+   "S"
+  ],
+  "id": "w582"
+ },
+ {
+  "latin_full": "styloideus, a, um",
+  "english_original": "Long, pointed",
+  "german": "griffelförmig",
+  "czech": "bodcovitý",
+  "sections": [
+   "S"
+  ],
+  "id": "w583"
+ },
+ {
+  "latin_full": "subcutaneus, ea, eum",
+  "english_original": "Under the skin layers",
+  "german": "unter der Haut",
+  "czech": "podkožní",
+  "sections": [
+   "S"
+  ],
+  "id": "w584"
+ },
+ {
+  "latin_full": "substantia, ae, f.",
+  "english_original": "Substance, material, matter",
+  "german": "körper, Stoff, Masse, Gewebe",
+  "czech": "podstata, hmota",
+  "sections": [
+   "S"
+  ],
+  "id": "w585"
+ },
+ {
+  "latin_full": "sulcus, i, m.",
+  "english_original": "Groove, furrow, the brain lines",
+  "german": "Furche",
+  "czech": "žlábek, rýha, brázda",
+  "sections": [
+   "S"
+  ],
+  "id": "w586"
+ },
+ {
+  "latin_full": "supercilium, i, n.",
+  "english_original": "Eyebrow",
+  "german": "Augenbraue",
+  "czech": "obočí",
+  "sections": [
+   "S"
+  ],
+  "id": "w587"
+ },
+ {
+  "latin_full": "superficialis, e",
+  "english_original": "Superficial",
+  "german": "Oberfläche",
+  "czech": "povrchový",
+  "sections": [
+   "S"
+  ],
+  "id": "w588"
+ },
+ {
+  "latin_full": "supinator, oris, m.",
+  "english_original": "Kind of muscle",
+  "german": "Auswärtsdreher",
+  "czech": "sval provádějící supinaci",
+  "sections": [
+   "S"
+  ],
+  "id": "w589"
+ },
+ {
+  "latin_full": "suralis, e",
+  "english_original": "Fibular",
+  "german": "zur Wade gehörig",
+  "czech": "lýtkový",
+  "sections": [
+   "S"
+  ],
+  "id": "w590"
+ },
+ {
+  "latin_full": "sustentaculum, i, n.",
+  "english_original": "A structure for support",
+  "german": "Stütze",
+  "czech": "podpěra, výpomoc",
+  "sections": [
+   "S"
+  ],
+  "id": "w591"
+ },
+ {
+  "latin_full": "sutura, ae, f.",
+  "english_original": "Seam, stitch",
+  "german": "Naht",
+  "czech": "šev",
+  "sections": [
+   "S"
+  ],
+  "id": "w592"
+ },
+ {
+  "latin_full": "symphysis, is, f.",
+  "english_original": "Sideline of union",
+  "german": "Verwachsung von Knochen",
+  "czech": "spona, srůst",
+  "sections": [
+   "S"
+  ],
+  "id": "w593"
+ },
+ {
+  "latin_full": "synovia, ae, f.",
+  "english_original": "Clear, lubricating fluid made in the joints",
+  "german": "Gelenkschmiere",
+  "czech": "kloubní maz",
+  "sections": [
+   "S"
+  ],
+  "id": "w594"
+ },
+ {
+  "latin_full": "taenia, ae, f.",
+  "english_original": "ligament",
+  "german": "Band",
+  "czech": "pruh, lem",
+  "sections": [
+   "T"
+  ],
+  "id": "w595"
+ },
+ {
+  "latin_full": "talus, i, m.",
+  "english_original": "anklebone",
+  "german": "Sprungbein",
+  "czech": "kost hlezenní",
+  "sections": [
+   "T"
+  ],
+  "id": "w596"
+ },
+ {
+  "latin_full": "talocruralis, e",
+  "english_original": "ankle joint",
+  "german": "Sprunggelenk",
+  "czech": "jdoucí od hlezenní kosti k bérci",
+  "sections": [
+   "T"
+  ],
+  "id": "w597"
+ },
+ {
+  "latin_full": "tarsus, i, m.",
+  "english_original": "ankle",
+  "german": "Fußwurzel",
+  "czech": "nárt",
+  "sections": [
+   "T"
+  ],
+  "id": "w598"
+ },
+ {
+  "latin_full": "tectum, i, n.",
+  "english_original": "roof",
+  "german": "Dach",
+  "czech": "střecha",
+  "sections": [
+   "T"
+  ],
+  "id": "w599"
+ },
+ {
+  "latin_full": "tegmentum, i, n.",
+  "english_original": "top, hood",
+  "german": "Decke, Haube, Dach",
+  "czech": "povlak, obal, kryt",
+  "sections": [
+   "T"
+  ],
+  "id": "w600"
+ },
+ {
+  "latin_full": "tela, ae, f.",
+  "english_original": "connective tissue",
+  "german": "Gewebe, Bindegewebe",
+  "czech": "tkáň, tkáňová vrstva",
+  "sections": [
+   "T"
+  ],
+  "id": "w601"
+ },
+ {
+  "latin_full": "temporalis, e",
+  "english_original": "temple-",
+  "german": "Schläfen-",
+  "czech": "spánkový",
+  "sections": [
+   "T"
+  ],
+  "id": "w602"
+ },
+ {
+  "latin_full": "tempus, oris, n.",
+  "english_original": "temple",
+  "german": "Schläfe",
+  "czech": "1. skráň, 2. čas",
+  "sections": [
+   "T"
+  ],
+  "id": "w603"
+ },
+ {
+  "latin_full": "tendineus, ea, eum",
+  "english_original": "tendon-",
+  "german": "Sehnen-",
+  "czech": "šlachový",
+  "sections": [
+   "T"
+  ],
+  "id": "w604"
+ },
+ {
+  "latin_full": "tendo, inis, m.",
+  "english_original": "tendon",
+  "german": "Sehne",
+  "czech": "šlacha",
+  "sections": [
+   "T"
+  ],
+  "id": "w605"
+ },
+ {
+  "latin_full": "tensor, is, m.",
+  "english_original": "tensor",
+  "german": "Spanner",
+  "czech": "napínač",
+  "sections": [
+   "T"
+  ],
+  "id": "w606"
+ },
+ {
+  "latin_full": "tensus, a, um",
+  "english_original": "tensed",
+  "german": "gespannt",
+  "czech": "napjatý",
+  "sections": [
+   "T"
+  ],
+  "id": "w607"
+ },
+ {
+  "latin_full": "tentorium, i, n.",
+  "english_original": "tent",
+  "german": "Zelt",
+  "czech": "stan, napjatá blána",
+  "sections": [
+   "T"
+  ],
+  "id": "w608"
+ },
+ {
+  "latin_full": "tenuis, e",
+  "english_original": "fine",
+  "german": "dünn, zart",
+  "czech": "tenký, jemný",
+  "sections": [
+   "T"
+  ],
+  "id": "w609"
+ },
+ {
+  "latin_full": "teres, teretis",
+  "english_original": "terete",
+  "german": "länglichrund",
+  "czech": "oblý, hladký",
+  "sections": [
+   "T"
+  ],
+  "id": "w610"
+ },
+ {
+  "latin_full": "terminalis, e",
+  "english_original": "end-",
+  "german": "End-",
+  "czech": "konečný, hraniční",
+  "sections": [
+   "T"
+  ],
+  "id": "w611"
+ },
+ {
+  "latin_full": "tertius, a, um",
+  "english_original": "third",
+  "german": "dritter",
+  "czech": "třetí",
+  "sections": [
+   "T"
+  ],
+  "id": "w612"
+ },
+ {
+  "latin_full": "testis, is, m.",
+  "english_original": "testicle",
+  "german": "Hoden",
+  "czech": "varle",
+  "sections": [
+   "T"
+  ],
+  "id": "w613"
+ },
+ {
+  "latin_full": "thalamus, i, m.",
+  "english_original": "chamber, cave",
+  "german": "Gemach, Höhle",
+  "czech": "část mezimozku",
+  "sections": [
+   "T"
+  ],
+  "id": "w614"
+ },
+ {
+  "latin_full": "thenar, is, n.",
+  "english_original": "thenar",
+  "german": "Daumenballen",
+  "czech": "palcový val",
+  "sections": [
+   "T"
+  ],
+  "id": "w615"
+ },
+ {
+  "latin_full": "thoracicus, a, um",
+  "english_original": "relating to the thorax",
+  "german": "zum Brustkorb gehörig",
+  "czech": "hrudní",
+  "sections": [
+   "T"
+  ],
+  "id": "w616"
+ },
+ {
+  "latin_full": "thorax, acis, m.",
+  "english_original": "thorax",
+  "german": "Brustkorb",
+  "czech": "hrudník",
+  "sections": [
+   "T"
+  ],
+  "id": "w617"
+ },
+ {
+  "latin_full": "thymus, i, m.",
+  "english_original": "thymus",
+  "german": "Thymus",
+  "czech": "1. brzlík, 2. mateřídouška",
+  "sections": [
+   "T"
+  ],
+  "id": "w618"
+ },
+ {
+  "latin_full": "thyr/e/oideus",
+  "english_original": "peltate, shieldlike",
+  "german": "schildförmig",
+  "czech": "štítný, patřící ke štítné žláze",
+  "sections": [
+   "T"
+  ],
+  "id": "w619"
+ },
+ {
+  "latin_full": "tibia, ae, f.",
+  "english_original": "shin",
+  "german": "Schienbein",
+  "czech": "kost holenní",
+  "sections": [
+   "T"
+  ],
+  "id": "w620"
+ },
+ {
+  "latin_full": "tonsilla, ae, f.",
+  "english_original": "tonsil",
+  "german": "Mandel",
+  "czech": "mandle",
+  "sections": [
+   "T"
+  ],
+  "id": "w621"
+ },
+ {
+  "latin_full": "torus, i, m.",
+  "english_original": "tourniquet",
+  "german": "Aderpresse",
+  "czech": "hrbol, val",
+  "sections": [
+   "T"
+  ],
+  "id": "w622"
+ },
+ {
+  "latin_full": "trabecula, ae, f.",
+  "english_original": "trabeculae",
+  "german": "Bälkchen",
+  "czech": "trámec",
+  "sections": [
+   "T"
+  ],
+  "id": "w623"
+ },
+ {
+  "latin_full": "trachea, eae, f.",
+  "english_original": "trachea",
+  "german": "Luftröhre",
+  "czech": "průdušnice",
+  "sections": [
+   "T"
+  ],
+  "id": "w624"
+ },
+ {
+  "latin_full": "tractus, us, m.",
+  "english_original": "tract",
+  "german": "Zugstrang",
+  "czech": "dráha, průběh",
+  "sections": [
+   "T"
+  ],
+  "id": "w625"
+ },
+ {
+  "latin_full": "tragus, i, m.",
+  "english_original": "tragus",
+  "german": "die Erhebung vorn vor dem Gehörgang",
+  "czech": "1. hrbolek na boltci, 2. kozel",
+  "sections": [
+   "T"
+  ],
+  "id": "w626"
+ },
+ {
+  "latin_full": "tragi",
+  "english_original": "???",
+  "german": "pl von Tragus??",
+  "czech": "chloupky na tragu",
+  "sections": [
+   "T"
+  ],
+  "id": "w627"
+ },
+ {
+  "latin_full": "transversus, a, um",
+  "english_original": "transversely",
+  "german": "querverlaufend",
+  "czech": "příčný",
+  "sections": [
+   "T"
+  ],
+  "id": "w628"
+ },
+ {
+  "latin_full": "trapezius, a, um",
+  "english_original": "trapezoidal",
+  "german": "trapezförmig",
+  "czech": "lichoběžníkovitý",
+  "sections": [
+   "T"
+  ],
+  "id": "w629"
+ },
+ {
+  "latin_full": "trapezoideus, a, um",
+  "english_original": "trapezoidal",
+  "german": "trapezförmig",
+  "czech": "lichoběžníkovitý",
+  "sections": [
+   "T"
+  ],
+  "id": "w630"
+ },
+ {
+  "latin_full": "triceps, cipitis, m.",
+  "english_original": "triceps",
+  "german": "Triceps, Muskel mit drei Köpfen",
+  "czech": "trojhlavý sval",
+  "sections": [
+   "T"
+  ],
+  "id": "w631"
+ },
+ {
+  "latin_full": "trigeminus, a, um",
+  "english_original": "triplet, fifth cranial nerve",
+  "german": "Drilling, 5. Hirnnerv",
+  "czech": "trojitý",
+  "sections": [
+   "T"
+  ],
+  "id": "w632"
+ },
+ {
+  "latin_full": "trigonum, i, n.",
+  "english_original": "triangle",
+  "german": "Dreieck",
+  "czech": "trojúhelník",
+  "sections": [
+   "T"
+  ],
+  "id": "w633"
+ },
+ {
+  "latin_full": "triquetrus, a, um",
+  "english_original": "triangular",
+  "german": "dreieckig",
+  "czech": "trojhranný",
+  "sections": [
+   "T"
+  ],
+  "id": "w634"
+ },
+ {
+  "latin_full": "trochanter, is, m.",
+  "english_original": "trochanter",
+  "german": "Rollhügel",
+  "czech": "chocholík, výrůstek",
+  "sections": [
+   "T"
+  ],
+  "id": "w635"
+ },
+ {
+  "latin_full": "trochlea, eae, f.",
+  "english_original": "trochlea",
+  "german": "Rolle",
+  "czech": "kladka",
+  "sections": [
+   "T"
+  ],
+  "id": "w636"
+ },
+ {
+  "latin_full": "truncus, i, m.",
+  "english_original": "trunk",
+  "german": "Stamm",
+  "czech": "kmen, trup",
+  "sections": [
+   "T"
+  ],
+  "id": "w637"
+ },
+ {
+  "latin_full": "tuba, ae, f.",
+  "english_original": "trumpet",
+  "german": "Trompete",
+  "czech": "trubice, roura",
+  "sections": [
+   "T"
+  ],
+  "id": "w638"
+ },
+ {
+  "latin_full": "tuber, eris, n.",
+  "english_original": "tuber",
+  "german": "Höcker, Vorsprung",
+  "czech": "hrbol",
+  "sections": [
+   "T"
+  ],
+  "id": "w639"
+ },
+ {
+  "latin_full": "tuberculum, i, n.",
+  "english_original": "tuberculum",
+  "german": "Höckerchen",
+  "czech": "hrbolek",
+  "sections": [
+   "T"
+  ],
+  "id": "w640"
+ },
+ {
+  "latin_full": "tuberositas, atis, f.",
+  "english_original": "tuberosity",
+  "german": "Höcker, rauher Vorsprung",
+  "czech": "drsnatina",
+  "sections": [
+   "T"
+  ],
+  "id": "w641"
+ },
+ {
+  "latin_full": "tunica, ae, f.",
+  "english_original": "tunic, thin skin",
+  "german": "Hülle, Haut",
+  "czech": "obal, spodní vrstva",
+  "sections": [
+   "T"
+  ],
+  "id": "w642"
+ },
+ {
+  "latin_full": "tympanicus, a, um",
+  "english_original": "timpani",
+  "german": "Pauke",
+  "czech": "bubínkový, středoušní",
+  "sections": [
+   "T"
+  ],
+  "id": "w643"
+ },
+ {
+  "latin_full": "ulna, ae, f.",
+  "english_original": "ulna",
+  "german": "Elle",
+  "czech": "kost loketní",
+  "sections": [
+   "U"
+  ],
+  "id": "w644"
+ },
+ {
+  "latin_full": "umbilicus, i, m.",
+  "english_original": "navel",
+  "german": "Nabel",
+  "czech": "pupek",
+  "sections": [
+   "U"
+  ],
+  "id": "w645"
+ },
+ {
+  "latin_full": "umbo, onis, m.",
+  "english_original": "???",
+  "german": "Stippchen",
+  "czech": "výstupek, pupek",
+  "sections": [
+   "U"
+  ],
+  "id": "w646"
+ },
+ {
+  "latin_full": "uncinatus, a, um",
+  "english_original": "hooked",
+  "german": "mit Haken versehen",
+  "czech": "háčkovitý, zobcovitý",
+  "sections": [
+   "U"
+  ],
+  "id": "w647"
+ },
+ {
+  "latin_full": "uncus, i, m.",
+  "english_original": "hook",
+  "german": "Haken",
+  "czech": "hák, svorka",
+  "sections": [
+   "U"
+  ],
+  "id": "w648"
+ },
+ {
+  "latin_full": "unguis, is, m.",
+  "english_original": "nail",
+  "german": "Nagel",
+  "czech": "nehet, dráp",
+  "sections": [
+   "U"
+  ],
+  "id": "w649"
+ },
+ {
+  "latin_full": "ureter, is, m.",
+  "english_original": "ureter",
+  "german": "Harnleiter",
+  "czech": "močovod",
+  "sections": [
+   "U"
+  ],
+  "id": "w650"
+ },
+ {
+  "latin_full": "urethra, ae, f.",
+  "english_original": "urethra",
+  "german": "Harnröhre",
+  "czech": "močová trubice",
+  "sections": [
+   "U"
+  ],
+  "id": "w651"
+ },
+ {
+  "latin_full": "urina, ae. f.",
+  "english_original": "urine",
+  "german": "Urin, Harn",
+  "czech": "moč",
+  "sections": [
+   "U"
+  ],
+  "id": "w652"
+ },
+ {
+  "latin_full": "uterus, i, m.",
+  "english_original": "uterus",
+  "german": "Gebärmutter",
+  "czech": "děloha",
+  "sections": [
+   "U"
+  ],
+  "id": "w653"
+ },
+ {
+  "latin_full": "uterinus, a, um",
+  "english_original": "relating to the uterus",
+  "german": "zum Uterus gehörig",
+  "czech": "děložní",
+  "sections": [
+   "U"
+  ],
+  "id": "w654"
+ },
+ {
+  "latin_full": "utriculus, i, m.",
+  "english_original": "small tube",
+  "german": "kleiner Schlauch",
+  "czech": "trubička, chodbička",
+  "sections": [
+   "U"
+  ],
+  "id": "w655"
+ },
+ {
+  "latin_full": "uvula, ae, f.",
+  "english_original": "uvula",
+  "german": "Zäpfchen (am Gaumen)",
+  "czech": "čípek",
+  "sections": [
+   "U"
+  ],
+  "id": "w656"
+ },
+ {
+  "latin_full": "vagina, ae, f.",
+  "english_original": "vagina",
+  "german": "Vagina, Scheide",
+  "czech": "pochva",
+  "sections": [
+   "V"
+  ],
+  "id": "w657"
+ },
+ {
+  "latin_full": "vagus, a, um",
+  "english_original": "10.cranial nerve",
+  "german": "10. Gehirnnerv, Lungen-, Magen-Nerv",
+  "czech": "bloudivý",
+  "sections": [
+   "V"
+  ],
+  "id": "w658"
+ },
+ {
+  "latin_full": "valgus, a, um",
+  "english_original": "flatfoot",
+  "german": "schief, Plattfuß",
+  "czech": "vbočený",
+  "sections": [
+   "V"
+  ],
+  "id": "w659"
+ },
+ {
+  "latin_full": "vallatus, a, um",
+  "english_original": "entrenched",
+  "german": "bedeckt",
+  "czech": "hrazený",
+  "sections": [
+   "V"
+  ],
+  "id": "w660"
+ },
+ {
+  "latin_full": "valva, ae, f.",
+  "english_original": "valve",
+  "german": "Klappe",
+  "czech": "chlopeň",
+  "sections": [
+   "V"
+  ],
+  "id": "w661"
+ },
+ {
+  "latin_full": "valvula, ae, f.",
+  "english_original": "valve",
+  "german": "Klappe",
+  "czech": "malá chlopeň",
+  "sections": [
+   "V"
+  ],
+  "id": "w662"
+ },
+ {
+  "latin_full": "varus, a, um",
+  "english_original": "knock-kneed",
+  "german": "schief, O-Bein",
+  "czech": "křivý, vybočený",
+  "sections": [
+   "V"
+  ],
+  "id": "w663"
+ },
+ {
+  "latin_full": "vas, vasis, n.",
+  "english_original": "vessel",
+  "german": "Gefäß",
+  "czech": "céva",
+  "sections": [
+   "V"
+  ],
+  "id": "w664"
+ },
+ {
+  "latin_full": "vascularis, e",
+  "english_original": "relating to the vascular system",
+  "german": "zum Gefäßsystem gehörig",
+  "czech": "cévní",
+  "sections": [
+   "V"
+  ],
+  "id": "w665"
+ },
+ {
+  "latin_full": "vastus, a, um",
+  "english_original": "very large",
+  "german": "sehr groß",
+  "czech": "široký, rozložitý",
+  "sections": [
+   "V"
+  ],
+  "id": "w666"
+ },
+ {
+  "latin_full": "velum, i, n.",
+  "english_original": "sail",
+  "german": "Segel",
+  "czech": "plachta, opona",
+  "sections": [
+   "V"
+  ],
+  "id": "w667"
+ },
+ {
+  "latin_full": "vena, ae, f.",
+  "english_original": "vein",
+  "german": "Vene",
+  "czech": "žíla",
+  "sections": [
+   "V"
+  ],
+  "id": "w668"
+ },
+ {
+  "latin_full": "venter, tris, m.",
+  "english_original": "belly",
+  "german": "Bauch",
+  "czech": "břicho, žaludek",
+  "sections": [
+   "V"
+  ],
+  "id": "w669"
+ },
+ {
+  "latin_full": "ventriculus, i, m.",
+  "english_original": "chamber",
+  "german": "Venktrikel, Herzkammer",
+  "czech": "komora, žaludek",
+  "sections": [
+   "V"
+  ],
+  "id": "w670"
+ },
+ {
+  "latin_full": "vermis, is, m.",
+  "english_original": "worm",
+  "german": "Wurm",
+  "czech": "červ",
+  "sections": [
+   "V"
+  ],
+  "id": "w671"
+ },
+ {
+  "latin_full": "vertebra, ae, f.",
+  "english_original": "vertebra",
+  "german": "Wirbel",
+  "czech": "obratel",
+  "sections": [
+   "V"
+  ],
+  "id": "w672"
+ },
+ {
+  "latin_full": "vesica, ae, f.",
+  "english_original": "bladder",
+  "german": "Blase",
+  "czech": "měchýř",
+  "sections": [
+   "V"
+  ],
+  "id": "w673"
+ },
+ {
+  "latin_full": "vesicula, ae, f.",
+  "english_original": "small bladder",
+  "german": "Bläschen, Hautbläschen",
+  "czech": "puchýřek",
+  "sections": [
+   "V"
+  ],
+  "id": "w674"
+ },
+ {
+  "latin_full": "vestibulum, i, n.",
+  "english_original": "forecourt, entrance",
+  "german": "Vorhof, Eingang",
+  "czech": "předsíň, vchod",
+  "sections": [
+   "V"
+  ],
+  "id": "w675"
+ },
+ {
+  "latin_full": "vibrissae, arum (plurál)",
+  "english_original": "??",
+  "german": "Haare im Naseneingang",
+  "czech": "vousy, chlupy ve vestibulum nasi",
+  "sections": [
+   "V"
+  ],
+  "id": "w676"
+ },
+ {
+  "latin_full": "villus, i, m.",
+  "english_original": "villus",
+  "german": "Zotte",
+  "czech": "klk",
+  "sections": [
+   "V"
+  ],
+  "id": "w677"
+ },
+ {
+  "latin_full": "vinculum, i, n.",
+  "english_original": "tape",
+  "german": "Band",
+  "czech": "pouto, provaz",
+  "sections": [
+   "V"
+  ],
+  "id": "w678"
+ },
+ {
+  "latin_full": "visceralis, e",
+  "english_original": "visceral",
+  "german": "die Eingeweide betreffend",
+  "czech": "útrobní",
+  "sections": [
+   "V"
+  ],
+  "id": "w679"
+ },
+ {
+  "latin_full": "visus, us, m.",
+  "english_original": "seeing, visual acutiy",
+  "german": "Sehen, Sehschärfe",
+  "czech": "zrak, vidění",
+  "sections": [
+   "V"
+  ],
+  "id": "w680"
+ },
+ {
+  "latin_full": "vita, ae, f.",
+  "english_original": "life",
+  "german": "Leben",
+  "czech": "život",
+  "sections": [
+   "V"
+  ],
+  "id": "w681"
+ },
+ {
+  "latin_full": "vitreus, a, um",
+  "english_original": "glassy",
+  "german": "gläsern, glasig",
+  "czech": "sklovitý, průhledný",
+  "sections": [
+   "V"
+  ],
+  "id": "w682"
+ },
+ {
+  "latin_full": "vocalis, e",
+  "english_original": "vocal",
+  "german": "Stimm-",
+  "czech": "hlasový",
+  "sections": [
+   "V"
+  ],
+  "id": "w683"
+ },
+ {
+  "latin_full": "vomer, is, m.",
+  "english_original": "The ploughshare",
+  "german": "Pflugschar",
+  "czech": "kost radličná",
+  "sections": [
+   "V"
+  ],
+  "id": "w684"
+ },
+ {
+  "latin_full": "vortex, ticis, m.",
+  "english_original": "vortex",
+  "german": "Wirbel",
+  "czech": "vír",
+  "sections": [
+   "V"
+  ],
+  "id": "w685"
+ },
+ {
+  "latin_full": "vulva, ae, f.",
+  "english_original": "vulva",
+  "german": "äußere Scham",
+  "czech": "lůno",
+  "sections": [
+   "V"
+  ],
+  "id": "w686"
+ },
+ {
+  "latin_full": "xiphoideus",
+  "english_original": "Xiphoid, the small extension of the lower part of the sternum",
+  "german": "Schwertfortsatz",
+  "czech": "mečovitý",
+  "sections": [
+   "X"
+  ],
+  "id": "w687"
+ },
+ {
+  "latin_full": "zona, ae, f.",
+  "english_original": "A segment , encircling /belt like structure",
+  "german": "Gürtel, Bezirk",
+  "czech": "pásmo, pruh",
+  "sections": [
+   "Z"
+  ],
+  "id": "w688"
+ },
+ {
+  "latin_full": "zonula, ae, f.",
+  "english_original": "Series of fibers in the eyeball",
+  "german": "kleiner Gürtel",
+  "czech": "pásek, proužek",
+  "sections": [
+   "Z"
+  ],
+  "id": "w689"
+ },
+ {
+  "latin_full": "zygomaticus, a, um",
+  "english_original": "A muscle in the upper lip",
+  "german": "zum Jochbogen gehörend",
+  "czech": "jařmový, lícní",
+  "sections": [
+   "Z"
+  ],
+  "id": "w690"
+ }
+]

@@ -1,0 +1,2737 @@
+{
+ "w402": {
+  "title": "Human nose",
+  "file": "Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg",
+  "src": "img/w402.jpg",
+  "credit": "Franco Folini",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of a human nose, the structure fills the frame"
+ },
+ "w406": {
+  "title": "Nerve",
+  "file": "1319_Nerve_StructureN.jpg",
+  "src": "img/w406.jpg",
+  "credit": "OpenStax College",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:1319_Nerve_StructureN.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram and histology of nerve structure"
+ },
+ "w409": {
+  "title": "Lymph node",
+  "file": "Schematic_of_lymph_node_showing_lymph_sinuses.svg",
+  "src": "img/w409.jpg",
+  "credit": "KC Panchal",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Schematic_of_lymph_node_showing_lymph_sinuses.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of a lymph node (nodus lymphaticus)"
+ },
+ "w410": {
+  "title": "Nape",
+  "file": "Geisha-kyoto-2004-11-21.jpg",
+  "src": "img/w410.jpg",
+  "credit": "Daniel Bachler",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Geisha-kyoto-2004-11-21.jpg",
+  "approved": false,
+  "reason": "Cultural photo of maiko; nape visible but not anatomical depiction, person photo where structure isn't the clear point"
+ },
+ "w381": {
+  "title": "Chin",
+  "file": "Crane3chin.png",
+  "src": "img/w381.jpg",
+  "credit": "Pied Kiwi",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Crane3chin.png",
+  "approved": true,
+  "reason": "Skull photo with chin region (mental protuberance) clearly highlighted; anatomical specimen, easy to locate."
+ },
+ "w382": {
+  "title": "Midbrain",
+  "approved": false,
+  "reason": "no free page image"
+ },
+ "w383": {
+  "title": "Mesentery",
+  "file": "Mesentery_extending_from_the_duodenojejunal_flexure_to_the_ileocecal_junction._(with_label).png",
+  "src": "img/w383.jpg",
+  "credit": "[1]",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mesentery_extending_from_the_duodenojejunal_flexure_to_the_ileocecal_junction._(with_label).png",
+  "approved": true,
+  "reason": "Clear 3D anatomical illustration with mesentery highlighted and labeled"
+ },
+ "w384": {
+  "title": "Metacarpal bones",
+  "file": "Metacarpal_bones_(left_hand)_01_palmar_view_with_label.png",
+  "src": "img/w384.jpg",
+  "credit": "BodyParts3D is made by DBCLS. Rendering the image is by was_a_bee, using Blender.",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Metacarpal_bones_(left_hand)_01_palmar_view_with_label.png",
+  "approved": true,
+  "reason": "Clear 3D hand skeleton with all five metacarpals highlighted in red"
+ },
+ "w385": {
+  "title": "Metatarsal bones",
+  "file": "Metatarsal_bones01_-_superior_view.png",
+  "src": "img/w385.jpg",
+  "credit": "BodyParts3D is made by DBCLS.",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Metatarsal_bones01_-_superior_view.png",
+  "approved": true,
+  "reason": "Clear 3D model of both feet with the five metatarsal bones highlighted in green"
+ },
+ "w389": {
+  "title": "Molar (tooth)",
+  "file": "Lower_wisdom_tooth.jpg",
+  "src": "img/w389.jpg",
+  "credit": "No machine-readable author provided. Gleam~commonswiki assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lower_wisdom_tooth.jpg",
+  "approved": true,
+  "reason": "Clear photo of an extracted molar showing crown cusps and roots"
+ },
+ "w551": {
+  "title": "Scapula",
+  "file": "Pectoral_girdle_front_diagram.svg",
+  "src": "img/w551.jpg",
+  "credit": "LadyofHats Mariana Ruiz Villarreal",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Pectoral_girdle_front_diagram.svg",
+  "approved": true,
+  "reason": "Clear anatomical diagram with scapula highlighted and labeled"
+ },
+ "w552": {
+  "title": "Sclera",
+  "file": "Sclera.PNG",
+  "src": "img/w552.jpg",
+  "credit": "Mikael Häggström",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sclera.PNG",
+  "approved": true,
+  "reason": "Clear eye cross-section diagram with sclera prominently labeled"
+ },
+ "w553": {
+  "title": "Scrotum",
+  "file": "Relaxed_and_contracted_male_scrotum.jpg",
+  "src": "img/w553.jpg",
+  "credit": "Polarstern derivative work: Bebop7",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Relaxed_and_contracted_male_scrotum.jpg",
+  "approved": false,
+  "reason": "Real photo of genitals; criteria require rejecting nudity/genital photos"
+ },
+ "w555": {
+  "title": "Sella turcica",
+  "file": "Sella_turcica08.png",
+  "src": "img/w555.jpg",
+  "credit": "Polygon data is from BodyParts3D",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Sella_turcica08.png",
+  "approved": true,
+  "reason": "3D skull model with sella turcica highlighted in red"
+ },
+ "w591": {
+  "title": "Sustentaculum tali",
+  "file": "Subtalar_Joint.svg",
+  "src": "img/w591.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Subtalar_Joint.svg",
+  "approved": false,
+  "reason": "Talus and calcaneus diagram that never labels the sustentaculum tali"
+ },
+ "w592": {
+  "title": "Suture (anatomy)",
+  "file": "Human_skull_no_text_no_color.svg",
+  "src": "img/w592.jpg",
+  "credit": "LadyofHats Mariana Ruiz Villarreal",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_skull_no_text_no_color.svg",
+  "approved": true,
+  "reason": "Clear skull diagram showing visible suture lines"
+ },
+ "w593": {
+  "title": "Pubic symphysis",
+  "file": "Gray321.png",
+  "src": "img/w593.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray321.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing clearly showing the pubic symphysis with its interpubic fibrocartilaginous lamina labeled."
+ },
+ "w595": {
+  "title": "Taenia coli",
+  "file": "Gray1076.png",
+  "src": "img/w595.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1076.png",
+  "approved": false,
+  "reason": "Gray's drawing of pelvic colon and rectum; the taenia coli bands are not labeled or easy to identify"
+ },
+ "w596": {
+  "title": "Talus bone",
+  "file": "Subtalar_Joint.svg",
+  "src": "img/w596.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Subtalar_Joint.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram highlighting talus in blue"
+ },
+ "w597": {
+  "title": "Ankle",
+  "file": "Ankle.jpg",
+  "src": "img/w597.jpg",
+  "credit": "אנדר-ויק",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ankle.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of ankle region, structure is the focus"
+ },
+ "w598": {
+  "title": "Tarsus (skeleton)",
+  "file": "Tarsus2.png",
+  "src": "img/w598.jpg",
+  "credit": "Original image is by Tubantia, clolor changed by user:was_a_bee",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tarsus2.png",
+  "approved": true,
+  "reason": "Clear diagram of foot skeleton with tarsal bones color-coded and labeled"
+ },
+ "w599": {
+  "title": "Tectum",
+  "file": "Midbrain_of_the_Human_Brainstem.svg",
+  "src": "img/w599.jpg",
+  "credit": "Svenskbygderna",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Midbrain_of_the_Human_Brainstem.svg",
+  "approved": true,
+  "reason": "Labeled sagittal brainstem/cerebellum diagram with tectum highlighted in red"
+ },
+ "w600": {
+  "title": "Midbrain tegmentum",
+  "file": "Gray712.png",
+  "src": "img/w600.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray712.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy midbrain cross-section with tegmentum clearly labeled"
+ },
+ "w241": {
+  "title": "Glomerulus (kidney)",
+  "file": "Bowman's_capsule_and_glomerulus.svg",
+  "src": "img/w241.jpg",
+  "credit": "Mikael Häggström",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bowman%27s_capsule_and_glomerulus.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of glomerular capillary tuft in Bowman's capsule"
+ },
+ "w242": {
+  "title": "Tongue",
+  "file": "زبان_tongue.jpg",
+  "src": "img/w242.jpg",
+  "credit": "Mahdiabbasinv",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%D8%B2%D8%A8%D8%A7%D9%86_tongue.jpg",
+  "approved": true,
+  "reason": "Clear close-up medical photo of a human tongue; the structure is the obvious focus."
+ },
+ "w243": {
+  "title": "Gluteal muscles",
+  "file": "Gluteus_maximus.png",
+  "src": "img/w243.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gluteus_maximus.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing with gluteal muscles highlighted in red"
+ },
+ "w247": {
+  "title": "Gyrus",
+  "file": "Gyrus_sulcus-en.svg",
+  "src": "img/w247.jpg",
+  "credit": "Jmarchn",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gyrus_sulcus-en.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing gyrus as a ridge with sulci"
+ },
+ "w248": {
+  "title": "Toe",
+  "file": "Toes.png",
+  "src": "img/w248.jpg",
+  "credit": "Stoneisland24",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Toes.png",
+  "approved": true,
+  "reason": "Clear photo of foot with big toe (hallux) prominent and easy to identify"
+ },
+ "w249": {
+  "title": "Hamate bone",
+  "file": "OsCrochuDroit.jpg",
+  "src": "img/w249.jpg",
+  "credit": "Adrien Charpy",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:OsCrochuDroit.jpg",
+  "approved": true,
+  "reason": "Clear drawing of the hamate with its hook labeled; note the '5th metatarsal' label is an error and should read 'metacarpal'."
+ },
+ "w250": {
+  "title": "Cerebral hemisphere",
+  "file": "Blausen_0215_CerebralHemispheres.png",
+  "src": "img/w250.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0215_CerebralHemispheres.png",
+  "approved": true,
+  "reason": "Clear 3D diagram with the left and right cerebral hemispheres color-coded and labeled"
+ },
+ "w511": {
+  "title": "Pupil",
+  "file": "Eye_iris.jpg",
+  "src": "img/w511.jpg",
+  "credit": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Eye_iris.jpg",
+  "approved": true,
+  "reason": "Clear close-up of eye; black pupil prominent at iris center"
+ },
+ "w512": {
+  "title": "Putamen",
+  "file": "Putamen.svg",
+  "src": "img/w512.jpg",
+  "credit": "File:BrainCaudatePutamen.svg: User:Leevanjackson Derivative work: User:SUM1",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Putamen.svg",
+  "approved": true,
+  "reason": "Clear schematic brain diagram with putamen highlighted in red"
+ },
+ "w513": {
+  "title": "Pylorus",
+  "file": "Gray1050.png",
+  "src": "img/w513.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1050.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing of the stomach with the pylorus clearly labeled"
+ },
+ "w516": {
+  "title": "Quadriceps femoris muscle",
+  "file": "Quadriceps_3D.gif",
+  "src": "img/w516.jpg",
+  "credit": "BodyParts3D/Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Quadriceps_3D.gif",
+  "approved": true,
+  "reason": "Clear anatomical diagram highlighting the four quadriceps heads in distinct colors on the thighs."
+ },
+ "w500": {
+  "title": "Sacral promontory",
+  "file": "Sacrum_-_anterior_view04.png",
+  "src": "img/w500.jpg",
+  "credit": "BodyParts3D is made by DBCLS",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Sacrum_-_anterior_view04.png",
+  "approved": true,
+  "reason": "Clear 3D pelvis model with sacrum highlighted; promontory visible at upper anterior edge"
+ },
+ "w051": {
+  "title": "Cerebral aqueduct",
+  "file": "Cn3nucleus-en.svg",
+  "src": "img/w051.jpg",
+  "credit": "Jmarchn",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cn3nucleus-en.svg",
+  "approved": true,
+  "reason": "Clear labeled midbrain diagram showing the cerebral aqueduct"
+ },
+ "w052": {
+  "title": "Arachnoid mater",
+  "file": "3D_Medical_Illustration_Meninges_Details.jpg",
+  "src": "img/w052.jpg",
+  "credit": "https://www.scientificanimations.com",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3D_Medical_Illustration_Meninges_Details.jpg",
+  "approved": true,
+  "reason": "Clear labeled meninges diagram showing arachnoid as middle layer"
+ },
+ "w055": {
+  "title": "Artery",
+  "file": "Artery.svg",
+  "src": "img/w055.jpg",
+  "credit": "Kelvinsong",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Artery.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of an artery showing blood flow from heart"
+ },
+ "w056": {
+  "title": "Joint",
+  "file": "Joint.svg",
+  "src": "img/w056.jpg",
+  "credit": "Madhero88",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Joint.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of a synovial joint"
+ },
+ "w058": {
+  "title": "Atlas (anatomy)",
+  "file": "C1_lateral.png",
+  "src": "img/w058.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:C1_lateral.png",
+  "approved": true,
+  "reason": "Clear lateral anatomical render with the atlas (C1) highlighted in red below the skull."
+ },
+ "w060": {
+  "title": "Atrium (heart)",
+  "file": "Diagram_of_the_human_heart_(cropped).svg",
+  "src": "img/w060.jpg",
+  "credit": "Wapcaplet",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Diagram_of_the_human_heart_(cropped).svg",
+  "approved": true,
+  "reason": "Clear labeled heart diagram showing right and left atria"
+ },
+ "w418": {
+  "title": "Occipital bone",
+  "file": "Occipital_bone_lateral2.png",
+  "src": "img/w418.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Occipital_bone_lateral2.png",
+  "approved": true,
+  "reason": "Clear 3D skull model with occipital bone highlighted in green"
+ },
+ "w420": {
+  "title": "Oculomotor nerve",
+  "file": "Brain_human_normal_inferior_view_with_labels_en.svg",
+  "src": "img/w420.jpg",
+  "credit": "Brain_human_normal_inferior_view.svg: Patrick J. Lynch, medical illustrator derivative work: Beao",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of brain base showing oculomotor nerve"
+ },
+ "w292": {
+  "title": "Tendinous intersection",
+  "file": "Rectus_abdominis.png",
+  "src": "img/w292.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rectus_abdominis.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing of the highlighted rectus abdominis, with its tendinous intersections visible as cross-bands."
+ },
+ "w293": {
+  "title": "Gastrointestinal tract",
+  "file": "Stomach_colon_rectum_diagram-en.svg",
+  "src": "img/w293.jpg",
+  "credit": "Indolences created it on the English Wikipedia. This SVG image was created by Medium69. Cette image SVG a été créée par ",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Stomach_colon_rectum_diagram-en.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of small intestine and colon"
+ },
+ "w296": {
+  "title": "Iris (anatomy)",
+  "file": "Human_eye_close_up,_anterior_view.jpg",
+  "src": "img/w296.jpg",
+  "credit": "Rapidreflex",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_eye_close_up,_anterior_view.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of the iris with detailed brown colored ring around pupil"
+ },
+ "w298": {
+  "title": "Ischium",
+  "file": "Pelvic_girdle_illustration.svg",
+  "src": "img/w298.jpg",
+  "credit": "Original: U.S. National Cancer Institute; Vectorization: Fred the Oyster; German translation kopiersperre/Rothwild",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pelvic_girdle_illustration.svg",
+  "approved": true,
+  "reason": "Clear labeled pelvic diagram with ischium marked"
+ },
+ "w300": {
+  "title": "Jejunum",
+  "file": "Illu_small_intestine.jpg",
+  "src": "img/w300.jpg",
+  "credit": "Ukendt",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_small_intestine.jpg",
+  "approved": true,
+  "reason": "Clear anatomical drawing with jejunum labeled within the small intestine"
+ },
+ "w651": {
+  "title": "Urethra",
+  "file": "Female_and_Male_Urethra.jpg",
+  "src": "img/w651.jpg",
+  "credit": "OpenStax College",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Female_and_Male_Urethra.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram showing urethra in female and male pelvis"
+ },
+ "w653": {
+  "title": "Uterus",
+  "file": "Illu_cervix.svg",
+  "src": "img/w653.jpg",
+  "credit": "Original: ‍US Government Vector: Pixelsquid🎱",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_cervix.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram with uterus prominently indicated"
+ },
+ "w655": {
+  "title": "Utricle (ear)",
+  "file": "Bony_labyrinth.svg",
+  "src": "img/w655.jpg",
+  "credit": "Mouagip",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bony_labyrinth.svg",
+  "approved": true,
+  "reason": "Clear inner ear labyrinth diagram; utricle shown as dashed circle on vestibule"
+ },
+ "w656": {
+  "title": "Palatine uvula",
+  "file": "Uvula_of_an_adult.jpg",
+  "src": "img/w656.jpg",
+  "credit": "JonaLane",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Uvula_of_an_adult.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of open mouth with uvula centered and easy to identify."
+ },
+ "w657": {
+  "title": "Vagina",
+  "file": "Vaginal_Canal_Normal_vs._Menopause.png",
+  "src": "img/w657.jpg",
+  "credit": "BruceBlaus",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vaginal_Canal_Normal_vs._Menopause.png",
+  "approved": true,
+  "reason": "Clear anatomical illustration of vaginal canal cross-section, non-explicit"
+ },
+ "w658": {
+  "title": "Vagus nerve",
+  "file": "Gray791.png",
+  "src": "img/w658.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray791.png",
+  "approved": true,
+  "reason": "Clear anatomical diagram with the vagus nerve labeled and its ganglia and branches shown"
+ },
+ "w172": {
+  "title": "Emissary veins",
+  "approved": false,
+  "reason": "no free page image"
+ },
+ "w173": {
+  "title": "Tooth enamel",
+  "file": "Labeledmolar.jpg",
+  "src": "img/w173.jpg",
+  "credit": "No machine-readable author provided. Dozenist assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Labeledmolar.jpg",
+  "approved": true,
+  "reason": "Clear photo of extracted molar with enamel labeled"
+ },
+ "w174": {
+  "title": "Brain",
+  "file": "Chimp_Brain_in_a_jar.jpg",
+  "src": "img/w174.jpg",
+  "credit": "Gaetan Lee . Tilt corrected by Kaldari.",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chimp_Brain_in_a_jar.jpg",
+  "approved": true,
+  "reason": "Clear preserved whole brain specimen, structure is the obvious focus"
+ },
+ "w175": {
+  "title": "Endometrium",
+  "file": "Basic_Female_Reproductive_System_(English).svg",
+  "src": "img/w175.jpg",
+  "credit": "Source file: LouisBB This file: Svenskbygderna (talk)",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Basic_Female_Reproductive_System_(English).svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of the uterus with the endometrium marked"
+ },
+ "w177": {
+  "title": "Epidermis",
+  "file": "Epidermis-delimited.JPG",
+  "src": "img/w177.jpg",
+  "credit": "Normal_Epidermis_and_Dermis_with_Intradermal_Nevus_10x.JPG: Kilbad Cropped and labeled by Fama Clamosa (talk) and Mikael",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Epidermis-delimited.JPG",
+  "approved": true,
+  "reason": "Clear labeled histology image showing epidermis versus dermis"
+ },
+ "w178": {
+  "title": "Epididymis",
+  "file": "Epididymis-KDS.jpg",
+  "src": "img/w178.jpg",
+  "credit": "KDS444",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Epididymis-KDS.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of epididymis on testis"
+ },
+ "w431": {
+  "title": "Orbit (anatomy)",
+  "file": "Eye_orbit_anatomy_anterior2.jpg",
+  "src": "img/w431.jpg",
+  "credit": "Patrick J. Lynch, medical illustrator",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Eye_orbit_anatomy_anterior2.jpg",
+  "approved": true,
+  "reason": "Clear anatomical illustration of eyeball within bony orbit"
+ },
+ "w433": {
+  "title": "Mouth",
+  "file": "Lion_Showing_off_His_Mouth_(21454262492).jpg",
+  "src": "img/w433.jpg",
+  "credit": "Eric Kilby from Somerville, MA, USA",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lion_Showing_off_His_Mouth_(21454262492).jpg",
+  "approved": true,
+  "reason": "Clear close-up of wide-open lion mouth; structure obvious"
+ },
+ "w438": {
+  "title": "Ovary",
+  "file": "Basic_Female_Reproductive_System_(English).svg",
+  "src": "img/w438.jpg",
+  "credit": "Source file: LouisBB This file: Svenskbygderna (talk)",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Basic_Female_Reproductive_System_(English).svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram; ovary easy to find"
+ },
+ "w440": {
+  "title": "Palate",
+  "file": "Illu01_head_neck.jpg",
+  "src": "img/w440.jpg",
+  "credit": "Arcadian",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu01_head_neck.jpg",
+  "approved": true,
+  "reason": "Clear labeled sagittal diagram with palate (roof of mouth) marked by arrow"
+ },
+ "w272": {
+  "title": "Choroid",
+  "file": "Blausen_0388_EyeAnatomy_01.png",
+  "src": "img/w272.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0388_EyeAnatomy_01.png",
+  "approved": true,
+  "reason": "Clear labeled eye diagram showing choroid layer"
+ },
+ "w274": {
+  "title": "Ileum",
+  "file": "Illu_small_intestine.jpg",
+  "src": "img/w274.jpg",
+  "credit": "Ukendt",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_small_intestine.jpg",
+  "approved": true,
+  "reason": "Clear anatomical diagram with ileum labeled"
+ },
+ "w277": {
+  "title": "Ilium (bone)",
+  "file": "Pelvis_diagram.png",
+  "src": "img/w277.jpg",
+  "credit": "Je at uwo at English Wikipedia",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Pelvis_diagram.png",
+  "approved": true,
+  "reason": "Clear labeled pelvis diagram with ilium prominently marked"
+ },
+ "w631": {
+  "title": "Triceps",
+  "file": "Triceps_brachii.png",
+  "src": "img/w631.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Triceps_brachii.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing highlighting and labeling triceps brachii"
+ },
+ "w632": {
+  "title": "Trigeminal nerve",
+  "file": "Grant_1962_654.png",
+  "src": "img/w632.jpg",
+  "credit": "Grant, John Charles Boileu",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Grant_1962_654.png",
+  "approved": true,
+  "reason": "Classic labeled anatomical drawing of trigeminal nerve showing its three divisions V1, V2, V3"
+ },
+ "w634": {
+  "title": "Triquetral bone",
+  "file": "HandSkeletonWithTriqueterumHighlighted.png",
+  "src": "img/w634.jpg",
+  "credit": "Henry Gray",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:HandSkeletonWithTriqueterumHighlighted.png",
+  "approved": true,
+  "reason": "Clear 3D hand skeleton with triquetral bone highlighted in red"
+ },
+ "w635": {
+  "title": "Greater trochanter",
+  "file": "Gray243.png",
+  "src": "img/w635.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray243.png",
+  "approved": true,
+  "reason": "Clear Gray's anatomy drawing of upper femur with greater and lesser trochanters labeled"
+ },
+ "w636": {
+  "title": "Trochlea of humerus",
+  "file": "Gray207-trochlea-capitulum.png",
+  "src": "img/w636.jpg",
+  "credit": "Fama Clamosa",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray207-trochlea-capitulum.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing with trochlea labeled on distal humerus"
+ },
+ "w462": {
+  "title": "Pelvis",
+  "file": "Gray241.png",
+  "src": "img/w462.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray241.png",
+  "approved": true,
+  "reason": "Clear classic anatomical drawing of the whole bony pelvis with labeled parts"
+ },
+ "w463": {
+  "title": "Penis",
+  "file": "Penis_asiatischer_Elefant.JPG",
+  "src": "img/w463.jpg",
+  "credit": "4028mdk09",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Penis_asiatischer_Elefant.JPG",
+  "approved": false,
+  "reason": "Close-up photo of animal genitals, not a diagram"
+ },
+ "w465": {
+  "title": "Pericardium",
+  "file": "Blausen_0470_HeartWall.png",
+  "src": "img/w465.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0470_HeartWall.png",
+  "approved": true,
+  "reason": "Clear labeled diagram showing parietal and visceral pericardium layers"
+ },
+ "w466": {
+  "title": "Perineum",
+  "file": "Human_female_and_male_ano-genital_area_(front),_labeled.jpg",
+  "src": "img/w466.jpg",
+  "credit": "DominicTammer & Lea",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_female_and_male_ano-genital_area_(front),_labeled.jpg",
+  "approved": false,
+  "reason": "Real photo of exposed genitals; criteria require rejecting nudity/genital photos despite clear labels."
+ },
+ "w467": {
+  "title": "Periosteum",
+  "file": "607_Periosteum_and_Endosteum.jpg",
+  "src": "img/w467.jpg",
+  "credit": "OpenStax College",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:607_Periosteum_and_Endosteum.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing periosteum layers on bone"
+ },
+ "w468": {
+  "title": "Peritoneum",
+  "file": "Gray1040.png",
+  "src": "img/w468.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1040.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing of the posterior abdominal wall showing the peritoneum, with the peritoneum explicitly labeled; dense but clear and relevant."
+ },
+ "w470": {
+  "title": "Fibularis longus",
+  "file": "Inferior_view_fibularis_longus_muscle_-_animation.gif",
+  "src": "img/w470.jpg",
+  "credit": "Polygon data were generated by Database Center for Life Science (DBCLS)[2]",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Inferior_view_fibularis_longus_muscle_-_animation.gif",
+  "approved": true,
+  "reason": "Clean 3D model highlighting fibularis (peroneus) longus along fibula"
+ },
+ "w567": {
+  "title": "Sphenoid bone",
+  "file": "Sphenoid_bone_-_lateral_view.png",
+  "src": "img/w567.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Sphenoid_bone_-_lateral_view.png",
+  "approved": true,
+  "reason": "Clear 3D skull model highlighting the sphenoid bone in green"
+ },
+ "w282": {
+  "title": "Incus",
+  "file": "Gray917.png",
+  "src": "img/w282.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray917.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical drawing of the incus"
+ },
+ "w288": {
+  "title": "Insular cortex",
+  "file": "Sobo_1909_633.png",
+  "src": "img/w288.jpg",
+  "credit": "Dr. Johannes Sobotta",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sobo_1909_633.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing exposing the insula with labeled gyri"
+ },
+ "w341": {
+  "title": "Lumbricals of the hand",
+  "file": "Lumbricales_(hand).png",
+  "src": "img/w341.jpg",
+  "credit": "Image:Gray427.png modified",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing with the four lumbrical muscles highlighted in red and numbered I–IV; the structure is easy to find."
+ },
+ "w342": {
+  "title": "Lunate bone",
+  "file": "TwoAspectsOfRightLunate.png",
+  "src": "img/w342.jpg",
+  "credit": "Henry Gray",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:TwoAspectsOfRightLunate.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing of the lunate bone showing its crescent shape and articular surfaces"
+ },
+ "w141": {
+  "title": "Hip",
+  "file": "Hip.jpg",
+  "src": "img/w141.jpg",
+  "credit": "Protohiro at English Wikipedia Later versions were uploaded by Daoui, Andrew pmk at en.wikipedia.",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hip.jpg",
+  "approved": true,
+  "reason": "Clear 3D bone model of hip joint: pelvis and femur"
+ },
+ "w142": {
+  "title": "Skull",
+  "file": "VolRenderShearWarp.gif",
+  "src": "img/w142.jpg",
+  "credit": "Lackas at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:VolRenderShearWarp.gif",
+  "approved": false,
+  "reason": "Cluttered rodent CT scan; skull overlapped by fur, limbs, vertebrae—hard to identify"
+ },
+ "w144": {
+  "title": "Cricoid cartilage",
+  "file": "Gray1194.png",
+  "src": "img/w144.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1194.png",
+  "approved": true,
+  "reason": "Gray's anatomy drawing with cricoid cartilage labeled on neck"
+ },
+ "w145": {
+  "title": "Iliac crest",
+  "file": "Pelvic_girdle_illustration.svg",
+  "src": "img/w145.jpg",
+  "credit": "Original: U.S. National Cancer Institute; Vectorization: Fred the Oyster; German translation kopiersperre/Rothwild",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pelvic_girdle_illustration.svg",
+  "approved": true,
+  "reason": "Clear labeled pelvis diagram with arrow pointing to iliac crest ridge"
+ },
+ "w146": {
+  "title": "Human leg",
+  "file": "Gray1240.png",
+  "src": "img/w146.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1240.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing of the lower leg (crus) with labeled structures"
+ },
+ "w147": {
+  "title": "Elbow",
+  "approved": false,
+  "reason": "no free page image"
+ },
+ "w148": {
+  "title": "Cuboid bone",
+  "file": "CuboidOfRightFoot.png",
+  "src": "img/w148.jpg",
+  "credit": "Henry Gray",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:CuboidOfRightFoot.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing of the cuboid bone with its articular surfaces labeled"
+ },
+ "w149": {
+  "title": "Cuneiform bones",
+  "file": "Cuneiform_bone_animation01.gif",
+  "src": "img/w149.jpg",
+  "credit": "BodyParts3D is made by DBCLS.",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Cuneiform_bone_animation01.gif",
+  "approved": true,
+  "reason": "Clear 3D model highlighting the cuneiform bones in color"
+ },
+ "w202": {
+  "title": "Femur",
+  "file": "Femur_-_anterior_view2.png",
+  "src": "img/w202.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Femur_-_anterior_view2.png",
+  "approved": true,
+  "reason": "Clear anatomical illustration highlighting both femurs in red"
+ },
+ "w206": {
+  "title": "Fibula",
+  "file": "Fibula_-_anterior_view.png",
+  "src": "img/w206.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Fibula_-_anterior_view.png",
+  "approved": true,
+  "reason": "Clear anatomical illustration with fibula highlighted in red on both legs"
+ },
+ "w421": {
+  "title": "Human eye",
+  "file": "Human_eye_with_blood_vessels.jpg",
+  "src": "img/w421.jpg",
+  "credit": "ROTFLOLEB",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_eye_with_blood_vessels.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of a human eye, structure is the focus"
+ },
+ "w422": {
+  "title": "Esophagus",
+  "file": "Tractus_intestinalis_esophagus.svg",
+  "src": "img/w422.jpg",
+  "credit": "Olek Remesz (wiki-pl: Orem, commons: Orem)",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Tractus_intestinalis_esophagus.svg",
+  "approved": true,
+  "reason": "Clear diagram with oesophagus highlighted in red"
+ },
+ "w424": {
+  "title": "Olecranon",
+  "file": "Ulna_-_olecranon_(anterior,_lateral).jpg",
+  "src": "img/w424.jpg",
+  "credit": "MAKY.OREL",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ulna_-_olecranon_(anterior,_lateral).jpg",
+  "approved": true,
+  "reason": "Clear photo of proximal ulnae showing the olecranon process prominently"
+ },
+ "w426": {
+  "title": "Greater omentum",
+  "file": "Sobo_1909_564.png",
+  "src": "img/w426.jpg",
+  "credit": "Dr. Johannes Sobotta",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sobo_1909_564.png",
+  "approved": true,
+  "reason": "Classic anatomical illustration; greater omentum clearly visible as large apron-like fold, labeled."
+ },
+ "w101": {
+  "title": "Cerebellum",
+  "file": "Gehirn,_lateral_-_Lobi_+_Stammhirn_+_Cerebellum_eng.svg",
+  "src": "img/w101.jpg",
+  "credit": "NEUROtiker",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gehirn,_lateral_-_Lobi_%2B_Stammhirn_%2B_Cerebellum_eng.svg",
+  "approved": true,
+  "reason": "Clear labeled brain diagram with cerebellum highlighted"
+ },
+ "w102": {
+  "title": "Cerebrum",
+  "file": "Lobes_of_the_brain_NL.svg",
+  "src": "img/w102.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Lobes_of_the_brain_NL.svg",
+  "approved": true,
+  "reason": "Clear lateral diagram of cerebrum with colored lobes"
+ },
+ "w103": {
+  "title": "Earwax",
+  "file": "OhrenSchmalzBrocken.jpg",
+  "src": "img/w103.jpg",
+  "credit": "Freak1972 aka Ulf Hundeiker",
+  "license": "Attribution",
+  "page": "https://commons.wikimedia.org/wiki/File:OhrenSchmalzBrocken.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of an extracted earwax plug, directly showing cerumen"
+ },
+ "w110": {
+  "title": "Subarachnoid cisterns",
+  "file": "Gray768.png",
+  "src": "img/w110.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray768.png",
+  "approved": true,
+  "reason": "Labeled anatomical diagram clearly showing subarachnoid cisterns"
+ },
+ "w071": {
+  "title": "Biceps",
+  "file": "1120_Muscles_that_Move_the_Forearm_Humerus_Flex_Sin.png",
+  "src": "img/w071.jpg",
+  "credit": "CFCF",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:1120_Muscles_that_Move_the_Forearm_Humerus_Flex_Sin.png",
+  "approved": true,
+  "reason": "Clear anatomical diagram labeling biceps brachii short and long heads, illustrating 'two-headed'."
+ },
+ "w074": {
+  "title": "Arm",
+  "file": "Extended_arm.jpg",
+  "src": "img/w074.jpg",
+  "credit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Extended_arm.jpg",
+  "approved": true,
+  "reason": "Clear photo of full arm; upper arm easily identifiable, plain background"
+ },
+ "w077": {
+  "title": "Bronchus",
+  "file": "3D_Medical_Animation_Bronchus_Description.jpg",
+  "src": "img/w077.jpg",
+  "credit": "https://www.scientificanimations.com",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3D_Medical_Animation_Bronchus_Description.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing trachea and bronchi branches"
+ },
+ "w078": {
+  "title": "Cheek",
+  "file": "Cheek.jpg",
+  "src": "img/w078.jpg",
+  "credit": "Paolo Neo",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cheek.jpg",
+  "approved": true,
+  "reason": "Close-up photo clearly centered on the cheek; the structure is the obvious focus."
+ },
+ "w080": {
+  "title": "Synovial bursa",
+  "file": "Joint.svg",
+  "src": "img/w080.jpg",
+  "credit": "Madhero88",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Joint.svg",
+  "approved": true,
+  "reason": "Clear labeled joint diagram with bursa marked"
+ },
+ "w613": {
+  "title": "Testicle",
+  "file": "Testicle_hariadhi.svg",
+  "src": "img/w613.jpg",
+  "credit": "Hariadhi",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Testicle_hariadhi.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of the testis in cross-section"
+ },
+ "w614": {
+  "title": "Thalamus",
+  "file": "Brain_chrischan_thalamus.jpg",
+  "src": "img/w614.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Brain_chrischan_thalamus.jpg",
+  "approved": true,
+  "reason": "Clear sagittal MRI with arrow pointing to thalamus"
+ },
+ "w615": {
+  "title": "Thenar eminence",
+  "file": "Gray423.png",
+  "src": "img/w615.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray423.png",
+  "approved": true,
+  "reason": "Classic anatomical drawing with thenar eminence muscles clearly labeled at thumb base"
+ },
+ "w617": {
+  "title": "Thorax",
+  "file": "Chest.jpg",
+  "src": "img/w617.jpg",
+  "credit": "No machine-readable author provided. Chikumaya assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chest.jpg",
+  "approved": true,
+  "reason": "Clear chest X-ray showing the thorax: ribs, lungs, heart"
+ },
+ "w618": {
+  "title": "Thymus",
+  "file": "Illu_thymus.jpg",
+  "src": "img/w618.jpg",
+  "credit": "Ukendt",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_thymus.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram showing thymus location and structure"
+ },
+ "w620": {
+  "title": "Tibia",
+  "file": "Tibia_-_frontal_view.png",
+  "src": "img/w620.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Tibia_-_frontal_view.png",
+  "approved": true,
+  "reason": "Clear anatomical diagram with tibiae highlighted in red"
+ },
+ "w621": {
+  "title": "Tonsil",
+  "file": "Tonsils_diagram.jpg",
+  "src": "img/w621.jpg",
+  "credit": "Ukendt",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Tonsils_diagram.jpg",
+  "approved": true,
+  "reason": "Clear labeled drawing of open mouth showing tonsils"
+ },
+ "w623": {
+  "title": "Trabecula",
+  "file": "Coxa-valga-norma-vara-000.svg",
+  "src": "img/w623.jpg",
+  "credit": "Addingrefs",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Coxa-valga-norma-vara-000.svg",
+  "approved": false,
+  "reason": "Femur angle diagram; faint trabecular lines are hard to see, focus is coxa valga/vara"
+ },
+ "w624": {
+  "title": "Trachea",
+  "file": "Illu_conducting_passages.svg",
+  "src": "img/w624.jpg",
+  "credit": "Lord Akryl, Jmarchn",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_conducting_passages.svg",
+  "approved": true,
+  "reason": "Clear labeled respiratory diagram; trachea easily identified"
+ },
+ "w626": {
+  "title": "Tragus (ear)",
+  "file": "Gray904.png",
+  "src": "img/w626.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray904.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy ear drawing with tragus clearly labeled"
+ },
+ "w629": {
+  "title": "Trapezius",
+  "file": "Trapezius.png",
+  "src": "img/w629.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Trapezius.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing with trapezius highlighted and labeled"
+ },
+ "w630": {
+  "title": "Trapezoid bone",
+  "file": "RightTrapezoid.jpg",
+  "src": "img/w630.jpg",
+  "credit": "Leo Testut",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:RightTrapezoid.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical drawing of the trapezoid bone"
+ },
+ "w161": {
+  "title": "Diaphysis",
+  "file": "Structure_of_a_Long_Bone.png",
+  "src": "img/w161.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Structure_of_a_Long_Bone.png",
+  "approved": true,
+  "reason": "Clear labeled long bone diagram highlighting diaphysis (shaft)"
+ },
+ "w162": {
+  "title": "Diencephalon",
+  "file": "Illu_diencephalon.jpg",
+  "src": "img/w162.jpg",
+  "credit": "Ukendt",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_diencephalon.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical illustration of the diencephalon (thalamus, hypothalamus) within the head"
+ },
+ "w163": {
+  "title": "Digastric muscle",
+  "file": "Digastricus.png",
+  "src": "img/w163.jpg",
+  "credit": "Image:Gray385.png modified by Uwe Gille",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Digastricus.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing with both digastric bellies highlighted in red, clearly visible"
+ },
+ "w169": {
+  "title": "Duodenum",
+  "file": "Tractus_intestinalis_duodenum.svg",
+  "src": "img/w169.jpg",
+  "credit": "Olek Remesz (wiki-pl: Orem, commons: Orem)",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Tractus_intestinalis_duodenum.svg",
+  "approved": true,
+  "reason": "Clear diagram highlighting duodenum in red within digestive tract"
+ },
+ "w196": {
+  "title": "Falx cerebri",
+  "file": "Falxcerebri.jpg",
+  "src": "img/w196.jpg",
+  "credit": "The original uploader was Xanthus at German Wikipedia.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Falxcerebri.jpg",
+  "approved": true,
+  "reason": "Clear anatomical drawing with the sickle-shaped falx cerebri prominently colored and labeled"
+ },
+ "w197": {
+  "title": "Fascia",
+  "file": "Gray395.png",
+  "src": "img/w197.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray395.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing labeling lumbodorsal fascia and rectus sheath around muscles; clear and relevant."
+ },
+ "w199": {
+  "title": "Isthmus of fauces",
+  "file": "Gray1014.png",
+  "src": "img/w199.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1014.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing of open mouth with isthmus faucium clearly labeled, showing passage from mouth to throat."
+ },
+ "w644": {
+  "title": "Ulna",
+  "file": "Ulna_-_anterior_view.png",
+  "src": "img/w644.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Ulna_-_anterior_view.png",
+  "approved": true,
+  "reason": "Clear anatomical render highlighting the ulna in red on both forearms"
+ },
+ "w645": {
+  "title": "Navel",
+  "file": "Human_navel,_female.jpg",
+  "src": "img/w645.jpg",
+  "credit": "Stinkie Pinkie",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_navel,_female.jpg",
+  "approved": true,
+  "reason": "Clear close-up of navel, structure is the focus, no nudity"
+ },
+ "w646": {
+  "title": "Eardrum",
+  "file": "Blausen_0328_EarAnatomy.png",
+  "src": "img/w646.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0328_EarAnatomy.png",
+  "approved": false,
+  "reason": "Eardrum is shown small with no umbo labeled or visible"
+ },
+ "w648": {
+  "title": "Uncus",
+  "file": "Gray727_uncus_of_parahippocampal_gyrus.png",
+  "src": "img/w648.jpg",
+  "credit": "Gray, vectorized by Mysid, colourd by was_a_bee.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray727_uncus_of_parahippocampal_gyrus.png",
+  "approved": true,
+  "reason": "Medial brain diagram with uncus clearly highlighted in orange and labeled"
+ },
+ "w649": {
+  "title": "Nail (anatomy)",
+  "file": "Nail_svg_hariadhi.svg",
+  "src": "img/w649.jpg",
+  "credit": "Hariadhi",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nail_svg_hariadhi.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of the fingernail and its parts"
+ },
+ "w650": {
+  "title": "Ureter",
+  "file": "Urinary_system.svg",
+  "src": "img/w650.jpg",
+  "credit": "Jordi March i Nogué",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Urinary_system.svg",
+  "approved": true,
+  "reason": "Clear urinary system diagram; ureter (4) visibly runs from kidney to bladder"
+ },
+ "w483": {
+  "title": "Brachial plexus",
+  "file": "Gray808.png",
+  "src": "img/w483.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray808.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing; brachial plexus nerves highlighted in yellow, clearly showing a nerve network"
+ },
+ "w484": {
+  "title": "Pulmonary pleurae",
+  "file": "2313_The_Lung_Pleurea.jpg",
+  "src": "img/w484.jpg",
+  "credit": "OpenStax College",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing pleural sac, parietal and visceral pleura"
+ },
+ "w486": {
+  "title": "Thumb",
+  "file": "Liam_Thumb.jpg",
+  "src": "img/w486.jpg",
+  "credit": "Bwyell80",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Liam_Thumb.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of a thumb, structure obvious"
+ },
+ "w487": {
+  "title": "Pons",
+  "file": "Brain_bulbar_region.svg",
+  "src": "img/w487.jpg",
+  "credit": "Image:Brain human sagittal section.svg by Patrick J. Lynch; Image:Brain bulbar region.PNG by DO11.10; present image by F",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Brain_bulbar_region.svg",
+  "approved": true,
+  "reason": "Clear labeled sagittal brain diagram highlighting pons"
+ },
+ "w489": {
+  "title": "Popliteal fossa",
+  "file": "Sobo_1909_718.png",
+  "src": "img/w489.jpg",
+  "credit": "Dr Johannes Sobotta",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sobo_1909_718.png",
+  "approved": true,
+  "reason": "Classic anatomical drawing of the popliteal fossa (back of knee), clearly labeled"
+ },
+ "w684": {
+  "title": "Vomer",
+  "file": "Illu_facial_bones.jpg",
+  "src": "img/w684.jpg",
+  "credit": "Uploaded by Arcadian",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_facial_bones.jpg",
+  "approved": true,
+  "reason": "Labeled skull diagram clearly marks the vomer in the nasal cavity"
+ },
+ "w686": {
+  "title": "Vulva",
+  "file": "Genital_Diversity_Expanded.jpg",
+  "src": "img/w686.jpg",
+  "credit": "derivative work: Coupleabc (talk)",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Genital_Diversity_Expanded.jpg",
+  "approved": false,
+  "reason": "Photographs of real genitals; criteria require rejecting genital photos in favor of drawings or diagrams."
+ },
+ "w690": {
+  "title": "Zygomatic bone",
+  "file": "Zygomatic_bone_anterior.png",
+  "src": "img/w690.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Zygomatic_bone_anterior.png",
+  "approved": true,
+  "reason": "Clear 3D skull with zygomatic bones highlighted"
+ },
+ "w393": {
+  "title": "Multifidus muscle",
+  "file": "Multifidi.png",
+  "src": "img/w393.jpg",
+  "credit": "Uwe Gille",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Multifidi.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing with multifidus highlighted in red, easy to locate"
+ },
+ "w395": {
+  "title": "Medulla oblongata",
+  "file": "1311_Brain_Stem.jpg",
+  "src": "img/w395.jpg",
+  "credit": "OpenStax",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:1311_Brain_Stem.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram highlighting medulla (myelencephalon) as lowest brainstem part"
+ },
+ "w397": {
+  "title": "Mylohyoid muscle",
+  "file": "Mylohyoid_muscle.PNG",
+  "src": "img/w397.jpg",
+  "credit": "User:Mikael Häggström",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Mylohyoid_muscle.PNG",
+  "approved": true,
+  "reason": "Gray's anatomy drawing with mylohyoid highlighted in red between mandible and hyoid"
+ },
+ "w399": {
+  "title": "Cardiac muscle",
+  "file": "Glanzstreifen.jpg",
+  "src": "img/w399.jpg",
+  "credit": "Dr. S. Girod, Anton Becker",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Glanzstreifen.jpg",
+  "approved": true,
+  "reason": "Clear histology of cardiac muscle tissue, which makes up the myocardium"
+ },
+ "w400": {
+  "title": "Nostril",
+  "file": "Human_Nostrils_01.JPG",
+  "src": "img/w400.jpg",
+  "credit": "Kuebi = Armin Kübelbeck",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_Nostrils_01.JPG",
+  "approved": true,
+  "reason": "Clear close-up photo of nostrils as the main subject"
+ },
+ "w535": {
+  "title": "Retina",
+  "file": "Human_eye_cross-sectional_view_grayscale.png",
+  "src": "img/w535.jpg",
+  "credit": "NIH National Eye Institute",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_eye_cross-sectional_view_grayscale.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical eye cross-section with retina clearly marked"
+ },
+ "w536": {
+  "title": "Extensor retinaculum of the hand",
+  "file": "Gray424.png",
+  "src": "img/w536.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray424.png",
+  "approved": true,
+  "reason": "Gray's anatomy drawing clearly showing dorsal carpal ligament (extensor retinaculum) holding tendons"
+ },
+ "w122": {
+  "title": "Large intestine",
+  "file": "Tractus_intestinalis_intestinum_crassum.svg",
+  "src": "img/w122.jpg",
+  "credit": "Olek Remesz (wiki-pl: Orem, commons: Orem)",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Tractus_intestinalis_intestinum_crassum.svg",
+  "approved": true,
+  "reason": "Clear diagram with colon highlighted in color against gray digestive tract"
+ },
+ "w127": {
+  "title": "Condyle (anatomy)",
+  "file": "Gray257.png",
+  "src": "img/w127.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray257.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing of tibial plateau with labeled medial and lateral condyles"
+ },
+ "w130": {
+  "title": "Heart",
+  "file": "Heart_anterior_exterior_view.png",
+  "src": "img/w130.jpg",
+  "credit": "Jerm",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Heart_anterior_exterior_view.png",
+  "approved": true,
+  "reason": "Clear anatomical illustration of the heart"
+ },
+ "w587": {
+  "title": "Eyebrow",
+  "file": "Jeremy_Cadot's_eyebrow.jpg",
+  "src": "img/w587.jpg",
+  "credit": "http://commons.wikimedia.org/wiki/User:Jastrow",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Jeremy_Cadot%27s_eyebrow.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo focused on the eyebrow"
+ },
+ "w589": {
+  "title": "Supinator muscle",
+  "file": "CroquisSupinadorCorto.jpg",
+  "src": "img/w589.jpg",
+  "credit": "Leo Testut",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:CroquisSupinadorCorto.jpg",
+  "approved": false,
+  "reason": "Numbered elbow diagram without legend; supinator not clearly identifiable"
+ },
+ "w251": {
+  "title": "Liver",
+  "file": "Anatomy_Abdomen_Tiesworks.jpg",
+  "src": "img/w251.jpg",
+  "credit": "Tvanbr",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Anatomy_Abdomen_Tiesworks.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram showing the liver prominently"
+ },
+ "w255": {
+  "title": "Hilum (anatomy)",
+  "file": "Hilum_of_the_liver.png",
+  "src": "img/w255.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hilum_of_the_liver.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing of liver with hilum circled, showing entering vessels"
+ },
+ "w256": {
+  "title": "Hippocampus",
+  "file": "Gray739-emphasizing-hippocampus.png",
+  "src": "img/w256.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray739-emphasizing-hippocampus.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing with hippocampus highlighted and labeled"
+ },
+ "w258": {
+  "title": "Humerus",
+  "file": "Humerus_-_anterior_view.png",
+  "src": "img/w258.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Humerus_-_anterior_view.png",
+  "approved": true,
+  "reason": "Clear skeletal diagram with both humeri highlighted in red."
+ },
+ "w091": {
+  "title": "Common carotid artery",
+  "file": "Gray506.svg",
+  "src": "img/w091.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray506.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing common carotid arteries"
+ },
+ "w092": {
+  "title": "Carpal bones",
+  "file": "3D_Medical_Animation_Human_Wrist.jpg",
+  "src": "img/w092.jpg",
+  "credit": "https://www.scientificanimations.com",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3D_Medical_Animation_Human_Wrist.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical illustration of carpal bones with zoomed inset"
+ },
+ "w094": {
+  "title": "Lacrimal caruncle",
+  "file": "Gray892.png",
+  "src": "img/w094.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray892.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing with caruncula clearly labeled at inner eye corner"
+ },
+ "w042": {
+  "title": "Forearm",
+  "approved": false,
+  "reason": "no free page image"
+ },
+ "w045": {
+  "title": "Anus",
+  "file": "Dog’s_anus.jpg",
+  "src": "img/w045.jpg",
+  "credit": "Autisticeditor 20",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dog%E2%80%99s_anus.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of a dog's anus; structure is central and easy to identify, not human nudity."
+ },
+ "w046": {
+  "title": "Aorta",
+  "file": "Aorta_segments.svg",
+  "src": "img/w046.jpg",
+  "credit": "User:Mikael Häggström, using source image by Edoarado",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aorta_segments.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of aorta segments"
+ },
+ "w049": {
+  "title": "Aponeurosis",
+  "file": "Lumbar_aponeurosis.jpg",
+  "src": "img/w049.jpg",
+  "credit": "Anatomist90",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lumbar_aponeurosis.jpg",
+  "approved": true,
+  "reason": "Labeled cadaver photo clearly shows the lumbar aponeurosis as a flat tendon sheet"
+ },
+ "w050": {
+  "title": "Appendix (anatomy)",
+  "file": "Tractus_intestinalis_appendix_vermiformis.svg",
+  "src": "img/w050.jpg",
+  "credit": "Olek Remesz (wiki-pl: Orem, commons: Orem)",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Tractus_intestinalis_appendix_vermiformis.svg",
+  "approved": true,
+  "reason": "Clear diagram of digestive tract with appendix highlighted by red circle"
+ },
+ "w444": {
+  "title": "Eyelid",
+  "file": "Closed_human_eye,_superior_view.jpg",
+  "src": "img/w444.jpg",
+  "credit": "Rapidreflex",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Closed_human_eye,_superior_view.jpg",
+  "approved": true,
+  "reason": "Clear close-up of a closed eyelid with lashes; structure is the obvious focus."
+ },
+ "w446": {
+  "title": "Pancreas",
+  "file": "Blausen_0699_PancreasAnatomy2.png",
+  "src": "img/w446.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0699_PancreasAnatomy2.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of pancreas with head, body, tail"
+ },
+ "w353": {
+  "title": "Malleus",
+  "file": "Gray916.png",
+  "src": "img/w353.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray916.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical drawing of the malleus"
+ },
+ "w354": {
+  "title": "Malleolus",
+  "file": "Gray357.png",
+  "src": "img/w354.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray357.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram showing medial and lateral malleolus in ankle cross-section"
+ },
+ "w355": {
+  "title": "Breast",
+  "file": "Weibliche_brust_en.jpg",
+  "src": "img/w355.jpg",
+  "credit": "Ukendt",
+  "license": "GFDL",
+  "page": "https://commons.wikimedia.org/wiki/File:Weibliche_brust_en.jpg",
+  "approved": false,
+  "reason": "Labeled but a photo of nudity; rules exclude nude photos"
+ },
+ "w356": {
+  "title": "Nipple",
+  "file": "Closeup_of_female_breast.jpg",
+  "src": "img/w356.jpg",
+  "credit": "Tom Adriaenssen (Inferis at Flickr)",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_female_breast.jpg",
+  "approved": false,
+  "reason": "Photo of real nudity (bare breast), not a diagram or medical illustration; criteria require rejection."
+ },
+ "w357": {
+  "title": "Mandible",
+  "file": "Mandible_bone_-_animation_02.gif",
+  "src": "img/w357.jpg",
+  "credit": "Polygon data were generated by Database Center for Life Science (DBCLS)",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Mandible_bone_-_animation_02.gif",
+  "approved": true,
+  "reason": "3D skull model with mandible highlighted in solid white"
+ },
+ "w358": {
+  "title": "Manubrium",
+  "file": "Sternum_composition.png",
+  "src": "img/w358.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Sternum_composition.png",
+  "approved": true,
+  "reason": "Clear 3D anatomical rendering with manubrium highlighted in green at top of sternum"
+ },
+ "w359": {
+  "title": "Hand",
+  "file": "Hand,_fingers_-_back.jpg",
+  "src": "img/w359.jpg",
+  "credit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hand,_fingers_-_back.jpg",
+  "approved": true,
+  "reason": "Clear isolated photo of a hand; the structure is the obvious focus"
+ },
+ "w111": {
+  "title": "Claustrum",
+  "file": "Gray_718-emphasizing-claustrum.png",
+  "src": "img/w111.jpg",
+  "credit": "Gray",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray_718-emphasizing-claustrum.png",
+  "approved": true,
+  "reason": "Gray's coronal brain section with the claustrum highlighted in blue and marked by an arrow"
+ },
+ "w112": {
+  "title": "Clavicle",
+  "file": "Clavicle_-_anterior_view.png",
+  "src": "img/w112.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Clavicle_-_anterior_view.png",
+  "approved": true,
+  "reason": "Clear skeletal diagram with both clavicles highlighted in red"
+ },
+ "w113": {
+  "title": "Clivus (anatomy)",
+  "file": "Clivus.png",
+  "src": "img/w113.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Clivus.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical drawing of skull base showing clivus"
+ },
+ "w114": {
+  "title": "Clitoris",
+  "file": "Clitoris_glans_-_detailed.jpg",
+  "src": "img/w114.jpg",
+  "credit": "CRW09",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Clitoris_glans_-_detailed.jpg",
+  "approved": false,
+  "reason": "Explicit photo of real genitals; criteria require rejecting genital photos in favor of a drawing or diagram"
+ },
+ "w116": {
+  "title": "Coccyx",
+  "file": "Coccyx_-_anterior_view02.png",
+  "src": "img/w116.jpg",
+  "credit": "BodyParts3D is made by DBCLS",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Coccyx_-_anterior_view02.png",
+  "approved": true,
+  "reason": "Clear 3D model of sacrum with coccyx highlighted in red"
+ },
+ "w117": {
+  "title": "Cochlea",
+  "file": "Cochlea-crosssection.svg",
+  "src": "img/w117.jpg",
+  "credit": "Original: Oarih Vector: Fred the Oyster",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cochlea-crosssection.svg",
+  "approved": false,
+  "reason": "Cross-section of one cochlear duct; doesn't show the snail-shaped cochlea"
+ },
+ "w120": {
+  "title": "Superior colliculus",
+  "file": "Superior_colliculus_of_the_human_midbrain.svg",
+  "src": "img/w120.jpg",
+  "credit": "Svenskbygderna (talk)",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Superior_colliculus_of_the_human_midbrain.svg",
+  "approved": true,
+  "reason": "Labeled midsagittal brainstem/cerebellum diagram with superior colliculus (L) highlighted by red circle"
+ },
+ "w131": {
+  "title": "Coracoid process",
+  "file": "Coracoid_process_of_left_scapula02.png",
+  "src": "img/w131.jpg",
+  "credit": "BodyParts3D is made by DBCLS.",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Coracoid_process_of_left_scapula02.png",
+  "approved": true,
+  "reason": "Clear 3D scapula model with coracoid process highlighted in red"
+ },
+ "w132": {
+  "title": "Dermis",
+  "file": "Skin.png",
+  "src": "img/w132.jpg",
+  "credit": "US-Gov",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Skin.png",
+  "approved": true,
+  "reason": "Clear labeled skin cross-section with dermis layer marked"
+ },
+ "w133": {
+  "title": "Cornea",
+  "file": "Cornea.png",
+  "src": "img/w133.jpg",
+  "credit": "Mikael Häggström",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cornea.png",
+  "approved": true,
+  "reason": "Clear labeled eye diagram highlighting cornea"
+ },
+ "w137": {
+  "title": "Coronoid process of the mandible",
+  "file": "Coronoid_process_of_mandible_-_lateral_view.png",
+  "src": "img/w137.jpg",
+  "credit": "Polygon data is from BodyParts3D",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Coronoid_process_of_mandible_-_lateral_view.png",
+  "approved": true,
+  "reason": "Clear skull model highlighting coronoid process in red"
+ },
+ "w140": {
+  "title": "Rib",
+  "file": "Costae_-_collection.jpg",
+  "src": "img/w140.jpg",
+  "credit": "MAKY.OREL",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Costae_-_collection.jpg",
+  "approved": true,
+  "reason": "Clear photo of isolated rib bones, easy to identify"
+ },
+ "w661": {
+  "title": "Heart valve",
+  "file": "CG_Heart.gif",
+  "src": "img/w661.jpg",
+  "credit": "DrJanaOfficial",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:CG_Heart.gif",
+  "approved": true,
+  "reason": "Clear 3D heart cross-section model showing valves and chordae tendineae; medical rendering, not gore."
+ },
+ "w664": {
+  "title": "Blood vessel",
+  "file": "Blood_vessels_(retouched)_-en.svg",
+  "src": "img/w664.jpg",
+  "credit": "File:Blood vessels-en.svg: Kelvinsong derivative work: Begoon",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blood_vessels_(retouched)_-en.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of blood vessels (artery, vein, capillaries)"
+ },
+ "w667": {
+  "title": "Soft palate",
+  "file": "Tonsils_diagram.jpg",
+  "src": "img/w667.jpg",
+  "credit": "Ukendt",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Tonsils_diagram.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing the soft palate (velum)"
+ },
+ "w668": {
+  "title": "Vein",
+  "file": "Vein_(retouched).svg",
+  "src": "img/w668.jpg",
+  "credit": "File:Vein.svg: Kelvinsong derivative work: Begoon",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vein_(retouched).svg",
+  "approved": true,
+  "reason": "Clear labeled vein diagram showing flow toward heart"
+ },
+ "w670": {
+  "title": "Ventricle (heart)",
+  "file": "CG_Heart.gif",
+  "src": "img/w670.jpg",
+  "credit": "DrJanaOfficial",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:CG_Heart.gif",
+  "approved": true,
+  "reason": "Clear 3D model of heart cross-section showing both ventricles"
+ },
+ "w314": {
+  "title": "Larynx",
+  "file": "Larynx_external_en.svg",
+  "src": "img/w314.jpg",
+  "credit": "Olek Remesz (wiki-pl: Orem, commons: Orem)",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Larynx_external_en.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of the larynx"
+ },
+ "w318": {
+  "title": "Medial lemniscus",
+  "file": "Gray759.png",
+  "src": "img/w318.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray759.png",
+  "approved": true,
+  "reason": "Classic Gray's diagram clearly labeling the medial lemniscus pathway in the brainstem"
+ },
+ "w319": {
+  "title": "Lens (vertebrate anatomy)",
+  "file": "Eye_and_ray_path3.svg",
+  "src": "img/w319.jpg",
+  "credit": "Tgru001",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Eye_and_ray_path3.svg",
+  "approved": true,
+  "reason": "Diagram shows the eye's lens focusing light rays onto the retina; structure clearly visible."
+ },
+ "w214": {
+  "title": "Fontanelle",
+  "file": "Gray197.png",
+  "src": "img/w214.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray197.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing of infant skull clearly labeling frontal and occipital fontanels."
+ },
+ "w217": {
+  "title": "Fornix (neuroanatomy)",
+  "file": "Gray747.png",
+  "src": "img/w217.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray747.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical drawing of the fornix showing its arched shape"
+ },
+ "w152": {
+  "title": "Heart valve",
+  "file": "CG_Heart.gif",
+  "src": "img/w152.jpg",
+  "credit": "DrJanaOfficial",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:CG_Heart.gif",
+  "approved": true,
+  "reason": "3D cutaway heart model clearly shows valve cusps with chordae tendineae inside the ventricles."
+ },
+ "w154": {
+  "title": "Skin",
+  "file": "Elephant_skin_(3689577529).jpg",
+  "src": "img/w154.jpg",
+  "credit": "Greg Willis from Denver, CO, usa",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Elephant_skin_(3689577529).jpg",
+  "approved": false,
+  "reason": "Elephant skin texture close-up, not an anatomical image of human skin."
+ },
+ "w158": {
+  "title": "Tooth",
+  "file": "Close_up_-_chimpanzee_teeth.png",
+  "src": "img/w158.jpg",
+  "credit": "Richard from Canton, United States",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Close_up_-_chimpanzee_teeth.png",
+  "approved": true,
+  "reason": "Clear close-up of chimpanzee's open mouth; teeth prominent and easy to identify."
+ },
+ "w160": {
+  "title": "Thoracic diaphragm",
+  "file": "Respiratory_system.svg",
+  "src": "img/w160.jpg",
+  "credit": "Theresa knott",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Respiratory_system.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing diaphragm below lungs"
+ },
+ "w181": {
+  "title": "Epigastrium",
+  "file": "Gray1220.svg",
+  "src": "img/w181.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1220.svg",
+  "approved": true,
+  "reason": "Clear line diagram labeling epigastric region among abdominal regions; minimal schematic genital outline, not a photo."
+ },
+ "w183": {
+  "title": "Epiglottis",
+  "file": "Gray958.png",
+  "src": "img/w183.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray958.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing with epiglottis prominently labeled at top of larynx"
+ },
+ "w184": {
+  "title": "Epiphysis",
+  "file": "Structure_of_a_Long_Bone.png",
+  "src": "img/w184.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Structure_of_a_Long_Bone.png",
+  "approved": true,
+  "reason": "Clear labeled diagram of a long bone showing both epiphyses at the ends"
+ },
+ "w186": {
+  "title": "Erector spinae muscles",
+  "file": "Gray389_-_Erector_spinae.png",
+  "src": "img/w186.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing with erector spinae clearly highlighted in red"
+ },
+ "w187": {
+  "title": "Ethmoid bone",
+  "file": "Orbital_bones.png",
+  "src": "img/w187.jpg",
+  "credit": "The original uploader was Je at uwo at English Wikipedia.",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Orbital_bones.png",
+  "approved": true,
+  "reason": "Color-coded orbit diagram; ethmoid bone shown in distinct color within orbital wall, reasonably easy to find."
+ },
+ "w261": {
+  "title": "Hyoid bone",
+  "file": "712_Hyoid_Bone.jpg",
+  "src": "img/w261.jpg",
+  "credit": "OpenStax College",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:712_Hyoid_Bone.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing hyoid bone location above larynx and its U-shape in anterior and lateral views"
+ },
+ "w264": {
+  "title": "Hyponychium",
+  "file": "Nail_svg_hariadhi.svg",
+  "src": "img/w264.jpg",
+  "credit": "Hariadhi",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nail_svg_hariadhi.svg",
+  "approved": true,
+  "reason": "Labeled nail anatomy diagram showing hyponychium"
+ },
+ "w265": {
+  "title": "Pituitary gland",
+  "file": "Hypophyse.png",
+  "src": "img/w265.jpg",
+  "credit": "Patrick J. Lynch, medical illustrator",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hypophyse.png",
+  "approved": true,
+  "reason": "Clear sagittal head diagram with pituitary highlighted and labeled"
+ },
+ "w266": {
+  "title": "Hypothenar eminence",
+  "file": "Gray423.png",
+  "src": "img/w266.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray423.png",
+  "approved": true,
+  "reason": "Classic Gray's palm drawing with hypothenar muscles clearly labeled"
+ },
+ "w267": {
+  "title": "Optic chiasm",
+  "file": "1543,_Andreas_Vesalius'_Fabrica,_Base_Of_The_Brain.jpg",
+  "src": "img/w267.jpg",
+  "credit": "User Ancheta Wis on en.wikipedia",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:1543,_Andreas_Vesalius%27_Fabrica,_Base_Of_The_Brain.jpg",
+  "approved": true,
+  "reason": "Vesalius drawing of brain base clearly shows X-shaped optic chiasm centrally"
+ },
+ "w268": {
+  "title": "Choana",
+  "file": "Gray855.png",
+  "src": "img/w268.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+  "approved": false,
+  "reason": "Clear nasal cavity drawing, but the choana is unlabeled and hard to locate."
+ },
+ "w270": {
+  "title": "Common bile duct",
+  "file": "Diagram_showing_the_position_of_the_perihilar_bile_ducts_CRUK_357.svg",
+  "src": "img/w270.jpg",
+  "credit": "Cancer Research UK",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Diagram_showing_the_position_of_the_perihilar_bile_ducts_CRUK_357.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing the common bile duct in context"
+ },
+ "w222": {
+  "title": "Frenulum of tongue",
+  "file": "Gray1202.png",
+  "src": "img/w222.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1202.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing of the underside of the tongue with the frenulum clearly labeled and easy to locate."
+ },
+ "w226": {
+  "title": "Epicranial aponeurosis",
+  "file": "1106_Side_Views_of_the_Muscles_of_Facial_Expressions_numbered.jpg",
+  "src": "img/w226.jpg",
+  "credit": "CNX Anatomy 2013",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:1106_Side_Views_of_the_Muscles_of_Facial_Expressions_numbered.jpg",
+  "approved": true,
+  "reason": "Clear anatomical drawing; label 1 brackets the epicranial aponeurosis (galea aponeurotica) across the top of the skull."
+ },
+ "w228": {
+  "title": "Ganglion",
+  "file": "Ganglion_high_mag.jpg",
+  "src": "img/w228.jpg",
+  "credit": "Nephron",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ganglion_high_mag.jpg",
+  "approved": true,
+  "reason": "Clear H&E micrograph of a ganglion showing clustered nerve cell bodies"
+ },
+ "w229": {
+  "title": "Stomach",
+  "file": "Gray1046.svg",
+  "src": "img/w229.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1046.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of the stomach"
+ },
+ "w521": {
+  "title": "Radius (bone)",
+  "file": "Radius_-_anterior_view2.png",
+  "src": "img/w521.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Radius_-_anterior_view2.png",
+  "approved": true,
+  "reason": "Clear anatomical render with radius highlighted in red on thumb side of both forearms."
+ },
+ "w526": {
+  "title": "Rectum",
+  "file": "Rectum_anatomy_en.svg",
+  "src": "img/w526.jpg",
+  "credit": "Armin Kübelbeck",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rectum_anatomy_en.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram of rectum"
+ },
+ "w530": {
+  "title": "Kidney",
+  "file": "Blausen_0592_KidneyAnatomy_01.png",
+  "src": "img/w530.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0592_KidneyAnatomy_01.png",
+  "approved": true,
+  "reason": "Clear labeled kidney anatomy diagram with body location inset"
+ },
+ "w671": {
+  "title": "Cerebellar vermis",
+  "file": "Sobo_1909_653_Cerebellar_vermis.png",
+  "src": "img/w671.jpg",
+  "credit": "Dr. Johannes Sobotta",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sobo_1909_653_Cerebellar_vermis.png",
+  "approved": true,
+  "reason": "Classic Gray's drawing of the superior cerebellum with the vermis clearly highlighted in red at the midline."
+ },
+ "w672": {
+  "title": "Vertebra",
+  "file": "Vertebra_Superior_View-en.svg",
+  "src": "img/w672.jpg",
+  "credit": "Jmarchn",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Vertebra_Superior_View-en.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of a single vertebra"
+ },
+ "w673": {
+  "title": "Urinary bladder",
+  "file": "Urinary_system.svg",
+  "src": "img/w673.jpg",
+  "credit": "Jordi March i Nogué",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Urinary_system.svg",
+  "approved": true,
+  "reason": "Clear urinary system diagram; bladder (5) is prominent and easy to find."
+ },
+ "w677": {
+  "title": "Intestinal villus",
+  "file": "Small_intestine_low_mag.jpg",
+  "src": "img/w677.jpg",
+  "credit": "Nephron",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Small_intestine_low_mag.jpg",
+  "approved": true,
+  "reason": "Clear H&E micrograph showing finger-like intestinal villi"
+ },
+ "w062": {
+  "title": "Auricle (anatomy)",
+  "file": "Gray904.png",
+  "src": "img/w062.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray904.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing of the outer ear (auricle) with labeled parts"
+ },
+ "w063": {
+  "title": "Ear",
+  "file": "Human_right_ear_(cropped).jpg",
+  "src": "img/w063.jpg",
+  "credit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_right_ear_(cropped).jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of an external ear"
+ },
+ "w065": {
+  "title": "Axilla",
+  "file": "ArmpitHair2.jpg",
+  "src": "img/w065.jpg",
+  "credit": "Gangster848",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:ArmpitHair2.jpg",
+  "approved": true,
+  "reason": "Clear photo of the armpit; the axilla is central, obvious, and non-sexual."
+ },
+ "w066": {
+  "title": "Axis (anatomy)",
+  "file": "C2_lateral.png",
+  "src": "img/w066.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:C2_lateral.png",
+  "approved": true,
+  "reason": "Clear 3D model highlighting a cervical vertebra in red, shown in the neck below the skull; it is the main image of the axis article."
+ },
+ "w321": {
+  "title": "Meninges",
+  "file": "3D_Medical_Illustration_Meninges_Details.jpg",
+  "src": "img/w321.jpg",
+  "credit": "https://www.scientificanimations.com",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3D_Medical_Illustration_Meninges_Details.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing arachnoid and pia mater (leptomeninges)"
+ },
+ "w324": {
+  "title": "Spleen",
+  "file": "Diagram_showing_the_position_of_the_spleen_CRUK_417.svg",
+  "src": "img/w324.jpg",
+  "credit": "Cancer Research UK uploader",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Diagram_showing_the_position_of_the_spleen_CRUK_417.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing spleen location and magnified view"
+ },
+ "w325": {
+  "title": "Ligament",
+  "approved": false,
+  "reason": "no free page image"
+ },
+ "w329": {
+  "title": "Tongue",
+  "file": "زبان_tongue.jpg",
+  "src": "img/w329.jpg",
+  "credit": "Mahdiabbasinv",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%D8%B2%D8%A8%D8%A7%D9%86_tongue.jpg",
+  "approved": true,
+  "reason": "Clear close-up medical photo of the tongue, prominently shown"
+ },
+ "w503": {
+  "title": "Prostate",
+  "file": "Prostatelead.jpg",
+  "src": "img/w503.jpg",
+  "credit": "Created by US government agency National Cancer Institute",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Prostatelead.jpg",
+  "approved": true,
+  "reason": "Clear labeled medical illustration showing prostate below bladder"
+ },
+ "w507": {
+  "title": "Lung",
+  "file": "Lungs_diagram_detailed.svg",
+  "src": "img/w507.jpg",
+  "credit": "Patrick J. Lynch, medical illustrator",
+  "license": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Lungs_diagram_detailed.svg",
+  "approved": true,
+  "reason": "Clear anatomical diagram of both lungs with lobes and bronchial tree."
+ },
+ "w509": {
+  "title": "Pulp (tooth)",
+  "file": "Blausen_0863_ToothAnatomy_02.png",
+  "src": "img/w509.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0863_ToothAnatomy_02.png",
+  "approved": true,
+  "reason": "Clear labeled tooth diagram showing pulp as soft inner tissue"
+ },
+ "w510": {
+  "title": "Pulvinar nuclei",
+  "file": "Gray719.png",
+  "src": "img/w510.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray719.png",
+  "approved": true,
+  "reason": "Labeled anatomical drawing of brainstem showing pulvinar location"
+ },
+ "w021": {
+  "title": "Abdomen",
+  "file": "Abdomen-periumbilical_region.png",
+  "src": "img/w021.jpg",
+  "credit": "7mike5000",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Abdomen-periumbilical_region.png",
+  "approved": true,
+  "reason": "Labeled anatomical diagram clearly marking the abdomen region; shirtless torso is non-sexual, no genitals shown."
+ },
+ "w022": {
+  "title": "Abducens nerve",
+  "file": "Abducens_nerve1.png",
+  "src": "img/w022.jpg",
+  "credit": "The original uploader was Btarski at English Wikipedia.",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Abducens_nerve1.png",
+  "approved": true,
+  "reason": "Classic anatomical illustration with the abducens nerve clearly labeled and pointed to."
+ },
+ "w025": {
+  "title": "Acromion",
+  "file": "Acromion_of_left_scapula01.png",
+  "src": "img/w025.jpg",
+  "credit": "BodyParts3D is made by DBCLS.",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Acromion_of_left_scapula01.png",
+  "approved": true,
+  "reason": "Clean 3D scapula model with acromion highlighted in red"
+ },
+ "w451": {
+  "title": "Parotid gland",
+  "file": "Parotid_gland_en.png",
+  "src": "img/w451.jpg",
+  "credit": "http://www.med.mun.ca/",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Parotid_gland_en.png",
+  "approved": true,
+  "reason": "Clear labeled diagram showing parotid gland beside the ear"
+ },
+ "w455": {
+  "title": "Patella",
+  "file": "Knee_diagram.svg",
+  "src": "img/w455.jpg",
+  "credit": "Mysid",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Knee_diagram.svg",
+  "approved": true,
+  "reason": "Clear labeled knee diagram with the patella prominently shown"
+ },
+ "w459": {
+  "title": "Cerebral peduncle",
+  "file": "Gray689.png",
+  "src": "img/w459.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray689.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing with the cerebral peduncle clearly labeled and highlighted in red."
+ },
+ "w364": {
+  "title": "Masseter muscle",
+  "file": "Gray378_(masseter_highlight).png",
+  "src": "img/w364.jpg",
+  "credit": "Kevjonesin",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray378_(masseter_highlight).png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy illustration with masseter highlighted in red and labeled"
+ },
+ "w369": {
+  "title": "Maxilla",
+  "file": "Maxilla_anterior.png",
+  "src": "img/w369.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Maxilla_anterior.png",
+  "approved": true,
+  "reason": "Clear 3D skull model with maxilla highlighted in green"
+ },
+ "w472": {
+  "title": "Foot",
+  "file": "Foot_on_white_background.jpg",
+  "src": "img/w472.jpg",
+  "credit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Foot_on_white_background.jpg",
+  "approved": true,
+  "reason": "Clear isolated photo of a human foot on plain background; structure is the obvious focus."
+ },
+ "w473": {
+  "title": "Phalanx bone",
+  "file": "Scheme_human_hand_bones-en.svg",
+  "src": "img/w473.jpg",
+  "credit": "Mariana Ruiz Villarreal (LadyofHats); retouches by Nyks",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Scheme_human_hand_bones-en.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of hand bones highlighting phalanges"
+ },
+ "w474": {
+  "title": "Pharynx",
+  "file": "Illu01_head_neck.jpg",
+  "src": "img/w474.jpg",
+  "credit": "Arcadian",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu01_head_neck.jpg",
+  "approved": true,
+  "reason": "Clear labeled sagittal head diagram showing pharynx"
+ },
+ "w477": {
+  "title": "Pineal gland",
+  "file": "Pineal_gland.png",
+  "src": "img/w477.jpg",
+  "credit": "Images are generated by Life Science Databases(LSDB).",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Pineal_gland.png",
+  "approved": true,
+  "reason": "Clear 3D model highlighting the pineal gland in red; small but easy to locate"
+ },
+ "w479": {
+  "title": "Pisiform bone",
+  "file": "Right-sidedPisiform.jpg",
+  "src": "img/w479.jpg",
+  "credit": "Adrien Charpy",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Right-sidedPisiform.jpg",
+  "approved": true,
+  "reason": "Clear anatomical drawing of pisiform bone from multiple views"
+ },
+ "w231": {
+  "title": "Gastrocnemius muscle",
+  "file": "Gastrocnemius_muscle_by_Sanjoy_Sanyal_2018-06-02.webm",
+  "src": "img/w231.jpg",
+  "credit": "Dr. Sanjoy Sanyal",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gastrocnemius_muscle_by_Sanjoy_Sanyal_2018-06-02.webm",
+  "approved": false,
+  "reason": "Cluttered cadaver dissection photo; muscle hard to identify, unclear for learners"
+ },
+ "w235": {
+  "title": "Knee",
+  "file": "Human_knees.jpg",
+  "src": "img/w235.jpg",
+  "credit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_knees.jpg",
+  "approved": true,
+  "reason": "Clear close-up photo of knees; structure is the obvious focus."
+ },
+ "w236": {
+  "title": "Gingiva",
+  "file": "Blausen_0863_ToothAnatomy_02.png",
+  "src": "img/w236.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0863_ToothAnatomy_02.png",
+  "approved": true,
+  "reason": "Clear labeled tooth diagram showing gums"
+ },
+ "w238": {
+  "title": "Glans penis",
+  "file": "Glans_Penis_of_A_Human.jpg",
+  "src": "img/w238.jpg",
+  "credit": "Bebop7",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Glans_Penis_of_A_Human.jpg",
+  "approved": false,
+  "reason": "Photo of real genitals; criteria require rejection"
+ },
+ "w239": {
+  "title": "Glenoid cavity",
+  "file": "Glenoid_cavity_of_scapula01.png",
+  "src": "img/w239.jpg",
+  "credit": "Polygon data is from BodyParts3D",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Glenoid_cavity_of_scapula01.png",
+  "approved": true,
+  "reason": "Clear 3D scapula model with glenoid cavity highlighted in red"
+ },
+ "w036": {
+  "title": "Pulmonary alveolus",
+  "file": "Alveolus_diagram.svg",
+  "src": "img/w036.jpg",
+  "credit": "LadyofHats",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Alveolus_diagram.svg",
+  "approved": true,
+  "reason": "Clear labeled anatomical diagram showing alveoli and alveolar sacs"
+ },
+ "w603": {
+  "title": "Temple (anatomy)",
+  "file": "Temple_(anatomy)_(PSF).svg",
+  "src": "img/w603.jpg",
+  "credit": "Pearson Scott Foresman",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Temple_(anatomy)_(PSF).svg",
+  "approved": true,
+  "reason": "Clear line drawing marking the temple region with circle and label"
+ },
+ "w605": {
+  "title": "Tendon",
+  "file": "Tendon_-_add_-_high_mag.jpg",
+  "src": "img/w605.jpg",
+  "credit": "Nephron",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tendon_-_add_-_high_mag.jpg",
+  "approved": false,
+  "reason": "Histology micrograph of tendon tissue; doesn't show a sinew attaching muscle to bone"
+ },
+ "w608": {
+  "title": "Cerebellar tentorium",
+  "file": "Illu_tentorium.jpg",
+  "src": "img/w608.jpg",
+  "credit": "National Cancer Institute - SEER Training",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illu_tentorium.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing tentorium between cerebrum and cerebellum"
+ },
+ "w302": {
+  "title": "Suprasternal notch",
+  "file": "Gray1194.png",
+  "src": "img/w302.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1194.png",
+  "approved": true,
+  "reason": "Clear labeled anatomical drawing of front of neck with jugular notch"
+ },
+ "w306": {
+  "title": "Glenoid labrum",
+  "file": "Gray328.png",
+  "src": "img/w306.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray328.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing showing glenoid labrum (labeled glenoid lig.) rimming the glenoid fossa"
+ },
+ "w307": {
+  "title": "Bony labyrinth",
+  "file": "Right_osseous_labyrinth_svg_hariadhi.svg",
+  "src": "img/w307.jpg",
+  "credit": "Hariadhi",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Right_osseous_labyrinth_svg_hariadhi.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of the bony labyrinth"
+ },
+ "w542": {
+  "title": "Saccule",
+  "file": "Blausen_0329_EarAnatomy_InternalEar.png",
+  "src": "img/w542.jpg",
+  "credit": "BruceBlaus. When using this image in external sources it can be cited as: Blausen.com staff (2014). \"Medical gallery of ",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Blausen_0329_EarAnatomy_InternalEar.png",
+  "approved": true,
+  "reason": "Clear labeled inner ear diagram with saccule marked"
+ },
+ "w548": {
+  "title": "Sartorius muscle",
+  "file": "Sartorius.png",
+  "src": "img/w548.jpg",
+  "credit": "modified by Uwe Gille",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sartorius.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing with sartorius highlighted in red and labeled"
+ },
+ "w549": {
+  "title": "Cochlea",
+  "file": "Cochlea-crosssection.svg",
+  "src": "img/w549.jpg",
+  "credit": "Original: Oarih Vector: Fred the Oyster",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cochlea-crosssection.svg",
+  "approved": true,
+  "reason": "Clear cochlea cross-section diagram labeling scala vestibuli, media, and tympani"
+ },
+ "w550": {
+  "title": "Scaphoid bone",
+  "file": "AnteriorViewOfRightScaphoid.jpg",
+  "src": "img/w550.jpg",
+  "credit": "Adrien Charpy",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:AnteriorViewOfRightScaphoid.jpg",
+  "approved": true,
+  "reason": "Clear labeled anatomical drawing of the scaphoid bone"
+ },
+ "w082": {
+  "title": "Calcaneus",
+  "file": "Subtalar_Joint.svg",
+  "src": "img/w082.jpg",
+  "credit": "Ukendt",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Subtalar_Joint.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing calcaneus in foot"
+ },
+ "w083": {
+  "title": "Calvaria (skull)",
+  "file": "Kort-lang-skalle.gif",
+  "src": "img/w083.jpg",
+  "credit": "Julius Kollmann",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Kort-lang-skalle.gif",
+  "approved": true,
+  "reason": "Clear anatomical drawing of skullcap from above showing sutures"
+ },
+ "w087": {
+  "title": "Capitulum of the humerus",
+  "file": "Capitulumhumeri.PNG",
+  "src": "img/w087.jpg",
+  "credit": "The original uploader was Engusz at Hungarian Wikipedia.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Capitulumhumeri.PNG",
+  "approved": true,
+  "reason": "Gray's humerus drawing with arrow clearly pointing to labeled capitulum"
+ },
+ "w090": {
+  "title": "Cardia",
+  "file": "Gray1046.svg",
+  "src": "img/w090.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1046.svg",
+  "approved": true,
+  "reason": "Clear stomach diagram with cardia labeled at esophageal inlet"
+ },
+ "w372": {
+  "title": "Mediastinum",
+  "file": "Body_Cavities_Frontal_view_labeled.jpg",
+  "src": "img/w372.jpg",
+  "credit": "OpenStax",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Body_Cavities_Frontal_view_labeled.jpg",
+  "approved": true,
+  "reason": "Clear body cavity diagram; mediastinum region (a, d) shown between lungs."
+ },
+ "w378": {
+  "title": "Meninges",
+  "file": "3D_Medical_Illustration_Meninges_Details.jpg",
+  "src": "img/w378.jpg",
+  "credit": "https://www.scientificanimations.com",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:3D_Medical_Illustration_Meninges_Details.jpg",
+  "approved": true,
+  "reason": "Clear labeled diagram of meningeal layers"
+ },
+ "w379": {
+  "title": "Meniscus (anatomy)",
+  "file": "Gray349.png",
+  "src": "img/w379.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray349.png",
+  "approved": true,
+  "reason": "Clear anatomical drawing of the tibial plateau with medial and lateral menisci labeled"
+ },
+ "w571": {
+  "title": "Spleen",
+  "file": "Diagram_showing_the_position_of_the_spleen_CRUK_417.svg",
+  "src": "img/w571.jpg",
+  "credit": "Cancer Research UK uploader",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Diagram_showing_the_position_of_the_spleen_CRUK_417.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram showing spleen location near stomach"
+ },
+ "w572": {
+  "title": "Corpus callosum",
+  "file": "Gray733.png",
+  "src": "img/w572.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray733.png",
+  "approved": false,
+  "reason": "Corpus callosum shown, but splenium not labeled or easy to identify"
+ },
+ "w573": {
+  "title": "Splenius capitis muscle",
+  "file": "Musculus_splenius_capitis_marked.png",
+  "src": "img/w573.jpg",
+  "credit": "modified by Uwe Gille",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Musculus_splenius_capitis_marked.png",
+  "approved": true,
+  "reason": "Classic Gray's anatomy drawing with splenius capitis clearly highlighted in red on the neck"
+ },
+ "w575": {
+  "title": "Squamous part of temporal bone",
+  "file": "Gray144.png",
+  "src": "img/w575.jpg",
+  "credit": "Henry Vandyke Carter",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray144.png",
+  "approved": true,
+  "reason": "Clear Gray's anatomy drawing with the squama labeled and highlighted in pink"
+ },
+ "w576": {
+  "title": "Stapes",
+  "file": "Stapes_bone_svg_hariadhi.svg",
+  "src": "img/w576.jpg",
+  "credit": "Hariadhi",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stapes_bone_svg_hariadhi.svg",
+  "approved": true,
+  "reason": "Clear labeled diagram of stapes showing stirrup shape"
+ },
+ "w579": {
+  "title": "Sternum",
+  "file": "Sternum_composition.png",
+  "src": "img/w579.jpg",
+  "credit": "Anatomography",
+  "license": "CC BY-SA 2.1 jp",
+  "page": "https://commons.wikimedia.org/wiki/File:Sternum_composition.png",
+  "approved": true,
+  "reason": "Clear 3D rendering of rib cage with sternum highlighted in color (manubrium, body, xiphoid)."
+ }
+}
