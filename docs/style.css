@@ -351,7 +351,7 @@ a { color: var(--accent); }
 .lead { color: var(--muted); font-size: 15px; margin: 0; }
 .section-title { font-size: 15px; color: var(--muted); font-weight: 600; margin: 12px 0 10px; }
 .ch-grid { display: grid; gap: 10px; margin-bottom: 20px; }
-.ch-grid.letters { grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); }
+.ch-grid.numbers { grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); }
 .ch-grid.topics { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
 .ch-tile {
   display: flex;
@@ -366,9 +366,8 @@ a { color: var(--accent); }
   text-decoration: none;
 }
 .ch-tile:hover { border-color: var(--accent); }
-.ch-tile.wide { grid-column: 1 / -1; min-height: 72px; }
 .ch-tile b { font-family: var(--serif); font-size: 24px; font-weight: 600; line-height: 1.15; }
-.ch-grid.topics .ch-tile b, .ch-tile.wide b { font-family: var(--sans); font-size: 17px; }
+.ch-grid.topics .ch-tile b { font-family: var(--sans); font-size: 17px; }
 .ch-tile > span:not(.mini) { color: var(--muted); font-size: 13px; }
 .ch-tile.active { border-color: var(--learning); }
 .ch-tile.done > span:not(.mini) { color: var(--ok); }

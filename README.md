@@ -5,7 +5,7 @@ En lille webapp til at øve betydningen af ~690 latinske anatomiske termer. Den 
 - **Quiz:** latinsk ord → vælg den engelske betydning blandt 4 (eller omvendt).
 - **Forklaringskort:** dansk betydning, kort forklaring, huskeråd og billede, hvor det giver mening.
 - **Smart gentagelse:** ord man svarer forkert på, kommer hurtigt igen; ord man kan, kommer sjældnere (Leitner-bokse).
-- **Kapitler uden gentagelser:** gennemgå ét bogstav fra listen eller ét emne, hvert ord præcis én gang; appen husker, hvor man slap. Kan vælges som standard under Indstillinger.
+- **Kapitler uden gentagelser:** 28 faste, blandede kapitler à ca. 25 ord (ikke efter forbogstav, så svaret ikke afsløres) eller ét emne; hvert ord præcis én gang pr. gennemgang, og appen husker, hvor man slap. Kan vælges som standard under Indstillinger.
 - **Fremskridt:** lært / i gang / ikke set, dagens svar og antal dage i træk. Gemmes i browseren på hver enhed.
 - **Ordliste:** søg og slå op i alle ord.
 

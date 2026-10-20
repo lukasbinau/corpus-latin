@@ -6,8 +6,8 @@
  * - Smart repetition: a small Leitner system. A correct answer moves a word up
  *   one box (longer interval), a wrong answer sends it back to box 1 and repeats
  *   it a few cards later.
- * - Chapters: go through one letter or topic, every word exactly once per pass,
- *   no repeats; the position is remembered per chapter.
+ * - Chapters: go through a fixed, mixed group of ~25 words or one topic, every
+ *   word exactly once per pass, no repeats; the position is remembered per chapter.
  */
 
 const STORAGE_KEY = 'corpus.v1';
@@ -51,7 +51,7 @@ function defaultStore() {
     days: {},
     chapters: {}, // key -> { order: [ids], pos, ok, wrong: [ids], last: { ok, total } }
     lastChapter: null,
-    settings: { direction: 'la-en', pace: 'normal', mode: 'smart', order: 'shuffle' },
+    settings: { direction: 'la-en', pace: 'normal', mode: 'smart' },
     tipDismissed: false,
   };
 }
@@ -242,25 +242,38 @@ function convertToWrong(id, undo) {
 
 /* ---------- chapters ---------- */
 
-// Letter chapters follow the sections of the course list; topic chapters use the generated category.
+const CHAPTER_SIZE = 25;
+const CHAPTER_SEED = 20261020;
+
+// Deterministic shuffle (mulberry32), so a chapter holds the same words on every device and visit.
+function seededShuffle(arr, seed) {
+  let t = seed >>> 0;
+  const rnd = () => {
+    t = (t + 0x6D2B79F5) >>> 0;
+    let r = Math.imul(t ^ (t >>> 15), 1 | t);
+    r ^= r + Math.imul(r ^ (r >>> 7), 61 | r);
+    return ((r ^ (r >>> 14)) >>> 0) / 4294967296;
+  };
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(rnd() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+// Numbered chapters mix the whole alphabet: chapters by first letter would give away the
+// answer when choosing between Latin words. Topic chapters use the generated category.
 function buildChapters() {
-  const list = [{ key: 'retninger', title: 'Retninger og planer', group: 'list', ids: WORDS.filter((w) => w.directions).map((w) => w.id) }];
-  const letters = [];
-  for (const w of WORDS) {
-    if (!w.directions && w.letter.length <= 2 && !letters.includes(w.letter)) letters.push(w.letter);
+  const list = [];
+  const ids = seededShuffle(WORDS.map((w) => w.id).sort(), CHAPTER_SEED);
+  const count = Math.ceil(ids.length / CHAPTER_SIZE);
+  for (let i = 0; i < count; i++) {
+    const part = ids.slice(Math.round((i * ids.length) / count), Math.round(((i + 1) * ids.length) / count));
+    list.push({ key: `k${i + 1}`, title: String(i + 1), label: `Kapitel ${i + 1}`, group: 'mixed', ids: part });
   }
-  for (const letter of letters) {
-    list.push({
-      key: letter.toLowerCase(),
-      title: letter === 'CH' ? 'Ch' : letter,
-      group: 'list',
-      ids: WORDS.filter((w) => w.letter === letter).map((w) => w.id),
-    });
-  }
-  const byLatin = (a, b) => BY_ID.get(a).latin.localeCompare(BY_ID.get(b).latin, 'la');
   for (const [cat, title] of Object.entries(CATEGORY_DA)) {
-    const ids = WORDS.filter((w) => w.category === cat).map((w) => w.id).sort(byLatin);
-    if (ids.length) list.push({ key: `emne-${cat}`, title, group: 'topic', ids });
+    const catIds = WORDS.filter((w) => w.category === cat).map((w) => w.id);
+    if (catIds.length) list.push({ key: `emne-${cat}`, title, label: title, group: 'topic', ids: catIds });
   }
   return list;
 }
@@ -285,13 +298,12 @@ function startChapter(key, { restart = false } = {}) {
   if (!ch) return renderChapters();
   let st = chapterState(key);
   if (!st || restart || st.pos >= st.order.length) {
-    const order = store.settings.order === 'list' ? ch.ids.slice() : shuffle(ch.ids.slice());
-    st = store.chapters[key] = { order, pos: 0, ok: 0, wrong: [], last: st ? st.last : null };
+    st = store.chapters[key] = { order: shuffle(ch.ids.slice()), pos: 0, ok: 0, wrong: [], last: st ? st.last : null };
   }
   store.lastChapter = key;
   saveStore();
   session = newSession('chapter');
-  Object.assign(session, { chapter: key, title: ch.title, ids: st.order, pos: st.pos });
+  Object.assign(session, { chapter: key, title: ch.label, ids: st.order, pos: st.pos });
   nextQuestion();
 }
 
@@ -419,7 +431,7 @@ function homeButtons() {
   const ch = store.lastChapter && CH_BY_KEY.get(store.lastChapter);
   const st = ch && chapterState(ch.key);
   if (st && st.pos < st.order.length) {
-    return `<a class="btn primary" href="#/kapitel/${ch.key}">Fortsæt kapitel ${esc(ch.title)} · ${st.pos} af ${st.order.length}</a>
+    return `<a class="btn primary" href="#/kapitel/${ch.key}">Fortsæt: ${esc(ch.label)} · ${st.pos} af ${st.order.length}</a>
       <a class="btn" href="#/kapitler">Vælg et andet kapitel</a>`;
   }
   return '<a class="btn primary" href="#/kapitler">Vælg kapitel</a>';
@@ -453,7 +465,7 @@ function quizTop() {
   if (s.mode === 'chapter') {
     const total = s.ids.length;
     const at = Math.min(total, s.current && !s.current.answered ? s.pos + 1 : s.pos);
-    title = `<span class="score">${s.chapter ? 'Kapitel ' : ''}<b>${esc(s.title)}</b> · ${at} af ${total}</span>`;
+    title = `<span class="score"><b>${esc(s.title)}</b> · ${at} af ${total}</span>`;
     bar = `<div class="bar thin" aria-hidden="true"><span class="learned" style="width:${(100 * s.pos / total).toFixed(2)}%"></span></div>`;
   }
   return `<div class="quiz-head">${topBar({
@@ -587,49 +599,37 @@ function renderChapterDone() {
   app.innerHTML = `
     ${quizTop()}
     <section class="card done-card">
-      <h2>Kapitel ${esc(ch.title)} er gennemgået</h2>
+      <h2>${esc(ch.label)} er gennemgået</h2>
       <p>${st.ok} af ${st.order.length} rigtige.</p>
       <div class="stack">
         ${wrong.length ? `<button class="btn primary" data-act="wrong">Øv de ${wrong.length} forkerte én gang til</button>` : ''}
-        ${next ? `<a class="btn ${wrong.length ? '' : 'primary'}" href="#/kapitel/${next.key}">Næste kapitel: ${esc(next.title)}</a>` : ''}
+        ${next ? `<a class="btn ${wrong.length ? '' : 'primary'}" href="#/kapitel/${next.key}">Næste: ${esc(next.label)}</a>` : ''}
         <button class="btn" data-act="again">Tag kapitlet forfra</button>
         <a class="btn" href="#/kapitler">Alle kapitler</a>
       </div>
     </section>`;
   const w = app.querySelector('[data-act="wrong"]');
-  if (w) w.onclick = () => startWrongOnes(wrong, `${ch.title}: forkerte`);
+  if (w) w.onclick = () => startWrongOnes(wrong, `${ch.label}: forkerte`);
   app.querySelector('[data-act="again"]').onclick = () => startChapter(ch.key, { restart: true });
 }
 
 function renderChapters() {
   session = null;
-  const tile = (ch, cls = '') => {
+  const tile = (ch) => {
     const p = chapterProgress(ch);
-    return `<a class="ch-tile ${cls} ${p.state}" href="#/kapitel/${ch.key}">
+    return `<a class="ch-tile ${p.state}" href="#/kapitel/${ch.key}">
       <b>${esc(ch.title)}</b><span>${p.text}</span>
       <span class="mini"><i style="width:${(100 * p.frac).toFixed(1)}%"></i></span></a>`;
   };
-  const listCh = CHAPTERS.filter((c) => c.group === 'list');
-  const topicCh = CHAPTERS.filter((c) => c.group === 'topic');
-  const order = store.settings.order;
+  const mixed = CHAPTERS.filter((c) => c.group === 'mixed');
+  const topics = CHAPTERS.filter((c) => c.group === 'topic');
   app.innerHTML = `
     ${topBar({ left: backBtn(), title: 'Kapitler' })}
-    <p class="lead">Hvert ord kommer én gang pr. gennemgang – ingen gentagelser. Du fortsætter, hvor du slap.</p>
-    <div class="chips" role="group" aria-label="Rækkefølge">
-      <button class="chip" data-order="shuffle" aria-pressed="${order !== 'list'}">Blandet rækkefølge</button>
-      <button class="chip" data-order="list" aria-pressed="${order === 'list'}">Som i listen</button>
-    </div>
-    <h2 class="section-title">Som i jeres ordliste</h2>
-    <div class="ch-grid letters">${tile(listCh[0], 'wide')}${listCh.slice(1).map((c) => tile(c)).join('')}</div>
+    <p class="lead">Hvert ord kommer én gang pr. gennemgang i tilfældig rækkefølge – ingen gentagelser. Du fortsætter, hvor du slap.</p>
+    <h2 class="section-title">Blandede kapitler · ca. ${CHAPTER_SIZE} ord hver</h2>
+    <div class="ch-grid numbers">${mixed.map(tile).join('')}</div>
     <h2 class="section-title">Efter emne</h2>
-    <div class="ch-grid topics">${topicCh.map((c) => tile(c)).join('')}</div>`;
-  app.querySelectorAll('[data-order]').forEach((b) => {
-    b.onclick = () => {
-      store.settings.order = b.dataset.order;
-      saveStore();
-      app.querySelectorAll('[data-order]').forEach((x) => x.setAttribute('aria-pressed', x === b));
-    };
-  });
+    <div class="ch-grid topics">${topics.map(tile).join('')}</div>`;
 }
 
 /* ---------- word list ---------- */
@@ -703,7 +703,7 @@ function renderSettings() {
       <h2>Måde at øve på</h2>
       <div class="seg">
         ${radio('mode', 'smart', 'Smart gentagelse', 'Ord du svarer forkert på, kommer igen. Nye ord blandes løbende ind.')}
-        ${radio('mode', 'chapters', 'Kapitler uden gentagelser', 'Vælg et bogstav eller emne. Hvert ord kommer én gang, og du fortsætter, hvor du slap.')}
+        ${radio('mode', 'chapters', 'Kapitler uden gentagelser', 'Vælg et kapitel eller emne. Hvert ord kommer én gang, og du fortsætter, hvor du slap.')}
       </div>
     </section>
     <section class="group">
@@ -785,6 +785,11 @@ async function init() {
   WORDS.forEach((w) => BY_ID.set(w.id, w));
   CHAPTERS = buildChapters();
   CHAPTERS.forEach((c) => CH_BY_KEY.set(c.key, c));
+  // Drop saved positions of chapters that no longer exist (the old letter chapters).
+  for (const key of Object.keys(store.chapters)) if (!CH_BY_KEY.has(key)) delete store.chapters[key];
+  if (store.lastChapter && !CH_BY_KEY.has(store.lastChapter)) store.lastChapter = null;
+  delete store.settings.order;
+  saveStore();
   window.addEventListener('hashchange', route);
   route();
   if ('serviceWorker' in navigator && location.protocol === 'https:') {

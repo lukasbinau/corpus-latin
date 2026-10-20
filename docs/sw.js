@@ -1,6 +1,6 @@
 // Offline support: serve from cache first, refresh the cache in the background.
 // Bump CACHE when deploying so old files are dropped.
-const CACHE = 'corpus-v2';
+const CACHE = 'corpus-v3';
 const SHELL = [
   './', 'index.html', 'style.css', 'app.js', 'data/words.json', 'manifest.webmanifest',
   'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png',
