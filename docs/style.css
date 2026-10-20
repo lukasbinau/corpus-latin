@@ -344,6 +344,38 @@ a { color: var(--accent); }
 .row .e { color: var(--muted); font-size: 15px; flex: 1 1 55%; min-width: 0; text-align: right; }
 .word-list .details { padding: 4px 4px 20px 26px; }
 
+/* ---------- chapters ---------- */
+.quiz-head { margin-bottom: 16px; }
+.quiz-head .top { margin-bottom: 0; }
+.bar.thin { height: 4px; margin-top: 4px; }
+.lead { color: var(--muted); font-size: 15px; margin: 0; }
+.section-title { font-size: 15px; color: var(--muted); font-weight: 600; margin: 12px 0 10px; }
+.ch-grid { display: grid; gap: 10px; margin-bottom: 20px; }
+.ch-grid.letters { grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); }
+.ch-grid.topics { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.ch-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 84px;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1.5px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  text-decoration: none;
+}
+.ch-tile:hover { border-color: var(--accent); }
+.ch-tile.wide { grid-column: 1 / -1; min-height: 72px; }
+.ch-tile b { font-family: var(--serif); font-size: 24px; font-weight: 600; line-height: 1.15; }
+.ch-grid.topics .ch-tile b, .ch-tile.wide b { font-family: var(--sans); font-size: 17px; }
+.ch-tile > span:not(.mini) { color: var(--muted); font-size: 13px; }
+.ch-tile.active { border-color: var(--learning); }
+.ch-tile.done > span:not(.mini) { color: var(--ok); }
+.ch-tile .mini { display: block; margin-top: auto; height: 4px; border-radius: 999px; background: var(--unseen); overflow: hidden; }
+.ch-tile .mini i { display: block; height: 100%; background: var(--learned); }
+.ch-tile.active .mini i { background: var(--learning); }
+
 /* ---------- settings ---------- */
 .group { margin: 0 0 24px; }
 .group h2 { font-size: 15px; color: var(--muted); font-weight: 600; margin: 0 0 8px; }

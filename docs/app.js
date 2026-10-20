@@ -2,9 +2,12 @@
 
 /* Corpus – practise Latin anatomical terms.
  *
- * Progress lives in localStorage on each device. Scheduling is a small
- * Leitner system: a correct answer moves a word up one box (longer interval),
- * a wrong answer sends it back to box 1 and repeats it a few cards later.
+ * Progress lives in localStorage on each device. Two ways to practise:
+ * - Smart repetition: a small Leitner system. A correct answer moves a word up
+ *   one box (longer interval), a wrong answer sends it back to box 1 and repeats
+ *   it a few cards later.
+ * - Chapters: go through one letter or topic, every word exactly once per pass,
+ *   no repeats; the position is remembered per chapter.
  */
 
 const STORAGE_KEY = 'corpus.v1';
@@ -33,6 +36,8 @@ const ICONS = {
 
 let WORDS = [];
 const BY_ID = new Map();
+let CHAPTERS = [];
+const CH_BY_KEY = new Map();
 let store = loadStore();
 let session = null;
 const app = document.getElementById('app');
@@ -40,7 +45,15 @@ const app = document.getElementById('app');
 /* ---------- storage ---------- */
 
 function defaultStore() {
-  return { v: 1, words: {}, days: {}, settings: { direction: 'la-en', pace: 'normal' }, tipDismissed: false };
+  return {
+    v: 1,
+    words: {},
+    days: {},
+    chapters: {}, // key -> { order: [ids], pos, ok, wrong: [ids], last: { ok, total } }
+    lastChapter: null,
+    settings: { direction: 'la-en', pace: 'normal', mode: 'smart', order: 'shuffle' },
+    tipDismissed: false,
+  };
 }
 
 function loadStore() {
@@ -119,6 +132,7 @@ function pickFromTop(list, n) {
 
 function nextWordId() {
   const s = session;
+  if (s.mode === 'chapter') return s.pos < s.ids.length ? s.ids[s.pos] : null;
   const now = Date.now();
   const recent = new Set(s.recent.slice(-2));
   s.queue.sort((a, b) => a.at - b.at);
@@ -180,18 +194,20 @@ function recordAnswer(id, correct) {
   const prev = store.words[id] ? { ...store.words[id] } : null;
   const x = store.words[id] || (store.words[id] = { b: 0, due: 0, n: 0, ok: 0, bad: 0, last: 0 });
   const wasNew = !x.n;
+  // Chapters never repeat a word; the answer still counts towards the progress overview.
+  const repeat = session.mode !== 'chapter';
   x.n++;
   x.last = now;
   if (correct) {
     x.ok++;
     x.b = Math.min(x.b + 1, INTERVALS.length - 1);
     x.due = now + INTERVALS[x.b];
-    if (x.b === 1) enqueue(id, 7 + randInt(5)); // first time right: check again later today
+    if (repeat && x.b === 1) enqueue(id, 7 + randInt(5)); // first time right: check again later today
   } else {
     x.bad++;
     x.b = 1;
     x.due = now + MIN;
-    enqueue(id, 3 + randInt(3));
+    if (repeat) enqueue(id, 3 + randInt(3));
     if (session.mode === 'hard') session.doneHard.delete(id);
   }
   // In "hard words" mode one correct answer is enough for today; spacing does the rest.
@@ -222,6 +238,87 @@ function convertToWrong(id, undo) {
     if (undo.wasNew) day.nw--;
   }
   recordAnswer(id, false);
+}
+
+/* ---------- chapters ---------- */
+
+// Letter chapters follow the sections of the course list; topic chapters use the generated category.
+function buildChapters() {
+  const list = [{ key: 'retninger', title: 'Retninger og planer', group: 'list', ids: WORDS.filter((w) => w.directions).map((w) => w.id) }];
+  const letters = [];
+  for (const w of WORDS) {
+    if (!w.directions && w.letter.length <= 2 && !letters.includes(w.letter)) letters.push(w.letter);
+  }
+  for (const letter of letters) {
+    list.push({
+      key: letter.toLowerCase(),
+      title: letter === 'CH' ? 'Ch' : letter,
+      group: 'list',
+      ids: WORDS.filter((w) => w.letter === letter).map((w) => w.id),
+    });
+  }
+  const byLatin = (a, b) => BY_ID.get(a).latin.localeCompare(BY_ID.get(b).latin, 'la');
+  for (const [cat, title] of Object.entries(CATEGORY_DA)) {
+    const ids = WORDS.filter((w) => w.category === cat).map((w) => w.id).sort(byLatin);
+    if (ids.length) list.push({ key: `emne-${cat}`, title, group: 'topic', ids });
+  }
+  return list;
+}
+
+function chapterState(key) {
+  const st = store.chapters[key];
+  if (st) st.order = st.order.filter((id) => BY_ID.has(id)); // in case the word list changes
+  return st;
+}
+
+function chapterProgress(ch) {
+  const st = chapterState(ch.key);
+  if (st && st.pos > 0 && st.pos < st.order.length) {
+    return { text: `${st.pos} af ${st.order.length}`, frac: st.pos / st.order.length, state: 'active' };
+  }
+  if (st && st.last) return { text: `✓ ${st.last.ok} af ${st.last.total}`, frac: 1, state: 'done' };
+  return { text: `${ch.ids.length} ord`, frac: 0, state: '' };
+}
+
+function startChapter(key, { restart = false } = {}) {
+  const ch = CH_BY_KEY.get(key);
+  if (!ch) return renderChapters();
+  let st = chapterState(key);
+  if (!st || restart || st.pos >= st.order.length) {
+    const order = store.settings.order === 'list' ? ch.ids.slice() : shuffle(ch.ids.slice());
+    st = store.chapters[key] = { order, pos: 0, ok: 0, wrong: [], last: st ? st.last : null };
+  }
+  store.lastChapter = key;
+  saveStore();
+  session = newSession('chapter');
+  Object.assign(session, { chapter: key, title: ch.title, ids: st.order, pos: st.pos });
+  nextQuestion();
+}
+
+// Go once through the words answered wrong in a chapter pass (not saved as a chapter).
+function startWrongOnes(ids, title) {
+  session = newSession('chapter');
+  Object.assign(session, { chapter: null, title, ids: shuffle(ids.slice()), pos: 0 });
+  nextQuestion();
+}
+
+function chapterAnswered(id, correct) {
+  session.pos++;
+  const st = session.chapter && store.chapters[session.chapter];
+  if (!st) return;
+  st.pos = session.pos;
+  if (correct) st.ok++; else st.wrong.push(id);
+  if (st.pos >= st.order.length) st.last = { ok: st.ok, total: st.order.length };
+  saveStore();
+}
+
+function chapterGuessed(id) {
+  const st = session.chapter && store.chapters[session.chapter];
+  if (!st) return;
+  st.ok--;
+  st.wrong.push(id);
+  if (st.last && st.pos >= st.order.length) st.last.ok = st.ok;
+  saveStore();
 }
 
 /* ---------- answer options ---------- */
@@ -303,20 +400,38 @@ function renderHome() {
       <span class="pill"><b>${st}</b> ${st === 1 ? 'dag' : 'dage'} i træk</span>
     </div>
     <div class="stack">
-      <a class="btn primary" href="#/oev">Start øvelse</a>
+      ${homeButtons()}
       <a class="btn" href="#/svaere" ${c.hard ? '' : 'aria-disabled="true" onclick="return false" style="opacity:.5;cursor:default"'}>Øv svære ord <span class="count">${c.hard}</span></a>
       <a class="btn" href="#/ordliste">Ordliste</a>
     </div>
-    <p class="hint">${c.due ? `${c.due} ord er klar til repetition` : c.new === total ? 'Øv så længe du har lyst – appen husker, hvor du er nået til.' : 'Ingen ord venter på repetition lige nu – du kan altid øve videre.'}</p>
+    <p class="hint">${store.settings.mode === 'chapters' ? 'Kapitler: hvert ord kommer én gang – ingen gentagelser.' : c.due ? `${c.due} ord er klar til repetition` : c.new === total ? 'Øv så længe du har lyst – appen husker, hvor du er nået til.' : 'Ingen ord venter på repetition lige nu – du kan altid øve videre.'}</p>
     ${showTip ? `<div class="install-tip"><p>${ios ? 'Tip: Tryk på <b>Del</b> og vælg <b>Føj til hjemmeskærm</b>' : 'Tip: Åbn browserens menu og vælg <b>Installer app</b> eller <b>Føj til startskærm</b>'}, så Corpus åbner som en app og dit fremskridt bliver gemt sikkert.</p><button aria-label="Luk tip" data-act="dismiss-tip">×</button></div>` : ''}
   `;
   const tipBtn = app.querySelector('[data-act="dismiss-tip"]');
   if (tipBtn) tipBtn.onclick = () => { store.tipDismissed = true; saveStore(); renderHome(); };
 }
 
-function startSession(mode) {
-  session = { mode, answered: 0, correct: 0, queue: [], recent: [], doneHard: new Set(), current: null };
+// The big button follows the practice mode chosen in settings; the other mode stays one tap away.
+function homeButtons() {
+  if (store.settings.mode !== 'chapters') {
+    return '<a class="btn primary" href="#/oev">Start øvelse</a><a class="btn" href="#/kapitler">Kapitler</a>';
+  }
+  const ch = store.lastChapter && CH_BY_KEY.get(store.lastChapter);
+  const st = ch && chapterState(ch.key);
+  if (st && st.pos < st.order.length) {
+    return `<a class="btn primary" href="#/kapitel/${ch.key}">Fortsæt kapitel ${esc(ch.title)} · ${st.pos} af ${st.order.length}</a>
+      <a class="btn" href="#/kapitler">Vælg et andet kapitel</a>`;
+  }
+  return '<a class="btn primary" href="#/kapitler">Vælg kapitel</a>';
+}
+
+function newSession(mode) {
   try { navigator.storage && navigator.storage.persist && navigator.storage.persist(); } catch { /* ignore */ }
+  return { mode, answered: 0, correct: 0, queue: [], recent: [], doneHard: new Set(), current: null };
+}
+
+function startSession(mode) {
+  session = newSession(mode);
   nextQuestion();
 }
 
@@ -333,11 +448,24 @@ function nextQuestion() {
 
 function quizTop() {
   const s = session;
-  return topBar({
+  let title = `<span class="score"><b>${s.correct}</b> af <b>${s.answered}</b> rigtige</span>`;
+  let bar = '';
+  if (s.mode === 'chapter') {
+    const total = s.ids.length;
+    const at = Math.min(total, s.current && !s.current.answered ? s.pos + 1 : s.pos);
+    title = `<span class="score">${s.chapter ? 'Kapitel ' : ''}<b>${esc(s.title)}</b> · ${at} af ${total}</span>`;
+    bar = `<div class="bar thin" aria-hidden="true"><span class="learned" style="width:${(100 * s.pos / total).toFixed(2)}%"></span></div>`;
+  }
+  return `<div class="quiz-head">${topBar({
     cls: 'quiz-top',
-    left: `<a class="icon-btn" href="#/" aria-label="Afslut øvelse">${ICONS.close}</a>`,
-    title: `<span class="score"><b>${s.correct}</b> af <b>${s.answered}</b> rigtige</span>`,
-  });
+    left: `<a class="icon-btn" href="${s.mode === 'chapter' ? '#/kapitler' : '#/'}" aria-label="Afslut øvelse">${ICONS.close}</a>`,
+    title,
+  })}${bar}</div>`;
+}
+
+function refreshQuizTop() {
+  const head = app.querySelector('.quiz-head');
+  if (head) head.outerHTML = quizTop();
 }
 
 function renderQuestion() {
@@ -373,6 +501,7 @@ function choose(chosenId) {
   cur.undo = recordAnswer(cur.id, correct);
   cur.correct = correct;
   cur.chosenId = chosenId;
+  if (session.mode === 'chapter') chapterAnswered(cur.id, correct);
 
   app.querySelectorAll('.option').forEach((b) => {
     b.disabled = true;
@@ -380,7 +509,7 @@ function choose(chosenId) {
     else if (b.dataset.id === chosenId) b.classList.add('wrong');
     else b.classList.add('dim');
   });
-  app.querySelector('.score').innerHTML = `<b>${session.correct}</b> af <b>${session.answered}</b> rigtige`;
+  refreshQuizTop();
   renderFeedback(w);
 }
 
@@ -394,23 +523,28 @@ function renderFeedback(w) {
       ? `<p class="chosen">Du valgte „${esc(o.english)}“ – det er <i>${esc(o.latin)}</i>.</p>`
       : `<p class="chosen">Du valgte <i>${esc(o.latin)}</i> – det betyder „${esc(o.english)}“.</p>`;
   }
+  const chapter = session.mode === 'chapter';
   const fb = document.getElementById('feedback');
   fb.innerHTML = `
     <section class="card feedback">
       <p class="verdict ${cur.correct ? 'ok' : 'bad'}">${cur.correct ? ICONS.check + 'Rigtigt!' : ICONS.cross + 'Ikke helt'}</p>
       ${chosen}
-      ${cur.correct && !cur.converted ? '<button class="guess-link" data-act="guessed">Jeg gættede – vis ordet igen snart</button>' : ''}
+      ${cur.correct && !cur.converted ? `<button class="guess-link" data-act="guessed">${chapter ? 'Jeg gættede – tæl det som forkert' : 'Jeg gættede – vis ordet igen snart'}</button>` : ''}
       ${detailsHTML(w)}
     </section>
-    <div class="next-bar"><button class="btn primary" data-act="next">Næste</button></div>
+    <div class="next-bar"><button class="btn primary" data-act="next">${chapter && session.pos >= session.ids.length ? 'Afslut kapitel' : 'Næste'}</button></div>
   `;
   fb.querySelector('[data-act="next"]').onclick = nextQuestion;
   const g = fb.querySelector('[data-act="guessed"]');
   if (g) g.onclick = () => {
     convertToWrong(cur.id, cur.undo);
+    if (chapter) chapterGuessed(cur.id);
     cur.converted = true;
-    app.querySelector('.score').innerHTML = `<b>${session.correct}</b> af <b>${session.answered}</b> rigtige`;
-    g.replaceWith(Object.assign(document.createElement('p'), { className: 'chosen', textContent: 'Okay – ordet kommer igen om lidt.' }));
+    refreshQuizTop();
+    g.replaceWith(Object.assign(document.createElement('p'), {
+      className: 'chosen',
+      textContent: chapter ? 'Okay – det tæller som forkert.' : 'Okay – ordet kommer igen om lidt.',
+    }));
   };
   if (matchMedia('(pointer: fine)').matches) fb.querySelector('[data-act="next"]').focus({ preventScroll: true });
   // On small screens the explanation starts below the fold: bring it up.
@@ -423,6 +557,7 @@ function renderFeedback(w) {
 
 function renderSessionDone() {
   const s = session;
+  if (s.mode === 'chapter') return renderChapterDone();
   app.innerHTML = `
     ${quizTop()}
     <section class="card done-card">
@@ -430,6 +565,71 @@ function renderSessionDone() {
       <p>${s.mode === 'hard' ? 'Du har svaret rigtigt på alle dine svære ord. De kommer igen til repetition senere.' : 'Der er ikke flere ord at øve lige nu.'}</p>
       <a class="btn primary" href="#/">Til forsiden</a>
     </section>`;
+}
+
+function renderChapterDone() {
+  const s = session;
+  const ch = s.chapter && CH_BY_KEY.get(s.chapter);
+  if (!ch) { // the "wrong ones" round
+    app.innerHTML = `
+      ${quizTop()}
+      <section class="card done-card">
+        <h2>Færdig</h2>
+        <p>${s.correct} af ${s.ids.length} rigtige denne gang.</p>
+        <div class="stack"><a class="btn primary" href="#/kapitler">Til kapitlerne</a></div>
+      </section>`;
+    return;
+  }
+  const st = chapterState(ch.key);
+  const wrong = [...new Set(st.wrong)];
+  const siblings = CHAPTERS.filter((c) => c.group === ch.group);
+  const next = siblings[siblings.indexOf(ch) + 1];
+  app.innerHTML = `
+    ${quizTop()}
+    <section class="card done-card">
+      <h2>Kapitel ${esc(ch.title)} er gennemgået</h2>
+      <p>${st.ok} af ${st.order.length} rigtige.</p>
+      <div class="stack">
+        ${wrong.length ? `<button class="btn primary" data-act="wrong">Øv de ${wrong.length} forkerte én gang til</button>` : ''}
+        ${next ? `<a class="btn ${wrong.length ? '' : 'primary'}" href="#/kapitel/${next.key}">Næste kapitel: ${esc(next.title)}</a>` : ''}
+        <button class="btn" data-act="again">Tag kapitlet forfra</button>
+        <a class="btn" href="#/kapitler">Alle kapitler</a>
+      </div>
+    </section>`;
+  const w = app.querySelector('[data-act="wrong"]');
+  if (w) w.onclick = () => startWrongOnes(wrong, `${ch.title}: forkerte`);
+  app.querySelector('[data-act="again"]').onclick = () => startChapter(ch.key, { restart: true });
+}
+
+function renderChapters() {
+  session = null;
+  const tile = (ch, cls = '') => {
+    const p = chapterProgress(ch);
+    return `<a class="ch-tile ${cls} ${p.state}" href="#/kapitel/${ch.key}">
+      <b>${esc(ch.title)}</b><span>${p.text}</span>
+      <span class="mini"><i style="width:${(100 * p.frac).toFixed(1)}%"></i></span></a>`;
+  };
+  const listCh = CHAPTERS.filter((c) => c.group === 'list');
+  const topicCh = CHAPTERS.filter((c) => c.group === 'topic');
+  const order = store.settings.order;
+  app.innerHTML = `
+    ${topBar({ left: backBtn(), title: 'Kapitler' })}
+    <p class="lead">Hvert ord kommer én gang pr. gennemgang – ingen gentagelser. Du fortsætter, hvor du slap.</p>
+    <div class="chips" role="group" aria-label="Rækkefølge">
+      <button class="chip" data-order="shuffle" aria-pressed="${order !== 'list'}">Blandet rækkefølge</button>
+      <button class="chip" data-order="list" aria-pressed="${order === 'list'}">Som i listen</button>
+    </div>
+    <h2 class="section-title">Som i jeres ordliste</h2>
+    <div class="ch-grid letters">${tile(listCh[0], 'wide')}${listCh.slice(1).map((c) => tile(c)).join('')}</div>
+    <h2 class="section-title">Efter emne</h2>
+    <div class="ch-grid topics">${topicCh.map((c) => tile(c)).join('')}</div>`;
+  app.querySelectorAll('[data-order]').forEach((b) => {
+    b.onclick = () => {
+      store.settings.order = b.dataset.order;
+      saveStore();
+      app.querySelectorAll('[data-order]').forEach((x) => x.setAttribute('aria-pressed', x === b));
+    };
+  });
 }
 
 /* ---------- word list ---------- */
@@ -500,6 +700,13 @@ function renderSettings() {
   app.innerHTML = `
     ${topBar({ left: backBtn(), title: 'Indstillinger' })}
     <section class="group">
+      <h2>Måde at øve på</h2>
+      <div class="seg">
+        ${radio('mode', 'smart', 'Smart gentagelse', 'Ord du svarer forkert på, kommer igen. Nye ord blandes løbende ind.')}
+        ${radio('mode', 'chapters', 'Kapitler uden gentagelser', 'Vælg et bogstav eller emne. Hvert ord kommer én gang, og du fortsætter, hvor du slap.')}
+      </div>
+    </section>
+    <section class="group">
       <h2>Retning</h2>
       <div class="seg">
         ${radio('direction', 'la-en', 'Latin → engelsk', 'Se det latinske ord, vælg betydningen')}
@@ -508,7 +715,7 @@ function renderSettings() {
       </div>
     </section>
     <section class="group">
-      <h2>Tempo for nye ord</h2>
+      <h2>Tempo for nye ord (smart gentagelse)</h2>
       <div class="seg">
         ${radio('pace', 'calm', 'Roligt', 'Højst 5 nye ord i spil ad gangen')}
         ${radio('pace', 'normal', 'Normalt', 'Højst 8 nye ord i spil ad gangen')}
@@ -529,7 +736,7 @@ function renderSettings() {
   });
   app.querySelector('[data-act="reset"]').onclick = () => {
     if (confirm('Vil du slette alt dit fremskridt på denne enhed? Det kan ikke fortrydes.')) {
-      store = { ...defaultStore(), settings: store.settings, tipDismissed: store.tipDismissed };
+      store = { ...defaultStore(), settings: store.settings, tipDismissed: store.tipDismissed }; // also clears chapter positions
       saveStore();
       location.hash = '#/';
     }
@@ -542,6 +749,8 @@ function route() {
   const h = location.hash.replace(/^#\/?/, '');
   if (h === 'oev') startSession('smart');
   else if (h === 'svaere') startSession('hard');
+  else if (h === 'kapitler') renderChapters();
+  else if (h.startsWith('kapitel/')) startChapter(decodeURIComponent(h.slice('kapitel/'.length)));
   else if (h === 'ordliste') renderList();
   else if (h === 'indstillinger') renderSettings();
   else renderHome();
@@ -555,10 +764,13 @@ document.addEventListener('keydown', (e) => {
     const o = cur.options[Number(e.key) - 1];
     if (o) choose(o.id);
   } else if (cur.answered && (e.key === 'Enter' || e.key === ' ')) {
+    // Only while the "Næste" button is showing, and never instead of another focused button.
+    const next = app.querySelector('[data-act="next"]');
+    if (!next || (e.target.closest && e.target.closest('a, button') && e.target !== next)) return;
     e.preventDefault();
     nextQuestion();
   } else if (e.key === 'Escape') {
-    location.hash = '#/';
+    location.hash = session.mode === 'chapter' ? '#/kapitler' : '#/';
   }
 });
 
@@ -571,9 +783,20 @@ async function init() {
     return;
   }
   WORDS.forEach((w) => BY_ID.set(w.id, w));
+  CHAPTERS = buildChapters();
+  CHAPTERS.forEach((c) => CH_BY_KEY.set(c.key, c));
   window.addEventListener('hashchange', route);
   route();
   if ('serviceWorker' in navigator && location.protocol === 'https:') {
+    // When a new version is deployed, the new service worker takes over right after
+    // the app opens; reload once so she gets the new version straight away.
+    const hadController = !!navigator.serviceWorker.controller;
+    let reloading = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!hadController || reloading) return;
+      reloading = true;
+      location.reload();
+    });
     navigator.serviceWorker.register('sw.js').catch(() => {});
   }
 }
